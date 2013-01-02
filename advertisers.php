@@ -18,7 +18,7 @@
   <link href="styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
-<script type="text/javascript">
+  <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-36983377-1']);
@@ -30,7 +30,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
+  </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="js/jquery.lavalamp.min.js"></script>
 
@@ -81,35 +81,35 @@
       <div class="logo"><a href="http://safemapcozumel.com/">home</a></div>
     </div>
     <div class="menu-container">
-       <div class="nav">
-                 <ul id="main_menu">
-                    <li><a href="http://safemapcozumel.com/" id="home"> Home</a></li>
-                    <li><a href="issues.php">Issues</a></li>
-                    <li class="current"><a href="advertisers.php">Advertisers</a>
-                        <ul>
-                            <li><a href="restaurants/">Restaurants</a></li>
-                            <li><a href="health/">Health</a></li>
-                            <li><a href="agency/">Agency</a></li>
-                            <li><a href="activities/">Activities</a></li>
-                            <li><a href="art/">Art</a></li>
+     <div class="nav">
+       <ul id="main_menu">
+        <li><a href="http://safemapcozumel.com/" id="home"> Home</a></li>
+        <li><a href="issues.php">Issues</a></li>
+        <li class="current"><a href="advertisers.php">Advertisers</a>
+          <ul>
+            <li><a href="restaurants/">Restaurants</a></li>
+            <li><a href="health/">Health</a></li>
+            <li><a href="agency/">Agency</a></li>
+            <li><a href="activities/">Activities</a></li>
+            <li><a href="art/">Art</a></li>
 
-                        </ul>
-                    </li>
-                    <li><a href="about_safemap.php">About Us</a></li>
-                    <li><a href="faqs.php">Faq's</a></li>
-                    <li><a href="tourist_information.php" >Tourist Information</a>
-                       <ul>
-                        <li><a href="about_cozumel.php">About Cozumel</a></li>
-                        <li><a href="where-to-stay.php">Where to Stay</a></li>
-                        <li><a href="things-to-do.php">Things to Do</a></li>
-                        <li><a href="how-to-get.php">How to Get</a></li>
-                    </ul>
-                </li>
-                <li><a href="contact.php">Contact</a></li>
-                <li><a href="hiring.php">New Ads</a></li>
-            </ul>
-        </div>
-      <!-- end nav -->
+          </ul>
+        </li>
+        <li><a href="about_safemap.php">About Us</a></li>
+        <li><a href="faqs.php">Faq's</a></li>
+        <li><a href="tourist_information.php" >Tourist Information</a>
+         <ul>
+          <li><a href="about_cozumel.php">About Cozumel</a></li>
+          <li><a href="where-to-stay.php">Where to Stay</a></li>
+          <li><a href="things-to-do.php">Things to Do</a></li>
+          <li><a href="how-to-get.php">How to Get</a></li>
+        </ul>
+      </li>
+      <li><a href="contact.php">Contact</a></li>
+      <li><a href="hiring.php">New Ads</a></li>
+    </ul>
+  </div>
+  <!-- end nav -->
 </div><!-- end menu-container -->
 </div><!-- end wrap -->
 </div>
@@ -144,6 +144,7 @@
      <li><a href="restaurants/r_kellys.php"><img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="restaurants/r_ohana.php"><img src="http://www.safemapcozumel.com/images/anunciantes/ohana/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="restaurants/r_punta-morena.php"><img src="http://www.safemapcozumel.com/images/anunciantes/puntamorena/anuncioBig.jpg"  alt="" /></a></li>
+     <li><a href="http://safemapcozumel.com/restaurants/r_lobsteria.php"><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/anuncioBig.jpg"  alt="" /></a></li>
    </ul>
    <br />
    <h3>Health</h3><br />
@@ -154,6 +155,7 @@
   <h3>Agency</h3><br />
   <ul class="bxslider">
     <li><a href="agency/gecko.php"><img src="http://www.safemapcozumel.com/images/anunciantes/geckocreativo/anunciobig.jpg"  alt="" /></a></li>
+    <li><a href="http://safemapcozumel.com/agency/cozumel-capital.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cozumelcapital/anuncioBig.jpg"  alt="" /></a></li>
   </ul>
   <br />
   <h3>Activities</h3><br />
@@ -162,6 +164,7 @@
     <li><a href="activities/activities-pirate-ship.php"><img src="http://www.safemapcozumel.com/images/anunciantes/pirate/anuncioBig.jpg"  alt="" /></a></li>
     <li><a href="activities/fishing-charter.php"><img src="http://www.safemapcozumel.com/images/anunciantes/fishingcharter/anuncioBig.jpg"  alt="" /></a></li>
     <li><a href="activities/visiting-cozumel.php"><img src="http://www.safemapcozumel.com/images/anunciantes/visitingcozumel/anuncioBig.jpg"  alt="" /></a></li>
+    <li><a href="http://safemapcozumel.com/activities/tequila-3-tonos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/tequila3tonos/anuncioBig.jpg"  alt="" /></a></li>
   </ul>
   <br />
   <h3>Art</h3><br />

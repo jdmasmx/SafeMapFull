@@ -116,6 +116,7 @@
      <li><a href="r_kellys.php"><img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="r_ohana.php"><img src="http://www.safemapcozumel.com/images/anunciantes/ohana/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="r_punta-morena.php"><img src="http://www.safemapcozumel.com/images/anunciantes/puntamorena/anuncioBig.jpg"  alt="" /></a></li>
+     <li><a href="http://safemapcozumel.com/restaurants/r_lobsteria.php"><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/anuncioBig.jpg"  alt="" /></a></li>
    </ul>
 
   </div>

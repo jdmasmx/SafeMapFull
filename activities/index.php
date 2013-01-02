@@ -113,6 +113,7 @@
       <li><a href="activities-pirate-ship.php"><img src="http://www.safemapcozumel.com/images/anunciantes/pirate/anuncioBig.jpg"  alt="" /></a></li>
       <li><a href="fishing-charter.php"><img src="http://www.safemapcozumel.com/images/anunciantes/fishingcharter/anuncioBig.jpg"  alt="" /></a></li>
       <li><a href="visiting-cozumel.php"><img src="http://www.safemapcozumel.com/images/anunciantes/visitingcozumel/anuncioBig.jpg"  alt="" /></a></li>
+      <li><a href="http://safemapcozumel.com/activities/tequila-3-tonos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/tequila3tonos/anuncioBig.jpg"  alt="" /></a></li>
     </ul>
     
 

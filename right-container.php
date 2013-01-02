@@ -28,6 +28,9 @@
         <li>
             <a href="http://safemapcozumel.com/restaurants/r_punta-morena.php">* PUNTA MORENA RESTAURANTE</a>
         </li>
+        <li>
+            <a href="http://safemapcozumel.com/restaurants/r_lobsteria.php">* LA LOBSTERIA</a>
+        </li>
         
     </ul>
     <!-- End Restaurants-->

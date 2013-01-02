@@ -190,15 +190,20 @@
         
         <h3>Our Gallery</h3>
         <ul class="bxslider">
-          <li><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/1big.jpg" /></li>
-          <li><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/2big.jpg" /></li>
-          <li><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/3big.jpg" /></li>
+          <li><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/1big.JPG" /></li>
+          <li><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/2big.JPG" /></li>
+          <li><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/3big.JPG" /></li>
+          <li><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/4big.JPG" /></li>
+          <li><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/5big.JPG" /></li>
         </ul>
 
         <div id="bx-pager">
-          <a data-slide-index="0" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/1.jpg" /></a>
-          <a data-slide-index="1" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/2.jpg" /></a>
-          <a data-slide-index="2" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/3.jpg" /></a>
+          <a data-slide-index="0" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/1.JPG" /></a>
+          <a data-slide-index="1" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/2.JPG" /></a>
+          <a data-slide-index="2" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/3.JPG" /></a>
+          <a data-slide-index="3" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/4.JPG" /></a>
+          <a data-slide-index="4" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/5.JPG" /></a>
+          
         </div>
         
       </div>

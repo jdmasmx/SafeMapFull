@@ -110,6 +110,7 @@
     <h3>Agency</h3><br />
     <ul class="bxslider">
       <li><a href="gecko.php"><img src="http://www.safemapcozumel.com/images/anunciantes/geckocreativo/anunciobig.jpg"  alt="" /></a></li>
+      <li><a href="http://safemapcozumel.com/agency/cozumel-capital.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cozumelcapital/anuncioBig.jpg"  alt="" /></a></li>
     </ul>
 
   </div>
