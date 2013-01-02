@@ -536,6 +536,7 @@ ul#main_menu ul li {
 	width: 100%;
 	top:0;
 	background: url("../images/wood_bg.jpg") no-repeat center;
+
 }
 
 .banner_small{
@@ -2334,4 +2335,15 @@ p.img-middle {
 	border-width: 1px;
 	padding: 4px;
 
+}
+.idiomas {
+	width: 960px;
+	margin: 0px auto 0 auto;
+	text-align: right;
+	padding-top: 5px;
+	color: #fff;
+}
+
+.idiomas .activo {
+	color: #000;
 }

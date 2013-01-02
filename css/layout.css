@@ -94,3 +94,8 @@ footer {
 	font: 12px/18px 'monaco', monospace;
 	border: 1px solid rgba(255,255,255,0.2);
 }
+
+.idiomas {
+	float: right;
+
+}

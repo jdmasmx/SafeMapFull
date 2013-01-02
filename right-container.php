@@ -46,6 +46,9 @@
         <li>
             <a href="http://safemapcozumel.com/agency/gecko.php">* GECKO CREATIVO</a>
         </li>
+        <li>
+            <a href="http://safemapcozumel.com/agency/cozumel-capital.php">* COZUMEL CAPITAL</a>
+        </li>
     </ul>
     <!-- End Health-->
 
@@ -69,6 +72,9 @@
         </li>
         <li>
             <a href="http://safemapcozumel.com/activities/visiting-cozumel.php">* VISITING COZUMEL</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/activities/tequila-3-tonos.php">* FREE TEQUILA TOUR</a>
         </li>
     </ul>
     <!-- End Activities-->

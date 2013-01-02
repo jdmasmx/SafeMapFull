@@ -86,10 +86,14 @@
 <body>
     <!--////////header////////-->
     <div class="header">
+
+        
     	<div class="wrap">
+            
             <div class="company-logo">
                 <div class="logo"><a href="http://safemapcozumel.com/">home</a></div>
             </div>
+
             <div class="menu-container">
               <div class="nav">
                  <ul id="main_menu">
@@ -126,6 +130,11 @@
 
 <!-- //////banner//////// -->
 <div class="banner">
+    <div class="idiomas">
+                <a href="http://www.safemapcozumel.com/" class="activo">English</a> 
+                
+                <a href="#"> | Español</a>
+            </div>
  <div class="banner_container">
     <div id="banner_rotator">
         <div class="banner-content-left">
