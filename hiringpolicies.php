@@ -34,7 +34,7 @@
 <br /><br />
     * This site is designed to give visitors a variety of alternatives in Cozumel of those companies small and large who have the philosophy to provide satisfaction to his clients and believe on professional and ethical work.
 <br /><br />
-    * On each page It´s possible to increase your business information with galleries, videos and additional texts, alternatives are almost unlimited. For that just:  "Contact us". Additional on the ad have an extra charge of only $200.00 MXN +TAX 
+    * On each page It´s possible to increase your business information with galleries, videos and additional texts, alternatives are almost unlimited. For that just:  <a href="contactobanner.php">"Contact us"</a>. Additional on the ad have an extra charge of only $200.00 MXN +TAX 
 <br /><br />
     * After you send the information of your business and before we publish your ad this are the Payment Options we have for you: PayPal, Bank Transfer, Bank deposit or by Check. “Contact us to let us know the way you prefer to proses your payment” So we can give you instructions.
 <br /><br />

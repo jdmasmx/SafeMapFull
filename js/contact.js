@@ -11,29 +11,29 @@ $(function() {
     // Add requirements to each of the fields
     rules: {
 
-      businessnameF: {
+      businessnamedf: {
         required: true,
         //minlength: 5
       },
 
-      subject: {
+      subjectdf: {
         required: true,
         //minlength: 5
       },
       
 
-      addressF: {
+      addressdf: {
         required: true,
         //minlength: 5
       },
 
-      phoneF: {
+      phonedf: {
         required: true,
         //minlength: 5
       },
 
 
-      emailF: {
+      emaildf: {
         required: true,
         email: true
       },
@@ -44,7 +44,7 @@ $(function() {
 
     messages: {
 
-     emailF: {
+     emaildf: {
       required: "Write a Email.",
       email: "Write a Email."
     },
@@ -53,16 +53,16 @@ $(function() {
 
     // Use Ajax to send everything to processForm.php
     submitHandler: function(form) {
-      $("#send_button_F").attr("value", "Sending...");
+      $("#send_button_df").attr("value", "Sending...");
       $(form).ajaxSubmit({
         success: function(responseText, statusText, xhr, $form) {
           //$(form).slideUp("fast");
-          $("#send_button_F").attr("value", "Send");
-          $("#businessnameF").attr("value", "");
-          $("#phoneF").attr("value", "");
-          $("#addressF").attr("value", "");
-          $("#emailF").attr("value", "");
-          $("#responseF").html(responseText).hide().slideDown("fast");
+          $("#send_button_df").attr("value", "Send");
+          $("#businessnamedf").attr("value", "");
+          $("#phonedf").attr("value", "");
+          $("#addressdf").attr("value", "");
+          $("#emaildf").attr("value", "");
+          $("#responsedf").html(responseText).hide().slideDown("fast");
         }
       });
       return false;

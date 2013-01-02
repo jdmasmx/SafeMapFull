@@ -51,6 +51,15 @@
       'transitionOut'   : 'elastic',
       'type'        : 'iframe'
     });
+
+         $(".contactobanner").fancybox({
+      'width'       : '50%',
+      'height'      : '100%',
+      'autoScale'     : false,
+      'transitionIn'    : 'elastic',
+      'transitionOut'   : 'elastic',
+      'type'        : 'iframe'
+    });
         
       
     });
@@ -133,7 +142,7 @@
              <!-- ////left containet//// -->
              <div class="left-content">
                <div class="title_styling">
-                <h1> Hiring </h1>
+                <h1> Option One Basic Ads</h1>
             </div>
             <strong>Join our directory</strong>, send your details and will be happy to have you among our <a href="advertisers.php">advertisers</a>. <a href="hiringpolicies.php" class="contacto">Click here to see our policies.</a>
             <hr class="divide"/> <br />
@@ -146,6 +155,10 @@
                 <p>
                     <label for="slogan">Business Slogan</label>
                     <input id="slogan"  name="slogan" type="text" size="50"  class="contact-input" />
+                </p>
+                 <p>
+                    <label for="sloganesp">Business Slogan (Spanish)</label>
+                    <input id="sloganesp"  name="sloganesp" type="text" size="50"  class="contact-input" />
                 </p>
                 <p>
                     <label for="category">Category</label>
@@ -177,7 +190,7 @@
                 <p>
                     <label for="banner">Promotional Banner (Size Image:630px X 350px, Format: PNG, JPG, JPEG)</label>
                     <input id="banner"  name="banner" type="file" size="50"  class="contact-input"/>
-                    <label>If You need a help to design your banner <a href="contact.php"><u>Contact Us</u></a>.</label>
+                    <label>If You need a help to design your banner <a href="contactobanner.php" class="contactobanner"><u>Contact Us</u></a>.</label>
                 </p>
                 <br />
 
@@ -185,10 +198,18 @@
                     <label for="texto"> Describe Text One(Max 250 characters)</label>
                     <textarea name="texto" id="texto" cols="5" rows="50" class="contact-input"></textarea>
                 </p>   
+                 <p>
+                    <label for="textoesp"> Describe Text One(Max 250 characters in Spanish)</label>
+                    <textarea name="textoesp" id="textoesp" cols="5" rows="50" class="contact-input"></textarea>
+                </p> 
                 <p>
                     <label for="textod"> Describe Text Two(Max 250 characters)</label>
                     <textarea name="textod" id="textod" cols="5" rows="50" class="contact-input"></textarea>
-                </p>    
+                </p>  
+                <p>
+                    <label for="textodesp"> Describe Text Two(Max 250 characters in Spanish)</label>
+                    <textarea name="textodesp" id="textodesp" cols="5" rows="50" class="contact-input"></textarea>
+                </p>   
                 <br /><br />    
                 <h4>General Information</h4>  
                 <p>
@@ -239,17 +260,17 @@
         </form> 
         <!-- Formulario ADS-->
         <hr class="divide" />
-        <br /><br />
+        <br /><br /><br /><br /><br /><br />
         <div class="title_styling">
-            <h1 id="freeads"> Free Ads. </h1>
+            <h1 id="freeads"> Option Two Free Ads </h1>
         </div>
         These are mentions <strong>100% FREE</strong>, and are subject to the same politics of all the ads at <a href="hiringpolicies.php" class="contacto">Safe Map Cozumel.</a><br />
         <hr class="divide"/> <br />
         <form class="cmxform" id="freeads" method="POST" action="free-ads.php">
          <fieldset>
             <p>
-                <label for="categoryF">Category</label>
-                <select name="subject" id="subject">
+                <label for="categorydf">Category</label>
+                <select name="categorydf" id="categorydf">
                     <option value="" selected="selected">Select a category</option>
                     <option value="Beach Hotels">Beach Hotels</option>
                     <option value="Downtown Hotels">Downtown Hotels</option>
@@ -272,25 +293,25 @@
 
             </p>    
             <p>
-                <label for="nameF"> Business Name</label>
-                <input id="businessnameF"  name="businessnameF" type="text" size="50"  class="contact-input"/>
+                <label for="businessnamedf"> Business Name</label>
+                <input id="businessnamedf"  name="businessnamedf" type="text" size="50"  class="contact-input"/>
             </p>
             <p>
-                <label for="phoneF"> Phone</label>
-                <input id="phoneF" name="phoneF"  type="text" size="50" class="contact-input"/>
+                <label for="phonedf"> Phone</label>
+                <input id="phonedf" name="phonedf"  type="text" size="50" class="contact-input"/>
             </p>
             <p>
-                <label for="addressF"> Address</label>
-                <input id="addressF" name="addressF"  type="text" size="50" class="contact-input"/>
-            </p>
-
-            <p>
-                <label for="emailF"> Email</label>
-                <input id="emailF" name="emailF"  type="text" size="50" class="contact-input"/>
+                <label for="addressdf"> Address</label>
+                <input id="addressdf" name="addressdf"  type="text" size="50" class="contact-input"/>
             </p>
 
             <p>
-                <input class="primary_btn" type="submit" value="Send" id="send_button_F"/>
+                <label for="emaildf"> Email</label>
+                <input id="emaildf" name="emaildf"  type="text" size="50" class="contact-input"/>
+            </p>
+
+            <p>
+                <input class="primary_btn" type="submit" value="Send" id="send_button_df"/>
 
                 <input class="primary_btn" type="reset" value="Reset"/> 
             </p>
@@ -298,7 +319,7 @@
             </p>
             <br class="clear" />
             <p>
-                <div id="responseF"></div>
+                <div id="responsedf"></div>
             </p>
         </fieldset>
     </form>

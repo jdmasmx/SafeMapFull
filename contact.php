@@ -146,6 +146,10 @@
                     <label for="name"> Name</label>
                     <input id="name"  name="name" type="text" size="30"  class="contact-input"/>
                 </p>
+                 <p>
+                    <label for="phoned"> Phone</label>
+                    <input id="phoned"  name="phoned" type="text" size="30"  class="contact-input"/>
+                </p>
 
                 <p>
                     <label for="email"> Email</label>
