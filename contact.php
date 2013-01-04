@@ -159,8 +159,11 @@
                 <p>
                     <label> Select</label>
                     <select name="dummy2" class="contact-input">
-                        <option value="1">General Enquiry.</option>
-                        <option value="2">Advertising information.</option>
+                        <option value="General Enquiry">General Enquiry.</option>
+                        <option value="Advertising information">Advertising information.</option>
+                        <option value="Additional on my Add">Additional on my Add.</option>
+                        
+
                     </select>
                 </p>
 

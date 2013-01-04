@@ -246,7 +246,8 @@
                 </p>
                     <p>
                     <label for="webcomment"> Comments for Webmaster</label>
-                    <input id="webcomment" name="webcomment"  type="text" size="50" class="contact-input"/>
+                    <textarea cols="5" rows="20" id="webcomment" name="webcomment" class="contact-input"></textarea>
+                    <!-- <input id="webcomment" name="webcomment"  type="text" size="50" class="contact-input"/> -->
                 </p>
 <br /><br />
                 <p>
