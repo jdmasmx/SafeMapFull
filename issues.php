@@ -176,8 +176,8 @@
                 <tr>
 
                     <td>
-                        40,000 Issues<br />
-                        <a href="#"><img src="images/print.png" class="icono-map"></a>
+                        <!-- 40,000 Issues<br />
+                        <a href="#"><img src="images/print.png" class="icono-map"></a> -->
                     </td>
                     <td>
                         40,000 Issues<br />

@@ -157,7 +157,7 @@
                     <input id="slogan"  name="slogan" type="text" size="50"  class="contact-input" />
                 </p>
                  <p>
-                    <label for="sloganesp">Business Slogan (Spanish)</label>
+                    <label for="sloganesp">Business Slogan (<i>Spanish</i>)</label>
                     <input id="sloganesp"  name="sloganesp" type="text" size="50"  class="contact-input" />
                 </p>
                 <p>
@@ -199,7 +199,7 @@
                     <textarea name="texto" id="texto" cols="5" rows="50" class="contact-input"></textarea>
                 </p>   
                  <p>
-                    <label for="textoesp"> Describe Text One(Max 250 characters in Spanish)</label>
+                    <label for="textoesp"> Describe Text One(Max 250 characters <i>in Spanish</i>)</label>
                     <textarea name="textoesp" id="textoesp" cols="5" rows="50" class="contact-input"></textarea>
                 </p> 
                 <p>
@@ -207,7 +207,7 @@
                     <textarea name="textod" id="textod" cols="5" rows="50" class="contact-input"></textarea>
                 </p>  
                 <p>
-                    <label for="textodesp"> Describe Text Two(Max 250 characters in Spanish)</label>
+                    <label for="textodesp"> Describe Text Two(Max 250 characters <i>in Spanish</i>)</label>
                     <textarea name="textodesp" id="textodesp" cols="5" rows="50" class="contact-input"></textarea>
                 </p>   
                 <br /><br />    
@@ -244,7 +244,11 @@
                     <label for="email"> Email</label>
                     <input id="email" name="email"  type="text" size="50" class="contact-input"/>
                 </p>
-
+                    <p>
+                    <label for="webcomment"> Comments for Webmaster</label>
+                    <input id="webcomment" name="webcomment"  type="text" size="50" class="contact-input"/>
+                </p>
+<br /><br />
                 <p>
                     <input class="primary_btn" type="submit" value="Send" id="send_button"/>
 
@@ -260,7 +264,7 @@
         </form> 
         <!-- Formulario ADS-->
         <hr class="divide" />
-        <br /><br /><br /><br /><br /><br />
+        <br /><br /><br /><br />
         <div class="title_styling">
             <h1 id="freeads"> Option Two Free Ads </h1>
         </div>

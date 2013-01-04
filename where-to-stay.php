@@ -156,6 +156,12 @@
                             <td>987 872 0730</td>
                             <td><a href="mailto:info@villablanca.net"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
+                        <tr>
+                            <td>CORAL PRINCESS</td>
+                            <td>Carretera Costera Norte Km 2.5</td>
+                            <td>987 8723200</td>
+                            <td><a href="mailto:ventas@coralprincess.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>

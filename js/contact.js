@@ -145,7 +145,10 @@ $(function() {
       
 
       
-      
+      webcomment: {
+        required: true,
+
+      },
       comment: {
         required: true,
 

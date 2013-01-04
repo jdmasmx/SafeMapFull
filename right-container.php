@@ -68,7 +68,7 @@
             <a href="http://safemapcozumel.com/activities/activities-pirate-ship.php">* JEAN LAFFITE PIRATE SHIP</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/activities/rancho-universo.php">* Rancho Universo AC</a>
+            <a href="http://safemapcozumel.com/activities/rancho-universo.php">* RANCHO UNIVERSO AC</a>
         </li>
         <li>
             <a href="http://safemapcozumel.com/activities/safe-tours.php">* SAFE TOURS COZUMEL</a>

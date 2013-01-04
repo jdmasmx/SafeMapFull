@@ -10,7 +10,7 @@ foreach($_POST as $key => $value) {
 
 // Assign the input values to variables for easy reference
 //$name = $_POST["name"];
-$email = $_POST[emailF];
+$email = $_POST[emaildf];
 //$mensaje = $_POST["comment"];
 
 
@@ -41,11 +41,12 @@ if($errors) {
 
 
 
+//$sPara = "ventas@safemapcozumel.com";
 $sPara = "ventas@safemapcozumel.com";
 $diego = "judijemaui@gmail.com";
 $sAsunto = "Free Ads Form";
 $sTexto = "\n\nFree Ads Form: INFO\n";
-$sDe = $_POST[emailF];
+$sDe = $_POST[emaildf];
 
 foreach ($_POST as $sNombre => $sValor) {
 $sTexto = $sTexto."\n".$sNombre." = ".$sValor;
