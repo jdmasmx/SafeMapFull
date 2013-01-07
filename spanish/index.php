@@ -16,7 +16,7 @@
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
 
-    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+    <link href="../styles/style.css" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic" rel="stylesheet" type="text/css" />
     <link href="http://fonts.googleapis.com/css?family=Dosis:200,300" rel="stylesheet" type="text/css" />
     <!-- <link rel="stylesheet" href="./css/layout.css" type="text/css" /> -->
@@ -37,21 +37,21 @@
     
     <script src="js/lib/modernizr-2.min.js"> </script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
-    <script type="text/javascript" src="js/jquery.lavalamp.min.js"></script>
-    <script type="text/javascript" src="js/fade-in-jquery.js"></script>
-    <script type="text/javascript" src="js/jquery.easing.min.js"></script>
-    <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
-    <script type="text/javascript" src="js/feature_carousel.js"></script>
-    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+    <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
+    <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="../js/feature_carousel.js"></script>
+    <script type="text/javascript" src="../js/common.js"></script>
     <!--  Javascript files for Individual Project Slides in Recent Projects  -->
-    <script type="text/javascript" src="js/jquery.cycle.all.js"></script>
-    <script type="text/javascript" src="css/jquery.mousewheel-3.0.4.pack.js"></script>
-    <script type="text/javascript" src="css/jquery.fancybox-1.3.4.pack.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox-1.3.4.css" media="screen" />
-    <script type="text/javascript" src="js/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="js/jquery.form.js"></script>
-    <script type="text/javascript" src="js/contact.js"></script>
+    <script type="text/javascript" src="../js/jquery.cycle.all.js"></script>
+    <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
+    <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="c../ss/jquery.fancybox-1.3.4.css" media="screen" />
+    <script type="text/javascript" src="../js/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.form.js"></script>
+    <script type="text/javascript" src="../js/contact.js"></script>
 
     <!--  accordian  -->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
@@ -90,37 +90,39 @@
         
     	<div class="wrap">
             
-            <div class="company-logo">
-                <!-- <div class="logo"><a href="http://safemapcozumel.com/">home</a></div> -->
             <div class="logo">
-                <a href="http://safemapcozumel.com/">
+                <a href="http://safemapcozumel.com/spanish/">
                     <img src="http://safemapcozumel.com/images/logo.png">
                 </a>
-            </div>
             </div>
 
             <div class="menu-container">
               <div class="nav">
                  <ul id="main_menu">
                     <li class="current"><a href="http://safemapcozumel.com/" id="home"> Home</a></li>
-                    <li><a href="issues.php">Issues</a></li>
-                    <li><a href="advertisers.php">Advertisers</a>
-                        <?php 
-                            include "categorias.php";
-                        ?>
+                    <li><a href="issues.php">Ediciones</a></li>
+                    <li><a href="advertisers.php">Anunciantes</a>
+                        <ul>
+                            <li><a href="restaurants/">Restaurantes</a></li>
+                            <li><a href="health/">Salud</a></li>
+                            <li><a href="agency/">Agencias</a></li>
+                            <li><a href="activities/">Actividades</a></li>
+                            <li><a href="art/">Arte</a></li>
+
+                        </ul>
                     </li>
-                    <li><a href="about_safemap.php">About Us</a></li>
-                    <li><a href="faqs.php">Faq's</a></li>
-                    <li><a href="tourist_information.php" >Tourist Information</a>
+                    <li><a href="about_safemap.php">Quienes Somos</a></li>
+                    <li><a href="faqs.php">FAQ</a></li>
+                    <li><a href="tourist_information.php" >Información</a>
                        <ul>
-                        <li><a href="about_cozumel.php">About Cozumel</a></li>
-                        <li><a href="where-to-stay.php">Where to Stay</a></li>
-                        <li><a href="things-to-do.php">Things to Do</a></li>
-                        <li><a href="how-to-get.php">How to Get</a></li>
+                        <li><a href="about_cozumel.php">Acerca de Cozumel</a></li>
+                        <li><a href="where-to-stay.php">Dónde hospedarse</a></li>
+                        <li><a href="things-to-do.php">Actividades</a></li>
+                        <li><a href="how-to-get.php">Como Llegar</a></li>
                     </ul>
                 </li>
-                <li><a href="contact.php">Contact</a></li>
-                <li><a href="hiring.php">New Ads</a></li>
+                <li><a href="contact.php">Contacto</a></li>
+                <li><a href="hiring.php">Nuevos anunciantes</a></li>
             </ul>
         </div><!-- end nav -->
     </div><!-- end menu-container -->
@@ -131,30 +133,30 @@
 <!-- //////banner//////// -->
 <div class="banner">
     <div class="idiomas">
-                <a href="http://www.safemapcozumel.com/" class="activo">English</a> 
+                <a href="http://www.safemapcozumel.com/" >English</a> 
                 
-                <a href="http://www.safemapcozumel.com/spanish"> | Español</a>
+                <a href="http://www.safemapcozumel.com/spanish" class="activo"> | Español</a>
             </div>
  <div class="banner_container">
     <div id="banner_rotator">
         <div class="banner-content-left">
           <div class="banner-title" style="color:#fff; padding-top:15px;">
-            Your Digital
+            Tu Mapa
             <br />
-            Cozumel Map
+            Digital
             <br />
-            & Directory
+            & Directorio
         </div>
-        <h4 style="color:#fff;"> In this site: </h4>
+        <h4 style="color:#fff;"> En este sitio: </h4>
         <ul style="color:#fff;">
-            <li> <a href="issues.php">Print your Cozumel Map.</a></li>
-            <li> <a href="where-to-stay.php">Where to stay in Cozumel.</a></li>
-            <li> <a href="things-to-do.php">Things to do in Cozumel.</a></li>
-            <li> <a href="how-to-het.php">How to get at Cozumel.</a></li>
-            <li> <a href="interactive-map.php">Interactive Cozumel Map.</a></li>
+            <li> <a href="issues.php">Imprimir Mapa Cozumel.</a></li>
+            <li> <a href="where-to-stay.php">Dónde alojarse en Cozumel.</a></li>
+            <li> <a href="things-to-do.php">Cosas que hacer en Cozumel.</a></li>
+            <li> <a href="how-to-het.php">Como llegar a Cozumel.</a></li>
+            <li> <a href="interactive-map.php">Mapa interactivo de Cozumel.</a></li>
         </ul>
         <div class="primary_btn">
-            <a href="tourist_information.php" class="italic">Learn More</a>
+            <a href="tourist_information.php" class="italic">Leer Mas</a>
         </div>
     </div>
 </div>
@@ -162,8 +164,8 @@
 <div id="phone">
     <div id="mobile_carousel">
         <div class="carousel-feature"><a href="http://www.safemapcozumel.com/images/portadabig.jpg" target="blank" rel="example_group" title="Jun - Sep 2012"><img alt="" src="images/iphone_ban_1.png" class="carousel-image" /></a></div>
-        <div class="carousel-feature"><a href="#"><img alt="" src="images/iphone_ban_2.png" class="carousel-image" /></a></div>
-        <div class="carousel-feature"><a href="#"><img alt="" src="images/iphone_ban_3.png" class="carousel-image" /></a></div>
+        <div class="carousel-feature"><a href="#"><img alt="" src="../images/iphone_ban_2.png" class="carousel-image" /></a></div>
+        <div class="carousel-feature"><a href="#"><img alt="" src="../images/iphone_ban_3.png" class="carousel-image" /></a></div>
     </div>
 
 </div><!-- End phone -->
@@ -178,15 +180,15 @@
             <!-- ///////left container//////// -->
             <div class="tabs">
                 <ul class="tabnavigation">
-                    <li><a href="#first">Interactive Cozumel Map</a></li>
-                    <li><a class="selected" href="#second">Tourist Information</a></li>
+                    <li><a href="#first">Mapa Interactivo de Cozumel</a></li>
+                    <li><a class="selected" href="#second">Información Turística</a></li>
                     <!-- <li><a class="" href="#third">Contact Us</a></li> -->
                 </ul>
                 <!--  overview  -->    
                 <div style="display: none;" id="first">
                   <div class="tab-content" id="overview">
                     <div class="title_styling">
-                        <h1>Interactive Advertisers Map.</h1>
+                        <h1>Anunciantes en el Mapa Interactivo.</h1>
                         <div class="title_underline"></div>
                     </div>
                     <p>
@@ -201,65 +203,65 @@
                 <div class="tab-content" id="screenshot">
 
                     <div class="title_styling">
-                        <h1>Know the most important services on the island of Cozumel</h1>
+                        <h1>Conozca los servicios más importantes de la isla de Cozumel</h1>
                         <div class="title_underline"></div>
                     </div>
                     <p>
-                        A vibrant land steeped in rich history. An island whose beauty stretches far beyond its spectacular shores. A world-famous dive site. A tranquil oasis, abundant with warm welcomes around every corner. Cozumel is a destination like no other. And you'll just have to take our word for it. Because it's impossible to imagine, until you've been here.
+                        Una tierra vibrante llena de rica historia. Una isla cuya belleza se extiende mucho más allá de sus costas espectaculares. Un famoso sitio de buceo. Un oasis tranquilo, con abundante cálida bienvenida en cada esquina. Cozumel es un destino sin igual. Y vas a tener que tomar nuestra palabra para ella. Debido a que es imposible de imaginar, hasta que haya estado aquí.
                     </p>
                     <br />
                     <div class="title_styling">
-                        <h1>Learn about the wonders of Cozumel</h1>
+                        <h1>Conozca las maravillas de Cozumel</h1>
                         <div class="title_underline"></div>
                     </div>
                     <div class="screenshot-box">
                         <div class="screenshot_left">
-                            <a href="#" class="thumb-information"><img alt="" src="images/tourist_information/thumb-about.png"/></a>
+                            <a href="#" class="thumb-information"><img alt="" src="../images/tourist_information/thumb-about.png"/></a>
                         </div>
-                        <h2>About Cozumel</h2>
-                        <p>Beyond the breathtaking waters and ribbons of white sand is a land steeped in rich history and ancient wonders. And at every turn, there is something exciting to discover and explore.</p> <br />
+                        <h2>Acerca de Cozumel</h2>
+                        <p>Más allá de las aguas impresionantes y cintas de arena blanca es una tierra llena de historia rica y maravillas antiguas. Y a cada paso, hay algo emocionante para descubrir y explorar.</p> <br />
                         <div class="secondary-button">
                             <div class="secondary-button-content">
-                                <a href="about_cozumel.php">Read More</a>
+                                <a href="about_cozumel.php">Leer Mas</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="screenshot-box">
                         <div class="screenshot_left">
-                            <img alt="" src="images/tourist_information/thumb-where.png"/>
+                            <img alt="" src="../images/tourist_information/thumb-where.png"/>
                         </div>
-                        <h2>Where to stay</h2>
-                        <p>Know the best places in Cozumel, beautiful scenery and pleasant to spend an incredible vacation.</p><br />
+                        <h2>Dónde alojarse</h2>
+                        <p>Conozca los mejores lugares en Cozumel, hermosos paisajes y agradable para pasar unas vacaciones increíbles.</p><br />
                         <div class="secondary-button">
                             <div class="secondary-button-content">
-                                <a href="where-to-stay.php">Read More</a>
+                                <a href="where-to-stay.php">Leer Mas</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="screenshot-box">
                         <div class="screenshot_left">
-                            <img alt="" src="images/tourist_information/thumb-todo.png"/>
+                            <img alt="" src="../images/tourist_information/thumb-todo.png"/>
                         </div>
-                        <h2>Things to do</h2>
-                        <p>The amazing things you can do in cozumel when you come to visit this island paradise.</p><br />
+                        <h2>Cosas que hacer</h2>
+                        <p>Las cosas asombrosas que usted puede hacer en Cozumel cuando venga a visitar esta isla paradisíaca.</p><br />
                         <div class="secondary-button">
                             <div class="secondary-button-content">
-                                <a href="things-to-do.php">Read More</a>
+                                <a href="things-to-do.php">Leer Mas</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="screenshot-box">
                         <div class="screenshot_left">
-                            <img alt="" src="images/tourist_information/thumb-toget.png"/>
+                            <img alt="" src="../images/tourist_information/thumb-toget.png"/>
                         </div>
-                        <h2>How to get</h2>
-                        <p>In Cozumel there are many travel agencies that can help you get to the island of Cozumel</p><br />
+                        <h2>Cómo llegar</h2>
+                        <p>En Cozumel hay muchas agencias de viajes que le pueden ayudar a llegar a la isla de Cozumel</p><br />
                         <div class="secondary-button">
                             <div class="secondary-button-content">
-                                <a href="how-to-get.php">Read More</a>
+                                <a href="how-to-get.php">Leer Mas</a>
                             </div>
                         </div>
                     </div>
@@ -271,13 +273,13 @@
             <div style="display: none;" id="third">
                 <div class="tab-content" id="support">
                     <div class="title_styling">
-                        <h1> Feel free to contact us.</h1>
+                        <h1> No dude en contactar con nosotros.</h1>
                         <div class="title_underline"></div>
                     </div>
                     <ul>
                         <li class="faq_container">
                             <h2>
-                                Subscribe to our newsletter and be the first to hear about latest issues and news.
+                                Suscríbete a nuestro newsletter y sé el primero en enterarte de las últimas cuestiones y noticias.
                             </h2>
                             <div class="answer">
                              <input name="Email" type="text" value="Your Email" 
@@ -286,7 +288,7 @@
                              />
                              <div class="secondary-button">
                                 <div class="secondary-button-content">
-                                    <a href="#">Subscribe</a>
+                                    <a href="#">Suscribir</a>
                                 </div>
                             </div>
                             <!--<div class="note"><p>Note: <br /> We get several emails daily from people who don't receive their license. Please check your spam / bulk folder. Add questions@mobapp.com to your address book. Allow at least an hour to receive it</p></div>-->
@@ -326,7 +328,7 @@
 </div>
 <div id="info-container">
     <div class="title_styling">
-        <h1> Free ads Form.</h1>
+        <h1> Anuncios de forma gratuita.</h1>
         <div class="title_underline"></div>
     </div>
     <a href="hiring.php#freeads"><img src="http://www.safemapcozumel.com/images/tourist/bannerform.jpg"></a>

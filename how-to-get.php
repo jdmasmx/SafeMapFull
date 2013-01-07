@@ -67,7 +67,12 @@
     <div class="header">
     	<div class="wrap">
             <div class="company-logo">
-                <div class="logo"><a href="http://safemapcozumel.com/">home</a></div>
+                <!-- <div class="logo"><a href="http://safemapcozumel.com/">home</a></div> -->
+            <div class="logo">
+                <a href="http://safemapcozumel.com/">
+                    <img src="http://safemapcozumel.com/images/logo.png">
+                </a>
+            </div>
             </div>
             <div class="menu-container">
               <div class="nav">
@@ -75,14 +80,9 @@
                     <li><a href="hhttp://safemapcozumel.com/" id="home"> Home</a></li>
                     <li><a href="issues.php">Issues</a></li>
                     <li><a href="advertisers.php">Advertisers</a>
-                        <ul>
-                            <li><a href="restaurants/">Restaurants</a></li>
-                            <li><a href="health/">Health</a></li>
-                            <li><a href="agency/">Agency</a></li>
-                            <li><a href="activities/">Activities</a></li>
-                            <li><a href="art/">Art</a></li>
-
-                        </ul>
+                                            <?php 
+                            include "categorias.php";
+                        ?>
                     </li>
                     <li><a href="about_safemap.php">About Us</a></li>
                     <li><a href="faqs.php">Faq's</a></li>
@@ -107,6 +107,11 @@
 
 <!-- //////banner//////// -->
 <div class="banner_small">
+    <div class="idiomas">
+                <a href="http://www.safemapcozumel.com/" class="activo">English</a> 
+                
+                <a href="http://www.safemapcozumel.com/spanish"> | Español</a>
+            </div>
     <div class="wrap">
 
     </div>

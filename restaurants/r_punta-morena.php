@@ -100,9 +100,14 @@
  <!--////////header////////-->
  <div class="header">
    <div class="wrap">
-    <div class="company-logo">
-      <div class="logo"><a href="../index.html">home</a></div>
-    </div>
+   <div class="company-logo">
+                <!-- <div class="logo"><a href="http://safemapcozumel.com/">home</a></div> -->
+            <div class="logo">
+                <a href="http://safemapcozumel.com/">
+                    <img src="http://safemapcozumel.com/images/logo.png">
+                </a>
+            </div>
+            </div>
 
 
     <!-- -->
@@ -117,6 +122,11 @@
 <!--////////header end////////-->
 <!-- /////banner/////-->
 <div class="banner_small">
+  <div class="idiomas">
+                <a href="http://www.safemapcozumel.com/" class="activo">English</a> 
+                
+                <a href="http://www.safemapcozumel.com/spanish"> | Español</a>
+            </div>
   <div class="wrap">
 
   </div>
