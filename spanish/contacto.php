@@ -66,9 +66,9 @@
     <!--////////header////////-->
      <div class="header">
 
-        
+
         <div class="wrap">
-            
+
             <div class="logo">
                 <a href="http://safemapcozumel.com/spanish/">
                     <img src="http://safemapcozumel.com/images/logo.png">
@@ -79,24 +79,25 @@
               <div class="nav">
                <ul id="main_menu">
                 <li><a href="http://safemapcozumel.com/spanish" id="home"> Home</a></li>
-                <li><a href="issues.php">Ediciones</a></li>
-                <li><a href="advertisers.php">Anunciantes</a>
+                <li><a href="ediciones.php">Ediciones</a></li>
+                <li><a href="anunciantes.php">Anunciantes</a>
                     <?php 
                     include 'categorias-esp.php';
+
                     ?>
                 </li>
-                <li><a href="about_safemap.php">Quienes Somos</a></li>
+                <li><a href="quienes-somos.php">Quienes Somos</a></li>
                 <li><a href="faqs.php">FAQ</a></li>
-                <li><a href="tourist_information.php" >Información</a>
+                <li><a href="informacion.php" >Información</a>
                  <ul>
-                    <li><a href="about_cozumel.php">Acerca de Cozumel</a></li>
-                    <li><a href="where-to-stay.php">Dónde hospedarse</a></li>
-                    <li><a href="things-to-do.php">Actividades</a></li>
-                    <li><a href="how-to-get.php">Como Llegar</a></li>
+                    <li><a href="acerca-cozumel.php">Acerca de Cozumel</a></li>
+                    <li><a href="donde-hospedarse.php">Dónde hospedarse</a></li>
+                    <li><a href="actividades.php">Actividades</a></li>
+                    <li><a href="como-llegar.php">Como Llegar</a></li>
                 </ul>
             </li>
             <li class="current"><a href="contacto.php">Contacto</a></li>
-            <li><a href="hiring.php">Nuevos anunciantes</a></li>
+            <li><a href="nuevos-anunciantes.php">Nuevos anunciantes</a></li>
         </ul>
     </div><!-- end nav -->
 </div><!-- end menu-container -->

@@ -21,7 +21,7 @@
                             <li><a href="#">Free Ads Form</a> </li>
                         </ul>-->
                         <ul>
-                            <li><a href="http://safemapcozumel.com/issues.php">Cuestiones </a></li>
+                            <li><a href="http://safemapcozumel.com/issues.php">Ediciones </a></li>
                             <li><a href="http://safemapcozumel.com/advertisers.php">Anunciantes </a></li>
                             <li><a href="http://safemapcozumel.com/about_safemap.php">Quienes Somos</a> </li>
                             <li><a href="http://safemapcozumel.com/tourist_information.php">Información</a> </li>
@@ -31,7 +31,7 @@
                             
                             <li><a href="http://safemapcozumel.com/faqs.php">FAQ </a></li>
                             <!-- <li><a href="#">Legal </a></li> -->
-                            <li><a href="http://safemapcozumel.com/hiring.php">Anuncios Gratis</a> </li>
+                            <li><a href="http://safemapcozumel.com/hiring.php">Nuevos Anunciantes</a> </li>
                         </ul>
                     </div>
                     <div class="footer_box">
