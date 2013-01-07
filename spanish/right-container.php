@@ -1,7 +1,7 @@
 <div id="right-container">
     <div id="right-content">
       <div class="title_styling">
-        <h1>Advertisers</h1>
+        <h1>Anunciantes</h1>
         <div class="title_underline"></div>
     </div>
     <!--Restaurants -->
