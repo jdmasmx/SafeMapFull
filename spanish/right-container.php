@@ -4,41 +4,41 @@
         <h1>Anunciantes</h1>
         <div class="title_underline"></div>
     </div>
-    <!--Restaurants -->
+    <!--spanish/restaurantes -->
     <div class="category" id="restaurantes">Restaurantes</div>
     <ul class="list-category" id="restaurantes">
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_albertos.php">* ALBERTOS BEACH BAR RESTAURANT</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_albertos.php">* ALBERTOS BEACH BAR RESTAURANT</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_camilos.php">* CAMILO'S - SEA FOOD</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_camilos.php">* CAMILO'S - SEA FOOD</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_coffee-cozumel.php">* EL COFFEE COZUMEL</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_coffee-cozumel.php">* EL COFFEE COZUMEL</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_guidos.php">* GUIDO'S RESTAURANT</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_guidos.php">* GUIDO'S RESTAURANT</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_kellys.php">* KELLEYS SPORT BAR AND GRILL</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_kellys.php">* KELLEYS SPORT BAR AND GRILL</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_ohana.php">* OHANA - CAFE AND BAR</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_ohana.php">* OHANA - CAFE AND BAR</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_punta-morena.php">* PUNTA MORENA RESTAURANTE</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_punta-morena.php">* PUNTA MORENA RESTAURANTE</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/restaurants/r_lobsteria.php">* LA LOBSTERIA</a>
+            <a href="http://safemapcozumel.com/spanish/restaurantes/r_lobsteria.php">* LA LOBSTERIA</a>
         </li>
         
     </ul>
-    <!-- End Restaurants-->
+    <!-- End spanish/restaurantes-->
     <!-- Health -->
     <div class="category" id="health">Salud</div>
     <ul class="list-category" id="health">
         <li>
-            <a href="http://safemapcozumel.com/health/h_red-cross.php">* RED CROSS</a>
+            <a href="http://safemapcozumel.com/spanish/salud/h_red-cross.php">* RED CROSS</a>
         </li>
     </ul>
     <!-- End Health-->
@@ -47,48 +47,48 @@
     <div class="category" id="agency">Agencias</div>
     <ul class="list-category" id="agency">
         <li>
-            <a href="http://safemapcozumel.com/agency/gecko.php">* GECKO CREATIVO</a>
+            <a href="http://safemapcozumel.com/spanish/agencias/gecko.php">* GECKO CREATIVO</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/agency/cozumel-capital.php">* COZUMEL CAPITAL</a>
+            <a href="http://safemapcozumel.com/spanish/agencias/cozumel-capital.php">* COZUMEL CAPITAL</a>
         </li>
     </ul>
     <!-- End Health-->
 
-    <!-- Activities-->
+    <!-- spanish/actividades-->
     <div class="category" id="activities">Actividades</div>
     <ul class="list-category" id="activities">
         <li>
-            <a href="http://safemapcozumel.com/activities/fishing-charter.php">* ECONOMY FISHING CHARTER</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/fishing-charter.php">* ECONOMY FISHING CHARTER</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/activities/hacienda-antigua.php">* HACIENDA ANTIGUA</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/hacienda-antigua.php">* HACIENDA ANTIGUA</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/activities/activities-pirate-ship.php">* JEAN LAFFITE PIRATE SHIP</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/spanish/actividades-pirate-ship.php">* JEAN LAFFITE PIRATE SHIP</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/activities/rancho-universo.php">* RANCHO UNIVERSO AC</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/rancho-universo.php">* RANCHO UNIVERSO AC</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/activities/safe-tours.php">* SAFE TOURS COZUMEL</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/safe-tours.php">* SAFE TOURS COZUMEL</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/activities/visiting-cozumel.php">* VISITING COZUMEL</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/visiting-cozumel.php">* VISITING COZUMEL</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/activities/tequila-3-tonos.php">* FREE TEQUILA TOUR</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/tequila-3-tonos.php">* FREE TEQUILA TOUR</a>
         </li>
     </ul>
-    <!-- End Activities-->
+    <!-- End spanish/actividades-->
     <!-- Art -->
     <div class="category" id="art">Arte</div>
     <ul class="list-category" id="art">
         <li>
-            <a href="http://safemapcozumel.com/art/galeria-azul.php">* GALERIA AZUL</a>
+            <a href="http://safemapcozumel.com/spanish/arte/galeria-azul.php">* GALERIA AZUL</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/art/tattoo.php">* TATTOO</a>
+            <a href="http://safemapcozumel.com/spanish/arte/tattoo.php">* TATTOO</a>
         </li>
 
     </ul>

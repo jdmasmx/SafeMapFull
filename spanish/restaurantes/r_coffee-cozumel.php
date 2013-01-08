@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -144,14 +144,14 @@
       <h2>EL COFFEE COZUMEL</h2>
     
     </div>
-    <h5>REAL COFFEE FOR REAL PEOPLE</h5>
+    <h5>CAFÉ REAL PARA GENTE REAL</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/elcoffeecozumel/elcoffeelogo.jpg">
       </div>
       <div class="col2">
-        We feature not only the best coffee you will find, but also frozen drinks, smoothies, juices, freshly baked scrumptious pastries, full breakfast & deli and free high speed wireless Internet for our customers, all in air-conditioned comfort.
+        Ofrecemos no sólo el mejor café que se encuentra, sino también bebidas heladas, batidos, zumos, pasteles recién horneados deliciosos, desayuno completo y delicatessen y gratuito a Internet inalámbrica de alta velocidad para nuestros clientes, todos con aire acondicionado y confort.
       </div>
     </div>
 
@@ -170,10 +170,10 @@
     <div class="col4">
       <table class="info-advertiser">
         <tr>
-          <td class="campo">Address 1:</td> <td class="dato">Street 3 South between Rafael E. Melgar and 5 Avenue. Centro. <br />Cozumel, Quintana Roo, Mexico</td>
+          <td class="campo">Dirección 1:</td> <td class="dato">Calle 3 Sur entre Rafael E. Melgar y la Avenida 5. Centro. <br />Cozumel, Quintana Roo, Mexico</td>
         </tr>
         <tr>
-          <td class="campo">Phone:</td><td class="dato">86 90456</td>
+          <td class="campo">Teléfono:</td><td class="dato">86 90456</td>
         </tr>
       </table>
     </div>

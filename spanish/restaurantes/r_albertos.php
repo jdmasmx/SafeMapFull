@@ -16,7 +16,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -33,20 +33,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -115,7 +115,6 @@
     <!-- -->
     <?php 
     include '../menu-advertisers.php';
-
     ?>
 
    <!-- end menu-container -->
@@ -143,7 +142,7 @@
    <div class="left-content">
 
     <div class="title_styling">
-      <h2>ALBERTOS BEACH BAR RESTAURANT</h2>
+      <h2>ALBERTOS BEACH BAR RESTAURANTE</h2>
      
     </div>
     <h5>THE BEST TAIL I EVER HAD!</h5>
@@ -153,7 +152,7 @@
         <img src="http://www.safemapcozumel.com/images/anunciantes/albertos/albertos.jpg">
       </div>
       <div class="col2">
-        Here is a picture of one of their lobster tails. Lobeter tails are their specialty and they are sold by weight. If you want to see what a fresh red snapper looks like just click on the picture to the right. They have a boat that stops by every morning to sell them fresh fish caught that day. Our Cozumel Beaches rarely have the fisherman pull right up to the dock and sell fish to the beaches like this. If you take a look at the picture you can see how fresh the snapper is because when they are fresh the eyes are still crystal clear!
+        Aquí está una foto de uno de sus colas de langosta. Colas Lobeter son su especialidad y que se venden por peso. Si quieres ver lo que un pargo rojo fresco parece simplemente haga clic en la imagen a la derecha. Tienen un barco que se detiene por cada mañana para vender pescado fresco capturado ese día. Nuestras Playas en Cozumel rara vez tienen el pescador tirar hasta el muelle y vender pescado a las playas de este tipo. Si usted echa un vistazo a la foto se puede ver como el pargo fresco se debe a que cuando están frescos los ojos son todavía muy claro!
       </div>
     </div>
 
@@ -164,7 +163,8 @@
         </a>
       </div>
       <div class="col2">
-        Alberto's place is a definite must vacation visit if you want non-commercial, natural, rustic, east side of the island tranquility, and to just get away and experience what Cozumel beaches used to be like many years ago. They even have beautiful white sand that gently slops into the water and not as rocky as many other beaches.      </div>
+        Lugar de Alberto es una necesidad definida de vacaciones visitar si desea no comercial, natural, rústico lado, al este de la isla de tranquilidad, y para hacer una escapada y experimentar lo que las playas de Cozumel solía ser como hace muchos años. Incluso tienen arena blanca que suavemente vinazas en el agua y no es tan rocosa como muchas otras playas.
+             </div>
       </div>
 
       <div id="advertiser">
@@ -172,18 +172,18 @@
 
           <table class="info-advertiser">
             <tr>
-              <td class="campo">Address 1:</td> <td class="dato">Rafael E. Melgar inside Hotel Costa Brava.</td>
+              <td class="campo">Dirección 1:</td> <td class="dato">Rafael E. Melgar demtro Hotel Costa Brava.</td>
             </tr>
             <tr>
-              <td class="campo">Address 2:</td><td class="dato"> 18 km south coast road.</td>
+              <td class="campo">Dirección 2:</td><td class="dato"> 18 km al sur carretera de la costa.</td>
             </tr>
             <tr>
-              <td class="campo">Phone:</td><td class="dato">  987 869 1228</td>
+              <td class="campo">Teléfono:</td><td class="dato">  987 869 1228</td>
             </tr>
             <tr>
               <td colspan="2" class="info-email">
-                <a href="http://safemapcozumel.com/restaurants/albertos/" id="contacto">
-                  "Send a Email"
+                <a href="http://safemapcozumel.com/spanish/restaurantes/albertos/" id="contacto">
+                  "Envia un Email"
                   <!--albertosbeachbar@hotmail.com --></a>
                 </td>
               </tr>
@@ -196,15 +196,15 @@
           </div>
         </div>
         <hr class="divide" />
-        <h3>About Us</h3>
+        <h3>Acerca de Nosotros</h3>
         <a href="http://www.safemapcozumel.com/images/anunciantes/albertos/restaurant.jpg" id="banner">
           <img src="http://www.safemapcozumel.com/images/anunciantes/albertos/restaurant.jpg" class="imagen-advertiser">
         </a>
         <p>
-          Albertos Beach Bar is also Know "El paso del Cedral" due to the fact that it's found in the cozumel village of the same name. The gigantic cross found at the front was built to honor the festivities of "Santa Cruz" which are celebrated by the habitants of the town.
+          Albertos Beach Bar también Know "El Paso del Cedral", debido al hecho de que se encuentra en el pueblo cozumel del mismo nombre. La cruz gigantesca encuentra en la parte delantera fue construido en honor a las fiestas de "Santa Cruz", que se celebran por los habitantes de la ciudad.
         </p>
         <hr class="divide" />
-        <h3>Our Gallery</h3>
+        <h3>Galería</h3>
         <ul class="bxslider">
           <li><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/1big.jpg" /></li>
           <li><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/2big.jpg" /></li>
@@ -217,13 +217,13 @@
           <a data-slide-index="2" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/3.jpg" /></a>
         </div>
         <hr class="divide" />
-        <h3>Our Location</h3>
+        <h3>Ubicación</h3>
         <br />
         <a href="http://www.safemapcozumel.com/images/anunciantes/albertos/mapa.jpg" id="banner">
           <img src="http://www.safemapcozumel.com/images/anunciantes/albertos/mapa.jpg" class="imagen-advertiser">
         </a>
         <hr class="divide" />
-        <h3>Our Video</h3>
+        <h3>Video</h3>
         <br />
         <object class="imagen" width="640" height="360"><param name="movie" value="http://www.youtube.com/v/1SHVSFWJDc8&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/1SHVSFWJDc8&hl=en_US&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></embed></object>
 

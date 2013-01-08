@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -153,14 +153,14 @@
       <h2>OHANA - CAFE AND BAR</h2>
  
     </div>
-    <h5>Good food, good drinks, good music, good people..</h5>
+    <h5>Buena comida, buenas bebidas, buena música, buena gente ..</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/ohana/ohanalogo.jpg">
       </div>
       <div class="col2">
-        'Ohana Café & Bar opened its doors on New Year's Eve, 2010. The concept of 'Ohana is to offer a laid back scene that feels like home for the island locals, ex-patriots and tourists alike. 'Ohana's scene stands behind the name itself and delivers a kind, friendly, welcome to all. The photos inside of the Café represent the family members involved in the venture and we are steadfast on preserving the spirit of family, love and the enjoyment of life.
+        'Ohana Café & Bar abrió sus puertas en la víspera de Año Nuevo de 2010. El concepto de 'Ohana es ofrecer un lugar relajado que se siente como en casa para los vecinos insulares, ex-patriotas y los turistas por igual. 'Ohana escena de pie detrás del mismo nombre y ofrece un amable, simpático, bienvenidos a todos. Las fotos en el interior del Café representar a los miembros de la familia involucrados en el negocio y estamos firmes en la preservación del espíritu de familia, el amor y la alegría de vivir.
       </div>
     </div>
 
@@ -171,7 +171,7 @@
        </a>
      </div>
      <div class="col2">
-      Our tagline is "Good Food, Good Drinks, Good Music, Good People & Great Times" and that is exactly what we deliver every day. So come enjoy our tropical outdoor patio, our music, our food, our drinks, our people…but most important, come enjoy yourself! See you soon at 'Ohana Café & Bar.
+      Nuestro lema es "buena comida, buenas bebidas, buena música, buena gente y Great Times" y eso es exactamente lo que ofrecemos todos los días. Así que venga a disfrutar de nuestro patio tropical al aire libre, nuestra música, nuestra comida, nuestras bebidas, nuestro pueblo ... pero lo más importante, venga a disfrutar de ti mismo! Nos vemos pronto en 'Café & Bar Ohana.
     </div>
   </div>
 
@@ -179,7 +179,7 @@
     <div class="col4">
       <table class="info-advertiser">
         <tr>
-          <td class="campo">Address:</td> <td class="dato">5 Avenue between 6 and 8 Street, Centro. Cozumel, Quintana Roo, Mexico</td>
+          <td class="campo">Dirección:</td> <td class="dato">5 Avenida entre calle 6 y 8, Centro. Cozumel, Quintana Roo, Mexico</td>
         </tr>
         <tr>
           <td class="campo">Website:</td>
@@ -187,8 +187,8 @@
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/restaurants/ohana/" id="contacto">
-              "Send a Email"
+            <a href="http://safemapcozumel.com/spanish/restaurantes/ohana/" id="contacto">
+              "Envia un Email"
               <!--ohanacozumel@yahoo.com --></a>
             </td>
           </tr>

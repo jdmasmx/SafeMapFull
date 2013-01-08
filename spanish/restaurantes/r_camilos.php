@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -141,19 +141,19 @@
    <div class="left-content">
 
     <div class="title_styling">
-      <h2>CAMILO'S - SEA FOOD</h2>
+      <h2>CAMILO'S - MARISCOS</h2>
       
     </div>
-    <h5>THE DIFFERENCE IN SEAFOOD</h5>
+    <h5>LA DIFERENCIA EN MARISCOS</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/camilos/camiloslogo.jpg">
       </div>
       <div class="col2">
-        Dedicated since 2003 to the creation of a menu of specialties from the sea and the most representative Mexican dishes offer from a rich shrimp taco, aguachile, ceviches, cocktails, to a delicious lobster or grilled seafood plus a wide variety refreshing drinks, beers and wines. 
+        Dedicado desde 2003 a la creación de un menú de especialidades del mar y los platos mexicanos más representativos de ofrecer un rico taco de camarón, aguachile, ceviches, cocteles, para una deliciosa langosta o pescado a la parrilla y una amplia variedad de bebidas refrescantes, cervezas y vinos .
         <br /> <br />
-        Delivery service and reservations at 987 872 61 61
+        Prestación de servicios y reservas en el 987 872 61 61
       </div>
     </div>
 
@@ -172,15 +172,15 @@
     <div class="col4">
       <table class="info-advertiser">
         <tr>
-          <td class="campo">Address 1:</td> <td class="dato">5 Avenue between 2 and 4 Street. <br />Centro. Cozumel, Quintana Roo, Mexico</td>
+          <td class="campo">Dirección 1:</td> <td class="dato">5 Avenida entre 2 y 4 . <br />Centro. Cozumel, Quintana Roo, Mexico</td>
         </tr>
         <tr>
-          <td class="campo">Phone:</td><td class="dato">987 872 61 61</td>
+          <td class="campo">Teléfono:</td><td class="dato">987 872 61 61</td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/restaurants/camilos/" id="contacto">
-              "Send a Email"
+            <a href="http://safemapcozumel.com/spanish/restaurantes/camilos/" id="contacto">
+              "Envia un Email"
               <!--mariscoscamilos@hotmail.com --></a>
             </td>
           </tr>
@@ -193,7 +193,7 @@
       </div>
     </div>
     <br />
-    <h3>Our Gallery</h3>
+    <h3>Nuestra Gelería</h3>
     <ul class="bxslider">
       <li><img src="http://www.safemapcozumel.com/images/anunciantes/camilos/1big.jpeg" /></li>
       <li><img src="http://www.safemapcozumel.com/images/anunciantes/camilos/2big.jpeg" /></li>

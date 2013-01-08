@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -161,8 +161,8 @@
         <img src="http://www.safemapcozumel.com/images/anunciantes/guidos/guidos.jpg">
       </div>
       <div class="col2">
-        Chef and restauranteur Yvonne Villiger has brought together passion for food, personal service and dedication, to this second-generation <strong>Cozumel restaurant</strong> established in 1978 by her father Guido. 
-        <br />The wood-fired oven where great tasting Pizza & Lasagna are cooked and their homemade Pastas make it a unique experience.
+        Chef y restaurador Yvonne Villiger ha reunido pasión por la comida, el servicio personalizado y dedicación, a esta segunda generación <strong> restaurante Cozumel </strong> creado en 1978 por su padre Guido.
+        <br />El horno de leña donde se cocinan pizza de gran sabor y Lasagna y sus pastas caseras que sea una experiencia única.
       </div>
     </div>
 
@@ -173,9 +173,9 @@
         </a>
       </div>
       <div class="col2">
-        Yvonne's daily Specials of fresh fish, seafood platters and meats are well known to locals and tourists alike. 
-        Guidos Cozumel Reastaurant in Mexico offers a finely selected assortment of international wines and Guido's famous pitcher of Sangria help round out a memorable meal. 
-        <br />Full Bar - House made desserts - Coffees and liqueurs
+        Ofertas diarias de Yvonne de pescado fresco, platos de mariscos y carnes son bien conocidos por los lugareños y turistas por igual.
+         Guidos Cozumel Reastaurant en México ofrece una amplia selección de vinos finos internacionales y famoso lanzador de Guido de vuelta Sangria ayudar a una comida memorable.
+         <br /> Todo tipo de alcohol - Casa de postres - Cafés y licores
       </div>
     </div>
 
@@ -183,15 +183,15 @@
       <div class="col4">
         <table class="info-advertiser">
           <tr>
-            <td class="campo">Address:</td> <td class="dato">Ave. Rafael E. Melgar #23 between Calle 6 & 8 North on the Waterfront,</td>
+            <td class="campo">Dirección:</td> <td class="dato">Ave. Rafael E. Melgar # 23 entre Calle Norte 6 y 8 de la línea de costa.</td>
           </tr>
           <tr>
-            <td class="campo">Phone:</td><td class="dato">987 872 0946</td>
+            <td class="campo">Teléfono:</td><td class="dato">987 872 0946</td>
           </tr>
           <tr>
             <td colspan="2" class="info-email">
-              <a href="http://safemapcozumel.com/restaurants/guidos/" id="contacto">
-                "Send a Email"
+              <a href="http://safemapcozumel.com/spanish/restaurantes/guidos/" id="contacto">
+                "Envia un a Email"
                 <!-- Info@guidoscozumel.com --></a>
               </td>
             </tr>
@@ -203,106 +203,95 @@
           </a>
         </div>
       </div>
-      <h3>Food & Drinks</h3>
-      <h4>Appetizers</h4>
+      <h3>Alimentos y Bebidas</h3>
+      <h4>Aperitivos</h4>
       <p>
-        <strong>Garlic Bread. </strong>Danish butter, Rosemary and garlic.<strong> $30<br>
-
-        Fish Carpaccio. </strong>Thin slices of fresh fish with our special vinaigrette.<strong> $105<br>
-
-        Beef Carpaccio. </strong>Thin slices of beef with basil pesto.<strong> $105<br>
-
-        Sautéed Wahoo. </strong>Thinly sliced with avocado and a fine herb dressing.<strong> $95<br>
-
-        Mixed House Salad.</strong> Selection of seasonal vegetables with Italian vinagrette.<strong> $65<br>
-
-        Caesar Salad. </strong>The classic lettuce, polenta croutons, anchovies and tomato salad.<strong> $75<br>
-
-        Capresse Salad. </strong>Slices of tomato and Oaxaca cheese with olive oil and fresh basil.<strong> $75<br>
-
-        Prosciutto plate.  </strong>Served with melon or seasonal fruit<strong>. $105<br>
-
-        Minestrone Soup. </strong>A tomato base with vegetables, pasta and parmesan cheese.<strong> $75<br>
-
-        Sautéed Shrimp. </strong>With local banana pepper and herb/garlic butter.<strong> $170<br>
-
-        Calamari “al ajillo”. </strong>Sautéed with guajillo pepper, olive oil, garlic and white wine.<strong> $85 </strong>
+        <strong> Pan de ajo. </strong> mantequilla danesa, romero y ajo. <strong> MedlinePlus $ 30<br />
+Carpaccio. </strong> rebanadas delgadas de pescado fresco con nuestra vinagreta especial. <strong> MedlinePlus 105 dólares<br />
+Beef Carpaccio. </strong> rebanadas delgadas de carne de res con pesto de albahaca. <strong> $ 105 MedlinePlus<br />
+Salteado de Wahoo. </strong> en rodajas finas con aguacate y vinagreta de finas hierbas. MedlinePlus <strong> $ 95<br />
+Ensalada de la casa compartida. </strong> La selección de verduras de temporada con vinagreta italiana. <strong> MedlinePlus $ 65<br />
+Caesar Salad. </strong> El clásico lechuga, crutones polenta, las anchoas y ensalada de tomate. <strong> $ 75 MedlinePlus<br />
+Capresse Salad. </strong> Las rebanadas de tomate y queso Oaxaca con aceite de oliva y albahaca fresca. <strong> $ 75 MedlinePlus<br />
+Prosciutto plato. </strong> Se sirve con melón o <strong> fruta de temporada. MedlinePlus 105 dólares<br />
+Sopa de Minestrone. </strong> A base de tomate con verduras, pasta y queso parmesano. <strong> $ 75 MedlinePlus<br />
+Salteado de gambas. </strong> Con pimienta plátano local y hierba / mantequilla de ajo. <strong> MedlinePlus 170 dólares<br />
+Calamari "al ajillo". </strong> guajillo salteados con pimienta, aceite de oliva, ajo y vino blanco. <strong> $ 85 </strong><br />
       </p>
       <br />
-      <h4>Home Made Pastas</h4>
+      <h4>Pastas Caseras</h4>
       <p>
-        <strong>Lasagna.  </strong>House specialty with Bolognese and béchamel sauce.<strong> $165<br>
-        Ravioli Ticinese. </strong>Stuffed with spinach and beef served with a light meat sauce.<strong> $165<br>
-        Fetuccini Alfredo. </strong>Light cream sauce with sautéed mushrooms and julienne ham.<strong> $165<br>
-        Fetuccini Yvonne.  </strong>With chicken confit, basil pesto and sautéed concassé tomato.<strong> $175<br>
-        Spaguetti Napolitano. </strong>Slow simmered fresh tomato sauce and grated parmesan cheese.<strong> $165<br>
-        Spaguetti Bolognese. </strong>My grandmothers 6 hour stove top recipe.<strong> $165<br>
-        Spaguetti Gamberi. </strong>with sautéed shrimp, garlic, olive oil and parmesan.<strong> $195<br>
-        Tortellini Livornese.  </strong>Stuffed with spinach and cheese served with shrimp in a creamed tomato sauce.<strong> $195<br>
-        Spinch Linguini. </strong>With shrimp and Pernod cream sauce. <strong>$195</strong> 
+        <strong> Lasagna. </strong> con especialidad de la casa boloñesa y salsa bechamel. <strong> MedlinePlus 165 dólares<br />
+        Ravioli Ticinese. </strong> Rellenos de espinacas y carne de res servido con una salsa de carne blanca. <strong> MedlinePlus 165 dólares<br />
+        Fetuccini Alfredo. </strong> salsa de crema ligera con salteado de setas y jamón en juliana. <strong> MedlinePlus 165 dólares<br />
+        Fetuccini Yvonne. </strong> Con pollo confitado, pesto de albahaca y tomate concassé salteados. <strong> $ 175 MedlinePlus<br />
+        Spaguetti Napolitano. </strong> Slow salsa a fuego lento tomate fresco y queso parmesano rallado. <strong> MedlinePlus 165 dólares<br />
+        Spaguetti Boloñesa. </strong> Mis abuelas 6 horas receta estufa superior. <strong> MedlinePlus 165 dólares<br />
+        Spaguetti Gamberi. </strong> con gambas salteadas, ajo, aceite de oliva y queso parmesano. MedlinePlus <strong> $ 195<br />
+        Tortellini Livornese. </strong> Rellenos de espinacas y queso servido con camarones en salsa de tomate cremosa. <strong> MedlinePlus 195 dólares<br />
+        Spinch Linguini. </strong> con camarones y salsa de crema de Pernod. <strong> $ 195 </strong> <br />
       </p>
       <br />
-      <h4>Main Courses (served with garnish)</h4>
+      <h4>Platos Principales (servido con guarnición)</h4>
       <p>
-        <strong>Seasonal Fresh Fish. </strong>With a browned butter and black olives, capers and lime.<strong> $230<br>
-        Gulf Shrimp.  </strong>Sautéed in garlic, Provence herb butter and local banana pepper.<strong> $260<br>
-        Octopus “a la Gallega”. </strong>Cooked tender and sautéed in olive oil, garlic and Spanish paprika<strong> $190<br>
-        Sea Scallops. </strong>Wrapped in prosciutto served with risotto Milanese and orange beurre blanc sauce.<strong> $230<br>
-        Filet Mignon. </strong>Pan seared served with demi glace and herb butter (9 ounce)<strong> $315<br>
-        Angus Rib.  </strong>Pan seared served with demi glace and herb butter (14 ounce)<strong> $395<br>
-        Chicken Breast.</strong>Stuffed with spinach and cheese in a potato crust with rosemary sauce.<strong> $235 </strong> 
+        <strong> pescado fresco de temporada. </strong> Con mantequilla dorada y aceitunas negras, alcaparras y <strong> cal. MedlinePlus 230 dólares
+      Camarones del Golfo. </strong> salteados en ajo, mantequilla de hierbas Provenza y pimienta plátano local. <strong> MedlinePlus 260 dólares<br />
+      Pulpo "a la gallega". </strong> tierno cocido y salteado en aceite de oliva, ajo y pimentón español <strong> MedlinePlus 190 dólares<br />
+      Vieiras. </strong> Envuelto en prosciutto servido con risotto milanés y naranja salsa beurre blanc. <strong> MedlinePlus 230 dólares<br />
+      Filet Mignon. </strong> Filete servido con demi glace y mantequilla de hierbas (9 onzas) de MedlinePlus <strong> $ 315<br />
+      Angus Rib. </strong> Filete servido con demi glace y mantequilla de hierbas (14 onzas) de MedlinePlus <strong> $ 395<br />
+      Pechuga de Pollo. </strong> Rellenos de espinacas y queso en costra de patata con salsa de romero. <strong> $ 235 </strong><br />
       </p>
       <br />
-      <h4>Pizzas Baked in a Wood Fired Oven</h4>
-      <p>
-        <strong>Pizza Margherita.</strong> Fresh tomato sauce and cheese, seasoned with fresh basil <strong>$155</strong><br />
-        <strong>Pizza Napolitana.</strong> Fresh tomato sauce and cheese, anchovies, capers and oregano <strong>$165</strong><br />
-        <strong>Pizza Marinera.</strong> Fresh tomato sauce and cheese, shrimp and marjoram <strong>$165</strong><br />
-        <strong>Pizza San Miguel.</strong> Fresh tomato sauce and cheese, pepperoni and oregano <strong>$160</strong><br />
-        <strong>Pizza Cozumel.</strong> Fresh tomato sauce and cheese, ham and onions with oregano <strong>$160</strong><br />
-        <strong>4 Seasons Pizza.</strong> Fresh tomato sauce and cheese, ham, mushrooms, black olives and asparagus. <strong>$165</strong><br />
-        <strong>Vegetarian Pizza.</strong> Fresh tomato sauce and cheese, mushrooms, onions, peppers, olives and asparagus <strong>$160</strong><br />
-        <strong>Guido´s Calzone.</strong> Fresh tomato sauce, cheese, ham and mushrooms in a folded pizza covered with tomato sauce <strong>$165</strong><br />
-        <strong>Pizza Daniel.</strong> Fresh tomato sauce and cheese, sliced prosciutto and fresh basil <strong>$175</strong><br />
-        <strong>Fisherman’s Pizza.</strong> Fresh tomato sauce, cheese, tuna, jalapeño pepper and red onion <strong>$165</strong><br />
-        <strong>Bolognese Pizza.</strong> Fresh tomato sauce and cheese, italian style ground beef in bolognese sauce <strong>$165</strong><br />
+      <h4>Pizzas al horno de leña</h4>
+      <p> <strong> Pizza Margherita. </strong> salsa de tomate fresco y queso, sazonada con albahaca fresca <strong> $ 155 </strong> <br />
+  <strong> Pizza Napolitana. </strong> Fresh salsa de tomate y queso, anchoas, alcaparras y orégano <strong> $ 165 </strong> <br />
+  <strong> de Pizza Marinera. </strong> Fresh salsa de tomate y queso, gambas y <strong> mejorana $ 165 </strong> <br />
+  <strong> Pizza San Miguel. </strong> Fresh salsa de tomate y queso, pepperoni y <strong> orégano $ 160 </strong> <br />
+  <strong> pizza Cozumel. </strong> Fresh salsa de tomate y queso, jamón y cebollas con orégano <strong> $ 160 </strong> <br />
+  <strong> 4 Seasons Pizza. </strong> salsa de tomate y queso fresco, jamón, champiñones, aceitunas negras y espárragos. <strong> $ 165 </strong> <br />
+  Pizza Vegetariana <strong>. </strong> salsa de tomate fresco y queso, champiñones, cebollas, pimientos, aceitunas y espárragos <strong> $ 160 </strong> <br />
+  Calzone <strong> Guido. </strong> salsa de tomate fresco, queso, jamón y champiñones en una pizza doblada cubierto con salsa de tomate <strong> $ 165 </strong> <br />
+  <strong> Pizza Daniel. </strong> Fresh salsa de tomate y queso, jamón rebanado y <strong> albahaca fresca $ 175 </strong> <br />
+  Pescador de pizza <strong>. </strong> salsa de tomate fresco, queso, atún, chile jalapeño y cebolla roja <strong> $ 165 </strong> <br />
+  <strong> Bolognese Pizza. </strong> Fresh salsa de tomate y queso, carne de res estilo italiano terreno en <strong> salsa boloñesa $ 165 </strong> <br />
       </p>
       <br />
-      <h4>Desserts the perfect ending</h4>
-      <p>
-        Bread Pudding with Baileys sauce and moka ice cream <strong>$65</strong><br />
-        Chocolate Brownie with cinnamon ice cream <strong>$65</strong><br />
-        Créme Brulée of the day <strong>$65</strong><br />
-        Warm sticky toffee cake with rum sauce and vanilla ice cream <strong>$75</strong><br />
-        Swiss Style chocolate mousse <strong>$65</strong><br />
-        Vanilla ice cream cake with mango, flamed with orange liqueur <strong>$65</strong><br />
-        Guidos home made ice creams, coconut Ice Cream with kalhua, Vanilla Ice Cream with hot chocolate sauce, Flavor of the week <strong>$45</strong><br />
-        Banana Supreme ice cream, chocolate and almonds, over bananas falmed with orange liquor <strong>$65</strong><br />
-        Caramel flan <strong>$55</strong><br />
+      <h4>Postres el final perfecto</h4>
+      <p>Budín de pan con salsa de Baileys y helado de crema moka <strong> $ 65 </strong> <br />
+        Brownie de chocolate con helado de canela <strong> $ 65 </strong> <br />
+        Créme Brulée de la <strong> día $ 65 </strong> <br />
+        Pastel caliente caramelo pegajoso con salsa de ron y helado de vainilla <strong> $ 75 </strong> <br />
+        Mousse de chocolate suizo Estilo <strong> $ 65 </strong> <br />
+        Helado de vainilla con crema de pastel de mango, flameado con licor de naranja <strong> $ 65 </strong> <br />
+        Guidos hecho en casa helados, helados de coco con Kalhua, helado de vainilla con salsa de chocolate caliente, el sabor de la <strong> semana $ 45 </strong> <br />
+        Plátano Supremo helado, chocolate y almendras, sobre los plátanos falmed <strong> con licor de naranja $ 65 </strong> <br />
+        Caramel flan <strong> $ 55 </strong> <br />
       </p>
       <br />
-      <h4>Coffees(Organic shade grown from Coatepec, Veracruz)</h4>
+      <h4>Cafés (sombra orgánico cultivado a partir de Coatepec, Veracruz)</h4>
       <p>
-        <strong>Expresso</strong>, Cappuccino or American <strong>$38</strong><br />
-        <strong>Spanish.</strong> Kahlua, brandy, coffe & whipped cream <strong>$90 </strong><br />
-        <strong>Italian.</strong> Frangelico, chocolate, coffee & whipped cream <strong>$90</strong><br />
+        <strong> Expresso </strong>, Cappuccino o <strong> Americano $ 38 </strong> <br />
+        <strong> Españoles. </strong> Kahlúa, brandy, café y crema batida <strong> $ 90 </strong> <br />
+        <strong> Italiano. </strong> Frangelico, chocolate café, y crema batida <strong> $ 90 </strong> <br />
+
       </p>
       <br />
-      <h4>Dessert Wines</h4>
+      <h4>Vinos Postres</h4>
       <p>
-        Muscat Beaumes de Venise (natural sweet) <strong>$85</strong><br />
-        Loupiac Gaudiet (Botrytis) <strong>$85 </strong><br />
-        Banyuls Grenache Noir (Mutage) <strong>$85</strong><br />
+       Muscat Beaumes de Venise (dulce natural) <strong> $ 85 </strong> <br />
+       Loupiac Gaudiet (Botrytis) <strong> $ 85 </strong> <br />
+       Banyuls Grenache Noir (Mutage) <strong> $ 85 </strong> <br />
       </p>
       <br />
-      <strong>Daily Specials:Our daily specials are prepared with fresh seasonal ingredients, therefore quantities are limited.</strong>
+      <strong>Especiales del Día: Nuestras especialidades del día se preparan con productos frescos de temporada, por lo tanto, las cantidades son limitadas.</strong>
       <br />
       <div class="primary_btn_b">
         <a href="http://www.guidoscozumel.com/eng/menu.asp" target="_blank" class="italic">See All Menu</a>
       </div>
       <br class="clear" />
       <br />
-      <h3>Our Gallery</h3>
+      <h3>Nuestra Galería</h3>
       <a rel="guidos" href="http://www.safemapcozumel.com/images/anunciantes/guidos/1big.jpg" title="Guido's">
         <img alt="" src="http://www.safemapcozumel.com/images/anunciantes/guidos/1.jpg" />
       </a>

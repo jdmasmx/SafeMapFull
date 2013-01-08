@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -153,15 +153,15 @@
       <h2>KELLEYS SPORT BAR AND GRILL</h2>
      
     </div>
-    <h5>YOUR HOME AWAY FROM HOME IN COZUMEL MEXICO!!!</h5>
+    <h5>SU CASA FUERA DE CASA EN COZUMEL MÉXICO!!!</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/kelleyslogo.jpg">
       </div>
       <div class="col2">
-        Watch your favorite sporting events, listen to lively music, enjoy ice cold draft beer or a cocktail and interact with our friendly English-speaking staff or connect to our wireless internet... 
-        <br />whatever it takes to make your visit to Kelley's a memorable one. Large groups welcomed! Look for the green umbrellas and come on in!
+       Disfruta de tus eventos deportivos favoritos, escuchar música en vivo, disfrutar de la cerveza hielo fría corriente de aire o un cóctel e interactuar con nuestro amable personal que habla Inglés o conectarse a nuestro servicio de Internet inalámbrico ...
+         <br /> todo lo necesario para hacer de su visita a Kelley una experiencia memorable. Los grupos grandes bienvenidos! Busque las sombrillas verdes y entra!
 
       </div>
     </div>
@@ -173,7 +173,7 @@
        </a>
      </div>
      <div class="col2">
-      Kelley's is owned & operated by Gene Kelley. Located on Ave 10 just off the main plaza. Just head back from the waterfront 2 blocks and look for Kelley's Restaurant entrance between Street 1 and Ave. Rosado Salas.
+      Kelley es propiedad y operado por Gene Kelley. Situado en la Avenida 10 cerca de la plaza principal. Sólo la cabeza detrás de la línea de costa a 2 cuadras y buscar la entrada del restaurante Kelley entre la calle 1 y la avenida. Rosado Salas.
 
     </div>
   </div>
@@ -182,15 +182,15 @@
     <div class="col4">
       <table class="info-advertiser">
         <tr>
-          <td class="campo">Address:</td> <td class="dato">Ave 10 between Street 1 and Ave. Rosado Salas.</td>
+          <td class="campo">Dirección:</td> <td class="dato">Ave 10 between Street 1 and Ave. Rosado Salas.</td>
         </tr>
         <tr>
           <td class="campo">Website:</td> <td class="dato"><a href="http://www.kelleysbarandgrill.com/" target="_blank">www.kelleysbarandgrill.com/</a></td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/restaurants/kellys/" id="contacto">
-              "Send a Email"
+            <a href="http://safemapcozumel.com/spanish/restaurantes/kellys/" id="contacto">
+              "Envia un Email"
               <!-- kelleysbarandgrill@yahoo.com --></a>
             </td>
           </tr>
@@ -205,30 +205,30 @@
     <hr class="divide" />
     <img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/bannerhead.png" class="middle">
     <hr class="divide" />
-    <h3>Our Promotional Video</h3>
+    <h3>Nuestro Video Promocional</h3>
     <p class="img-middle">
       <iframe src="http://player.vimeo.com/video/16839513?byline=0&amp;portrait=0&amp;color=08f000&amp;autoplay=1&amp;loop=1" width="400" height="225" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
     </p>
     <hr class="divide" />
-    <h3>Testimonials</h3>
+    <h3>Testimonios</h3>
 
-    <strong><i>Kelleys is just great! It's a hometown bar in Cozumel. We have been going to Kelleys for years. We signed our name on the bar signing board years ago and always come back to see our names. He's the only one that has the NFL reliably. It's all smiles when it comes to the food they serve, and Kelley always comes by to say hi and check on you. It's a great place to hang out for a game. 
-      <br />Ed and Amie McCombs from Austin, Tx.</i></strong>
-      <br /><br />
-      <strong><i>This was a wonderful bar! Great food, friendly people and right in the middle of town. The ladies were able to enjoy each others company drinking margarita's while the boys had a blast catching up on monday night football. If you are from Denver you will love this place! The owner is from Frisco, CO and is a huge Denver sports fan. Did I mention the food is wonderful? Would recommend to anyone. 
-        <br />Laura Bohannon from Denver, CO</i></strong>
+    <strong> Kelleys <i> es simplemente genial! Es un bar de pueblo en Cozumel. Hemos estado yendo a Kelleys durante años. Firmamos nuestro nombre en la barra de la firma bordo años y siempre vuelvo a ver nuestros nombres. Él es el único que tiene la NFL con fiabilidad. Es todo sonrisas cuando se trata de la comida que sirven, y Kelley siempre sale a saludar y ver cómo estabas. Es un gran lugar para pasar el rato por un juego.
+<br /> Ed y McCombs Amie desde Austin, Tx. </i> </strong>
+<br /> <br />
+<strong> <i> Este fue un maravilloso bar! Buena comida, gente amable y justo en el medio de la ciudad. Las mujeres han podido disfrutar de la compañía del otro bebiendo margarita mientras los niños tenía una maravilla ponerse al día en Monday Night Football. Si usted es de Denver, le encantará este lugar! El propietario es de Frisco, CO y Denver es un gran aficionado a los deportes. ¿Mencioné que la comida es una maravilla? Se lo recomendaría a cualquiera.
+<br /> Laura Bohannon desde Denver, CO </i> </strong>
         <div class="primary_btn_b">
-          <a href="http://www.kelleysbarandgrill.com/gbook17/gbook.php" target="_blank" class="italic">SEE MORE TESTIMONIALS
+          <a href="http://www.kelleysbarandgrill.com/gbook17/gbook.php" target="_blank" class="italic">VER MÁS TESTIMONIOS
           </a>
         </div>
         <hr class="divide" />
-        <h3>Sports Events</h3>
+        <h3>EVENTOS DEPORTIVOS</h3>
         <ul class="lista">
-          <li>All program in english.</li>
-          <li>Open area court yard 200 pax. capacity.</li>
-          <li>Round Bar with 7 tv's and 160 inch screen.</li>
-          <li>The best sports events like NFL, NHL, NCAA, NBA, MLS, UFC, PGA, St. patricks Party, Superbowl, Thanksgiving dinner, Christmas Party, and more events.</li>
-          <li>Best Seafood and mexican cuisine</li>
+          <li>Todos en Inglés.</li>
+          <li> superficie abierta patio 200 pax. capacidad. </li>
+          Bar <li> redonda con 7 televisores y 160 pulgadas de pantalla. </li>
+          <li> mejores eventos deportivos como NFL, NHL, NCAA, NBA, MLS, UFC, PGA, St. Patricks Parte, Superbowl, la cena de Acción de Gracias, la fiesta de Navidad, y más eventos. </li>
+            Best Seafood <li> y cocina mexicana </li>
         </ul>
         <hr class="divide" />
         <p class="img-middle">
@@ -239,13 +239,13 @@
           <img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/banners/mayo.jpg">
           <br />
           <div class="primary_btn_b">
-            <a href="http://www.kelleysbarandgrill.com/" target="_blank" class="italic">SEE MORE EVENTS</a>
+            <a href="http://www.kelleysbarandgrill.com/" target="_blank" class="italic">VER MÁS AVENTOS</a>
           </div>
           <br />
-          <strong>For more information or to schedule an appointment, please email us at <a href="mailto:kelleysbarandgrill@yahoo.com"></a>kelleysbarandgrill@yahoo.com</strong>
+          <strong>Para obtener más información o para programar una cita, por favor envíenos un email a <a href="mailto:kelleysbarandgrill@yahoo.com">kelleysbarandgrill@yahoo.com</a></strong>
         </p>
 
-        <h3>Our Gallery</h3>
+        <h3>Galería</h3>
         <p class="img-middle">
 
           <a rel="kellys" href="http://www.safemapcozumel.com/images/anunciantes/kelleys/3big.jpg" title="Kelly's">
@@ -307,14 +307,14 @@
           </a>
 
         </p>
-        <h3>Mexican and SeaFood Cuisine</h3>
+        <h3>Cocina Mexicana y Mariscos</h3>
         <p>
           <img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/alitasKelleys.jpg" class="left" width="314">
-          After your first visit to Kelley's, you'll have found your home away from home. Our outdoor bar & patio grill is the perfect setting for any occasion.
-          <br />And bring your appetite... our Chef serves up huge portions of some of the tastiest dishes in Cozumel. Favorite menu items include our homemade Chili Dogs, Rueben Sandwiches, giant Burritos, and some other specialties you won't find anywhere else…like our Curry dishes, Irish Stew and real southern-style Chicken Fried Steak and mashed potatoes.
+          Después de su primera visita a Kelley, usted ha encontrado su hogar lejos de casa. El bar al aire libre y parrilla patio es el lugar perfecto para cualquier ocasión.
+<br /> Y trae tu apetito ... el chef sirve porciones enormes de algunos de los más sabrosos platos en Cozumel. Elementos favoritos del menú incluyen nuestros perros caseros Chili, Sandwiches Rueben, Burritos gigante, y algunas otras especialidades que no encontrará en ningún otro lugar ... como nuestros platos al curry, estofado irlandés y verdadero estilo sureño filete de pollo frito y puré de papas.
         </p>
         <br />
-        <h3>Our Delicious Food</h3>
+        <h3>Nuestra comida es deliciosa</h3>
         <ul class="bxslider">
           <li><img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/bbq-chicken-wings.jpg" /></li>
           <li><img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/ceviche.jpg" /></li>
@@ -334,7 +334,7 @@
           <a data-slide-index="5" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/kelleys/shrimp.jpg" width="100" /></a>
         </div>
         <div class="primary_btn_b">
-          <a href="http://www.kelleysbarandgrill.com/" target="_blank" class="italic">SEE ALL THE MENU</a>
+          <a href="http://www.kelleysbarandgrill.com/" target="_blank" class="italic">VER TODO EL MENÚ</a>
         </div>
 
       </div>
