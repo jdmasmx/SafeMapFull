@@ -145,11 +145,11 @@
             </div>
             <h4 style="color:#fff;"> En este sitio: </h4>
             <ul style="color:#fff;">
-                <li> <a href="issues.php">Imprimir Mapa Cozumel.</a></li>
-                <li> <a href="where-to-stay.php">Dónde alojarse en Cozumel.</a></li>
-                <li> <a href="things-to-do.php">Cosas que hacer en Cozumel.</a></li>
-                <li> <a href="how-to-het.php">Como llegar a Cozumel.</a></li>
-                <li> <a href="interactive-map.php">Mapa interactivo de Cozumel.</a></li>
+                <li> <a href="ediciones.php">Imprimir Mapa Cozumel.</a></li>
+                <li> <a href="donde-hospedarse.php">Dónde alojarse en Cozumel.</a></li>
+                <li> <a href="actividades.php">Cosas que hacer en Cozumel.</a></li>
+                <li> <a href="como-llegar.php">Como llegar a Cozumel.</a></li>
+                <li> <a href="mapa-interactivo.php">Mapa interactivo de Cozumel.</a></li>
             </ul>
             <div class="primary_btn">
                 <a href="tourist_information.php" class="italic">Leer Mas</a>
