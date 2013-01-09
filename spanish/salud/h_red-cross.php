@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -141,17 +141,17 @@
    <div class="left-content">
 
     <div class="title_styling">
-      <h2>COZUMEL RED CROSS</h2>
+      <h2>CRUZ ROJA COZUMEL</h2>
      
     </div>
-    <h5>HUMANITARIAN INSTITUTION PROVIDING HEALTH SERVICES.</h5>
+    <h5>INSTITUCIÓN HUMANITARIA PRESTACIÓN DE SERVICIOS DE SALUD.</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/cruzroja.jpg">
       </div>
       <div class="col2">
-        Cruz Roja Cozumel, the Cozumel Red Cross, provides vital services to maintain health and safety for all of the island's residents and visitors. We serve the community 24/7 with emergency response and medical services; lifeguard, first aid and other training; health education and disaster preparation and relief.
+        Cruz Roja Cozumel, Cozumel la Cruz Roja, presta servicios vitales para mantener la salud y la seguridad para todos los habitantes de la isla y visitantes. Servimos a la comunidad 24/7 con la respuesta de emergencia y servicios médicos; salvavidas, primeros auxilios y otro tipo de formación, la educación sanitaria y la preparación ante desastres y relief.Cruz Roja Cozumel, Cozumel la Cruz Roja, presta servicios vitales para mantener la salud y la seguridad para todos de la isla residentes y visitantes. Servimos a la comunidad 24/7 con la respuesta de emergencia y servicios médicos; salvavidas, primeros auxilios y otro tipo de formación, educación para la salud y la preparación y atención de desastres.
       </div>
     </div>
 
@@ -162,7 +162,8 @@
        </a>
      </div>
      <div class="col2">
-      Cozumel remained sparsely populated before Jacques Cousteau's historic visit in 1959. During the 1960's and 70's, the island built its infrastructure and reputation as a mecca for divers and tourists. By 1983, the population had grown to 20,000 yet there was no emergency medical service. That year, a small group of concerned volunteers banded together to found a Red Cross chapter and provide an ambulance for Cozumel.
+      Cozumel se mantuvo escasamente poblada antes de la histórica visita de Jacques Cousteau en 1959. Durante los años 1960 y 70, la isla construyó su infraestructura y su reputación como una meca para los buceadores y turistas. Para 1983, la población había crecido a 20.000 aún no había servicio médico de emergencia. Ese año, un pequeño grupo de voluntarios interesados ​​se unieron para fundar un capítulo de la Cruz Roja y de proporcionar una ambulancia para Cozumel.
+
     </div>
   </div>
 
@@ -170,16 +171,16 @@
     <div class="col4">
       <table class="info-advertiser">
         <tr>
-          <td class="campo">Address:</td> <td class="dato">65 Ave. and 25 th Street.</td>
+          <td class="campo">Direccion:</td> <td class="dato">65 Ave. and 25 th Street.</td>
         </tr>
         <tr>
-          <td class="campo">Emergency:</td><td class="dato">Call 065</td>
+          <td class="campo">Emergencía:</td><td class="dato">Llama 065</td>
         </tr>
         <tr>
-          <td class="campo">Phone 1:</td><td class="dato">987 872 1057</td>
+          <td class="campo">Teléfono 1:</td><td class="dato">987 872 1057</td>
         </tr>
         <tr>
-          <td class="campo">Phone 2:</td><td class="dato">987 872 1058</td>
+          <td class="campo">Teléfono 2:</td><td class="dato">987 872 1058</td>
         </tr>
         <tr>
           <td class="campo">Website:</td><td class="dato"><a href="http://www.cruzrojacozumel.org/enhome.html" target="_blank">Cozumel Red Cross</a></td>
@@ -188,12 +189,12 @@
           <td class="campo">Website:</td><td class="dato"><a href="http://www.cruzrojacozumel.org/friendsoverview.html" target="_blank">Friends of Cruz Roja Cozumel</a></td>
         </tr>
         <tr>
-          <td class="campo">How to Help:</td><td class="dato"><a href="http://www.cruzrojacozumel.org/friendsdonate.html" target="_blank">DONATIONS</a></td>
+          <td class="campo">Donaciones:</td><td class="dato"><a href="http://www.cruzrojacozumel.org/friendsdonate.html" target="_blank">DONATIONS</a></td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/health/red-cross/" id="contacto">
-              "Send a Email"
+            <a href="http://safemapcozumel.com/spanish/salud/red-cross/" id="contacto">
+              "Envia un Email"
               <!-- deb@cruzrojacozumel.org --></a>
             </td>
           </tr>
@@ -210,35 +211,37 @@
     <img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/fachada.jpg" class="middle">
     <hr class="divide" />
     <p>
-      <img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/img1.jpg" class="left">You may be wondering why the Red Cross is marked prominently on Cozumel tourist maps and why we think it's so important to lend our – and your -- support. Since the Red Cross is so well known internationally as disaster relief agency and a provider of community blood banks, the reasons certainly aren't obvious! Please allow us to explain:
+      <img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/img1.jpg" class="left">Usted se estará preguntando por qué la Cruz Roja se marca prominente en los mapas turísticos en Cozumel y por qué creemos que es tan importante para prestar nuestra - y su - de apoyo. Dado que la Cruz Roja es tan conocida internacionalmente como la agencia de alivio de desastres y un proveedor de bancos de sangre, las razones no son ciertamente obvio! Si no nos permiten explicar:
       <br /><br />
-      In Mexico, the Cruz Roja's mission is much the same as in other parts of the world, but with a specific emphasis on community health care. Job one is to provide emergency medical services and emergency and relief to disaster victims. For Cruz Roja Mexicana to respond, the disaster need not be of overwhelming scope or effect a large number of people. When a person sustains an injury in a fall or a traffic accident, all it takes to get help is a three-digit phone call (dial 065). No matter what the time of day or night, the Red Cross has ambulances and paramedics waiting to assist, treat and transport. And this service is FREE! What an incredible safety net for both residents and visitors in Cozumel! We are very fortunate to have a Cruz Roja facility here.
+      En México, la misión de la Cruz Roja es lo mismo que en otras partes del mundo, pero con un énfasis especial en la atención comunitaria de la salud. Job es una prestación de servicios médicos de urgencia y de emergencia y de socorro a las víctimas del desastre. Para Cruz Roja Mexicana responde, el desastre no tiene que ser de alcance abrumador o efectuar un gran número de personas. Cuando una persona sufre una lesión en una caída o un accidente de tráfico, todo lo que necesita para obtener ayuda es una llamada telefónica de tres dígitos (dial 065). No importa cuál sea la hora del día o de la noche, la Cruz Roja cuenta con ambulancias y personal paramédico de espera para asistir, tratar y transportar. Y este servicio está LIBRE! ¡Qué increíble red de seguridad para los residentes y visitantes de Cozumel! Somos muy afortunados de tener un centro de Cruz Roja aquí.
+
       <br /><br />
       <img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/img2.jpg" class="right">
-      Another part of that mission is to "contribute to improve health, prevent disease and alleviate suffering of the population, especially those in a position of vulnerability." This means that Mexican Red Cross delegations, including Cozumel's, provide daily, affordable, professional medical services – available to anyone who wants to use them. For our visitors who want to consult a doctor but do not because of language barrier or concern for the cost or worries about the facility itself, it is important that you know that bilingual doctors are at the Red Cross, that the cost to see them is probably much less than a do-it-yourself solution, and that the facility is modern, clean, federally inspected and accredited.
+      Otra parte de esa misión es "contribuir a mejorar la salud, prevenir enfermedades y aliviar el sufrimiento de la población, especialmente aquellos en situación de vulnerabilidad". Esto significa que las delegaciones de la Cruz Roja Mexicana, incluyendo Cozumel, proporcionan diarias, servicios asequibles y profesionales médicos - a disposición de cualquiera que quiera utilizarlos. Para nuestros visitantes que desean consultar a un médico, pero no lo hacen porque la barrera del idioma o la preocupación por el costo o preocupaciones acerca de la instalación en sí, es importante que usted sepa que los médicos son bilingües en la Cruz Roja, que el costo de verlas es probablemente mucho menos que una solución del hágalo usted mismo, y que la instalación es moderno, limpio, inspección federal y acreditados.
     </p>
     <hr class="divide" />
-    <h3>Specific Services at Available at Cruz Roja Cozumel:</h3>
+    <h3>Servicios específicos con los que cuenta en la Cruz Roja Cozumel:</h3>
     <ul class="lista">
-      <li>Free emergency ambulance, 24/7/365</li>
-      <li>Dentist consulation, prices starting at 300 pesos (Spanish/English).</li>
-      <li>General Practitioner consultation, prices starting at 130 pesos (Spanish/English).</li>
-      <li>Low cost Clinical Lab Services.</li>
-      <li>An infirmary, staffed by nurses, for wound and burn treatment, vitals checks including blood sugar monitoring and management, injections, nebulization, cardiac monitoring, oxygen administration, and post-event or post-injury observation.</li>
-      <li>Rental wheelchairs, crutches, nebulizers, and other equipment.</li>
-      <li>Recuperative and therapeutic massage, including shiatsu and reflexology.</li>
-      <li>We do accept Visa and Mastercard.</li>
+      <li> ambulancia de emergencia gratuito, 24/7/365 </li>
+       consulation <li> Dentista, precios a partir de 300 pesos (Español / Inglés). </li>
+       consulta <li> Médico General, precios a partir de 130 pesos (Español / Inglés). </li>
+       <li> bajo costo Servicios de Laboratorio Clínico. </li>
+       <li> una enfermería, atendida por enfermeras, para el tratamiento de heridas y quemaduras, comprueba signos vitales incluyendo el monitoreo de azúcar en sangre y de gestión, inyecciones, nebulización, monitorización cardíaca, la administración de oxígeno, y después del evento o de la observación después de la lesión. </li>
+       <li> alquiler sillas de ruedas, muletas, nebulizadores y otros equipos. </li>
+       <li> masaje recuperador y terapéuticos, incluyendo shiatsu y reflexología. </li>
+       <li> aceptan Visa y Mastercard. </li>
     </ul>
-    <strong>For more information or to schedule an appointment, please call the Cruz Roja at 869-0698 or 872-1058</strong>
-    <h3>How We Can Help the Cozumel Red Cross?</h3>
+ <strong> Para más información o para programar una cita, por favor llame a la Cruz Roja a 869-0698 o 872-1058 </strong>
+     <h3> ¿Cómo podemos ayudar a la Cruz Roja Cozumel? </h3>
 
-    <p>Cozumel Red Cross works very hard to stretch the money so that it can offer these services and add more. 
-      It accepts private donations only and, as the island's population is small and incomes are low, the institution requires outside help to keep its doors open. This is how both we and you can make a real contribution to the island:</p>
+    <p>Cozumel Cruz Roja trabaja muy duro para estirar el dinero para que pueda ofrecer estos servicios y añadir más.
+       Acepta donaciones privadas y sólo, cuando la población de la isla es pequeña y los ingresos son bajos, la institución requiere ayuda externa para mantener sus puertas abiertas. Así es como nosotros y usted puede hacer una contribución real a la isla: </p>
+
       <img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/drawinMini.jpg" class="right">
       <ul class="lista">
-        <li>Book excursions through SAFE TOURS COZUMEL! They will donate 10% of your booking fee directly to Cozumel's Red Cross.</li>
-        <li>If you have need for medical services in Cozumel, use the Red Cross's doctors and infirmary.</li>
-        <li>DONATE money via PayPal or DONATE to donativos@cruzrojacozumel.org or offer to buy and bring consumable medical supplies. http://www.cruzrojacozumel.org/friendsoverview.html</li>
+        <li>Excursiones  reservar a través COZUMEL TOURS seguro! Se donará el 10% de la cuota de reserva directamente a la Cruz Roja de Cozumel. </Li>
+         <li> Si usted tiene necesidad de servicios médicos en Cozumel, acudir a los médicos de la Cruz Roja y la enfermería. </li>
+         <li> donar dinero a través de PayPal o donar a donativos@cruzrojacozumel.org u ofrecer comprar y traer insumos médicos. http://www.cruzrojacozumel.org/friendsoverview.html </li>
       </ul>
       <img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/gallery.jpg" class="middle">
       <a href="http://www.cruzrojacozumel.org/friendsdonate.html" target="_blank">
@@ -247,7 +250,7 @@
 
       <div id="advertiser">
         <div class="col3">
-          <h4>Video About Red Cross Cozumel (Spanish)</h4>
+          <h4>Acerca de la Cruz Roja de Cozumel</h4>
           <iframe width="280" height="230" src="http://www.youtube.com/embed/H0yzQJBohbI" frameborder="0" allowfullscreen=""></iframe>
         </div>
         <div class="col3">
@@ -256,7 +259,17 @@
         </div>
       </div>
 
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
       <!-- ////left content end//// -->
     </div>
     <!-- ////left content end//// -->

@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -151,7 +151,7 @@
         <img src="http://www.safemapcozumel.com/images/anunciantes/geckocreativo/geckocreativologo.jpg">
       </div>
       <div class="col2">
-        Gecko Creativo is a team of dedicated design and web professionals based in Cozumel México, who come from and specialize in a variety of media and interactive backgrounds. We bring our cross disciplinary experience to each project, taking advantage of emerging technologies and combining the sum of our abilities to deliver successful and innovative business solutions. </div>
+        Gecko Creativo es un equipo de profesionales dedicados y diseño web con sede en Cozumel México, que vienen y se especializan en una variedad de medios y fondos interactivos. Aportamos nuestra experiencia disciplinaria cruz para cada proyecto, aprovechando las nuevas tecnologías y la combinación de la suma de nuestras capacidades para ofrecer soluciones de negocios exitosos e innovadores. </div>
       </div>
 
       <div id="advertiser">
@@ -161,8 +161,9 @@
          </a>
        </div>
        <div class="col2">
-        Our philosophy is simple, from concept to development we take pride in our work ensuring every piece is something we can be proud of. It's this attitude that motivates us to discover new and exciting opportunities. 
-        <br />For a smaller company, we have low overheads which enables us to provide very competitive rates, this allows us to maximise your budget and lets us deliver outstanding results which help benefit your company best.
+        Nuestra filosofía es simple, desde el concepto hasta el desarrollo nos sentimos orgullosos de nuestro trabajo de asegurar que cada pieza es algo que podemos estar orgullosos. Es esta actitud la que nos motiva a descubrir nuevas y emocionantes oportunidades.
+         <br /> Para una empresa pequeña, tenemos unos gastos reducidos lo que nos permite ofrecer precios muy competitivos, lo que nos permite maximizar su presupuesto y nos permite entregar resultados excepcionales que ayudan a beneficiar a su empresa el mejor.
+
       </div>
     </div>
 
@@ -171,18 +172,18 @@
         <table class="info-advertiser">
 
           <tr>
-            <td class="campo" colspan="2">Graphic Design Office:</td>
+            <td class="campo" colspan="2">Oficina de Diseño Gráfico:</td>
           </tr>
           <tr>
-            <td class="dato" colspan="2">6 north Street between 25 and 30 Avenue.</td>
+            <td class="dato" colspan="2">Calle 6 norte entre 25 y 30 Avenida.</td>
           </tr>
           <tr>
-            <td class="campo">Phone:</td><td class="dato">987 11 777 16</td>
+            <td class="campo">Teléfono:</td><td class="dato">987 11 777 16</td>
           </tr>
           <tr>
             <td colspan="2" class="info-email">
-              <a href="http://safemapcozumel.com/agency/gecko/" id="contacto">
-                "Send a Email"
+              <a href="http://safemapcozumel.com/spanish/agencias/gecko/" id="contacto">
+                "Envia un Email"
                 <!-- myoung@geckocreativo.com , dzapata@geckocreativo.com--></a>
               </td>
             </tr>
@@ -195,16 +196,16 @@
               <td class="campo" colspan="2">Web Design & Development Office:</td>
             </tr>
             <tr>
-              <td class="dato" colspan="2">Juarez Avenue between 50 and 55 Street. inside the "Carolina Insurance Agency".</td>
+              <td class="dato" colspan="2">Avenida Juarez entre 50 y 55 . dentro de "Carolina Insurance Agency".</td>
             </tr>
             <tr>
-              <td class="campo">Phone:</td>
+              <td class="campo">Teléfono:</td>
               <td class="dato">987 87 381 82</td>
             </tr>
             <tr>
               <td colspan="2" class="info-email">
-                <a href="http://safemapcozumel.com/agency/gecko/" id="contacto">
-                  "Send a Email"
+                <a href="http://safemapcozumel.com/spanish/agencias/gecko/" id="contacto">
+                  "Envia un Email"
                   <!-- myoung@geckocreativo.com , dzapata@geckocreativo.com--></a>
                 </td>
               </tr>
@@ -238,6 +239,17 @@
 
         
         <!-- ////left content end//// -->
+        <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
       </div>
       <!-- ////left content end//// -->
 

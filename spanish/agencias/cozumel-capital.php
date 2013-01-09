@@ -15,7 +15,7 @@
   <meta name="author" content="Safe Map Cozumel" />
   <meta name="copyright" content="Safe Map Cozumel" />
   <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
   <script type="text/javascript">
@@ -32,20 +32,20 @@
 
   </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -152,8 +152,8 @@
           <img src="http://www.safemapcozumel.com/images/anunciantes/cozumelcapital/capital.jpg"></a>
         </div>
         <div class="col2">
-          With over 25 years experience in Cozumel real estate transactions we are <br />
-          committed to providing our clients the highest standards of professional service. At Cozumel Capital,you can search with confidence for your island home.
+          Con más de 25 años de experiencia en transacciones de bienes raíces en Cozumel somos <br />
+           comprometido a proporcionar a nuestros clientes los más altos estándares de servicio profesional. En Capital Cozumel, puede buscar con la confianza de su isla natal.
         </div>
       </div>
 
@@ -164,7 +164,7 @@
          </a>
        </div>
        <div class="col2">
-        Our team is trained and certified for real estate transactions in Mexico, fluent in both English and Spanish, and all have been part of this island community for many years.So if you are considering buying property in Cozumel, please know that you have friends you can trust to assist you every step of the way.
+        Nuestro equipo está capacitado y certificado para las transacciones de bienes raíces en México, con fluidez, en parte, Inglés y Español, y todos han sido de esta comunidad de la isla para muchos years.So si usted está considerando comprar una propiedad en Cozumel, debes saber que tienes amigos a los que puede confiar para ayudarle en cada paso del camino.
       </div>
     </div>
 
@@ -172,10 +172,10 @@
       <div class="col4">
         <table class="info-advertiser">
           <tr>
-            <td class="campo">Address:</td><td class="dato">5 Avenue corner of  5 South street</td>
+            <td class="campo">Dirección:</td><td class="dato">5 Avenida, esquina calle 5 sur</td>
           </tr>
           <tr>
-            <td class="campo">Phone:</td><td class="dato">87 20505</td>
+            <td class="campo">Teléfono:</td><td class="dato">87 20505</td>
           </tr>
           <tr>
               <td class="campo">Website:</td>
@@ -183,8 +183,8 @@
             </tr>
           <tr>
             <td colspan="2" class="info-email">
-              <a href="http://safemapcozumel.com/agency/cozumel-capital/" id="contacto">
-                "Send a Email"
+              <a href="http://safemapcozumel.com/spanish/agencias/cozumel-capital/" id="contacto">
+                "Envia un Email"
                 <!-- info@cozumelcapital.com--></a>
               </td>
             </tr>
@@ -204,6 +204,17 @@
 
 
       <!-- ////left content end//// -->
+      <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
     </div>
     <!-- ////left content end//// -->
 

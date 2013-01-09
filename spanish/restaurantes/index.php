@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -117,7 +117,7 @@
       <div class="title_underline"></div>
     </div>
 
-   <h3>Restaurants</h3><br />
+   <h3>Restaurantes</h3><br />
     <ul class="bxslider">
      <li><a href="r_albertos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="r_camilos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/camilos/anuncioBig.jpg"  alt="" /></a></li>
@@ -129,6 +129,17 @@
      <li><a href="http://safemapcozumel.com/restaurants/r_lobsteria.php"><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/anuncioBig.jpg"  alt="" /></a></li>
    </ul>
 
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
   </div>
   <!-- ////left content end//// -->
 

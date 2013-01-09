@@ -20,9 +20,9 @@ $errors = array();
 // 	}
 // }
 if(!$email) {
-	$errors[] = "You must enter an email.";
+   $errors[] = "Debe introducir un email.";
 } else if(!validEmail($email)) {
-	$errors[] = "You must enter valid email.";
+   $errors[] = "Debe introducir un email valido.";
 }
 
 if($errors) {

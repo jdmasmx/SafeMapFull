@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -144,15 +144,15 @@
       <h2>Rancho Universo AC</h2>
     
     </div>
-    <h5>HORSE SANCTUARY AND HORSE ASSISTEDTHERAPY CENTER.</h5>
+    <h5>SANTUARIO DEL CABALLO CABALLO Y CENTRO DE TERAPIA ASISTIDA.</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/rancho_universo/ranchoUnivero.jpg">
       </div>
       <div class="col2">
-        Equine assisted therapy works in our physical, emotional and also our psyche
-        Improving joint mobility, balance and coordination, changes in muscle tone, increased self-confidence through improved self-image, improved learning, concentration, spatial awareness, an incentive and opportunity to take responsibility and control, motivation to set and achieve goals. Hippo therapy is a medically prescribed procedure conducted by health care professionals, especially in cases of children affected with hypotonia
+        Terapia asistida equina trabaja en nuestro nuestro bienestar físico, emocional y también psique
+         Mejora de la movilidad articular el equilibrio y la coordinación, cambios en el tono muscular, aumento de confianza en sí mismo a través de una mejor imagen de sí mismo, mejorar el aprendizaje, la concentración, la percepción espacial, un incentivo y la oportunidad de asumir la responsabilidad y el control, la motivación para establecer y alcanzar metas. Hippo terapia es un procedimiento por prescripción médica llevada a cabo por profesionales de la salud, especialmente en los casos de niños afectados con hipotonía
       </div>
     </div>
 
@@ -163,8 +163,8 @@
        </a>
      </div>
      <div class="col2">
-      In England my life revolved around horse, trained by the British Horse Society, I owned and ran a riding school in London, worked as an instructor and therapist.
-      Certified by the Asociacion Mexicana de Equitacion Terapeutcia (AMET Mexican Asociation for Riding for the disabled) and Riding Federation of Riding for the Disabled International (FRDI)
+      En Inglaterra, mi vida giraba en torno a caballo, entrenado por el British Horse Society, me pertenece y dirigía una escuela de equitación en Londres, trabajó como instructor y terapeuta.
+       Certificado por la Asociación Mexicana de Equitación Terapeutcia (AMET Asociación Mexicana de Equitación para personas con discapacidad) y la Federación de equitación Equitación para Discapacitados Internacional (FRDI)
     </div>
   </div>
 
@@ -173,21 +173,21 @@
       <table class="info-advertiser">
 
         <tr>
-          <td class="campo">Address:</td><td class="dato">Transversal km 11.3, 77600.</td>
+          <td class="campo">Dirección:</td><td class="dato">Transversal km 11.3, 77600.</td>
         </tr>
         <tr>
-          <td class="campo">Phone:</td><td class="dato">987 119 9828 Please text us</td>
+          <td class="campo">Teléfono:</td><td class="dato">987 119 9828, Envianos un SMS</td>
         </tr>
         <tr>
           <td class="campo">Facebook:</td><td class="dato"><a href="https://www.facebook.com/Horsesanctuaryl" target="_blank">Horsesanctuaryl</a></td>
         </tr>
         <tr>
-          <td class="campo">How to Help</td><td class="dato"><a href="mailto:rancho.universo.horse.sanctuary@hotmail.com" target="_blank">DONATION</a></td>
+          <td class="campo">Donaciones</td><td class="dato"><a href="mailto:rancho.universo.horse.sanctuary@hotmail.com" target="_blank">DONATION</a></td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://www.safemapcozumel.com/activities/rancho-universo/" id="contacto">
-              "Send a Email"
+            <a href="http://www.safemapcozumel.com/spanish/actividades/rancho-universo/" id="contacto">
+              "Envia un Email"
               <!--  rancho.universo.horse.sanctuary@hotmail.com --></a>
             </td>
           </tr>
@@ -205,45 +205,45 @@
   <hr class="divide" />
   <p>
     <img src="http://www.safemapcozumel.com/images/anunciantes/rancho_universo/img1.jpg" class="left">
-    None profit org. Home to neglected horses and HA therapy for children HELP US HELP THEM donations pay pal rancho.universo@gmail.com
+    Ninguno org beneficio. El hogar de los caballos abandonados y terapia para niños AYUDADOS A AYUDAR. ayudarles a donaciones pay pal rancho.universo@gmail.com
     <br /><br />
-    <strong>Mission</strong><br />
-    We endeavour to create awareness providing the opportunity to experience life with nature.
+    <strong>Misíon</strong><br />
+    Nos esforzamos por crear una conciencia que ofrece la oportunidad de experimentar la vida con la naturaleza.
     <br /><br />
-    <strong>Company Overview</strong><br />
-    It all starts back in October 19th 2001 when I got a call from a friend who reported a horse tied up to a tree with PVC tubing on his legs abandoned to die not uncommon when people no longer want an animal, forcing them to endure a long painful death due to starvation and dehydration. 
-    So with the arrival of Chechen as we call him the sanctuary was born, soon after his partner Chaka heavily pregnant and emaciated arrived and then there were three. 
-    We rehabilitate them to the natural trusting kind animals they truly are.
+    <strong>Descripción de la Compañía</strong><br />
+    Todo comienza de nuevo el 19 de octubre de 2001 cuando recibí una llamada de un amigo que reportó un caballo atado a un árbol con un tubo de PVC en sus piernas abandonado para no morir poco común cuando la gente ya no quiere a un animal, lo que obligó a soportar un largo dolorosa muerte por inanición y deshidratación.
+     Así, con la llegada de Chechenia como le llamamos el santuario nació, poco después de su socio Chaka avanzado estado de gestación y demacrado llegó y entonces había tres.
+     Les rehabilitar a los animales de clase natural confiar en que realmente son.
     <br /><br />
-    Started providing therapy for children in 2004 and in 2006 , we were awarded funds by the Mexican Federal Government to improve the infrastructure for a RIDING FOR THE DISABLED CENTRE
+    Iniciado el suministro de terapia para niños en 2004 y en 2006, se nos otorgó fondos por parte del Gobierno Federal para mejorar la infraestructura para una CONDUCCIÓN PARA EL CENTRO DE DISCAPACITADOS
     <br /><br />
-    A registered NONE PROFIT ORGANIZATION since May 2008
-    Horses have been my passion ever since I can remember which lead me to constantly learn about these magnificent beings and the therapeutic benefits they provide.
-    <br /><br />
-    HELP US HELP THEM 
+    A NINGUNO registrado PROFIT ORGANIZATION desde mayo de 2008
+     Los caballos han sido mi pasión desde que puedo recordar que me llevan a aprender constantemente acerca de estos seres magníficos y los beneficios terapéuticos que ofrecen.
+     <br /> <br />
+     AYUDADANOS A YUDAR
     <br /><br />   
-    <strong>Description</strong><br />
-    How can anyone love what they do not know?<br />
-    We aim to give people the opportunity get close to these magnificent creatures, to learn about all the therapeutic benefits they provide.<br />
-    To help create awareness and erase misconception <br />
+    <strong>Descripción</strong><br />
+    ¿Cómo se puede amar lo que no sabes? <br />
+     Nuestro objetivo es brindar al público la oportunidad de acercarse a estas magníficas criaturas, para aprender acerca de todos los beneficios terapéuticos que ofrecen. <br />
+     Para ayudar a crear conciencia y <br /> error de borrado
   </p>
   <h3>We offer:</h3>
   <p>
     <ul class="lista">
-      <li>Natural horsemanship management training</li>
-      <li>Riding for the disabled</li>
-      <li>Hippotherapy</li>
-      <li>Early learning stimulation</li>
-      <li>Riding lessons for children. </li>
-      <li>Camping</li>
-      <li>School visits</li>
-      <li>Trail riding</li>
+      <li>Capacitación Natural gestión equitación </li>
+       <li> Equitación para minusválidos </li>
+       <li> Hipoterapia </li>
+       <li> El aprendizaje temprano </li>
+       <li> Clases de equitación para niños. </li>
+       <li> Camping </li>
+       <li>Visitas escolares  </li>
+       <li> pista de equitación</li>
     </ul>
-    We are not a horse rental place.<br /><br />
-    <strong>The most precious award is the smile on a child’s face when they can lift their head for the first time, move freely , feel unconditional love, enjoy life</strong>
+    No somos un lugar alquiler de caballos.<br /><br />
+    <strong>El premio más preciado es la sonrisa en la cara de un niño cuando se puede levantar su cabeza por primera vez, moverse libremente, sentir el amor incondicional, disfrutar de la vida</strong>
   </p>
 
-  <h3>Our Gallery</h3>
+  <h3>Galería</h3>
   <p class="img-middle">
 
 
@@ -277,12 +277,12 @@
   
   <div id="advertiser">
     <div class="col3">
-      <h4>Horse Assisted Therapy</h4>
+      <h4>Caballo de Terapia Asistida</h4>
       <iframe width="295" height="221" src="http://www.youtube.com/embed/YSdqIGNkUXk" frameborder="0" allowfullscreen=""></iframe>
 
     </div>
     <div class="col3">
-      <h4>Jeremy Williams Equinotherapy</h4>
+      <h4>Jeremy Williams Equinoterapia</h4>
       <iframe width="295" height="221" src="http://www.youtube.com/embed/tLt28A-8JJ4" frameborder="0" allowfullscreen=""></iframe>
 
     </div>
@@ -291,6 +291,17 @@
 
 
   <!-- ////left content end//// -->
+  <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
 </div>
 <!-- ////left content end//// -->
 

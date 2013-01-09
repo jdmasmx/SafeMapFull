@@ -151,7 +151,7 @@
 
             <strong>Únete a nuestro directorio</strong>, envíe sus datos y estaremos encantados de tenerte entre nuestros <a href="anunciantes.php">anunciantes.</a> <a href="politicas.php" class="contacto">Haga clic aquí para ver nuestras políticas.</a>
             <hr class="divide"/> <br />
-            <form class="cmxform" id="contactform" method="POST" action="../hiring-envio.php">
+            <form class="cmxform" id="contactform" method="POST" action="hiring-envio.php">
              <fieldset>
                  <p>
                     <label for="name">Nombre del negocio</label>
@@ -195,6 +195,12 @@
                 <p>
                     <label for="banner">Banner promocional (Tamaño de imagen: 630px X 350px, Format: PNG, JPG, JPEG)</label>
                     <input id="banner"  name="banner" type="file" size="50"  class="contact-input"/>
+                    
+                </p>
+
+                <p>
+                    <label for="bannerin">Banner promocional<i>Texto en Ingles</i> (Tamaño de imagen: 630px X 350px, Format: PNG, JPG, JPEG)</label>
+                    <input id="bannerin"  name="bannerin" type="file" size="50"  class="contact-input"/>
                     <label>Si usted necesita una ayuda para el diseño de su banner <a href="contactobanner.php" class="contactobanner"><u>Contactenos</u></a>.</label>
                 </p>
                 <br />
@@ -334,7 +340,17 @@
             </p>
         </fieldset>
     </form>
-    <br /><br />
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
 
 </div>
 <!--End left-content-->

@@ -15,7 +15,7 @@
   <meta name="author" content="Safe Map Cozumel" />
   <meta name="copyright" content="Safe Map Cozumel" />
   <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
   <script type="text/javascript">
@@ -32,20 +32,20 @@
 
   </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -144,15 +144,15 @@
       <h2>FREE TEQUILA TOUR</h2>
 
     </div>
-    <h5>IF LIFE GIVE GIVE YOU LEMONS, GET A TEQUILA SHOOT</h5>
+    <h5>SI LA VIDA TE DA LIMONES, TOMATE UN SHOT DE TEQUILA</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/tequila3tonos/tequilatourlogo.jpg">
       </div>
       <div class="col2">
-        Welcome to Cozumel. Free Tequila Tour combines fun with the knowledge of the local history, culture and folklore. You can eat and take photos in Casa Mission. 
-        <br />We invite you to discover the fascinating world of tequila, know the history and process. 
+        Bienvenido a Cozumel. Gratis Tequila tour combina la diversión con el conocimiento de la historia local, la cultura y el folclore. Usted puede comer y tomar fotos en Mission Casa.
+         <br /> Le invitamos a descubrir el fascinante mundo del tequila, conocer la historia y el proceso.
       </div>
       </div>
 
@@ -163,10 +163,10 @@
          </a>
        </div>
        <div class="col2">
-        Come live the most exciting experience of the best tequila tasting 100% agave craft made with tradition and pride in the land of Jalisco. 
-        <br />
-        Delight in the exquisite tequilas and flavored creams. <br />
-        The best tequila anywhere in the wolrd i have the pleasure to taste.
+        Ven a vivir la experiencia más emocionante de la mejor artesanía cata tequila 100% de agave elaborado con la tradición y el orgullo de la tierra de Jalisco.
+      <br />
+      Deléitese con los exquisitos tequilas y cremas con sabor. <br />
+      El mejor tequila en cualquier parte del wolrd tengo el placer de degustar.
       </div>
     </div>
 
@@ -175,16 +175,16 @@
         <table class="info-advertiser">
 
           <tr>
-            <td class="campo">Address:</td><td class="dato">55 with Benito Juarez Avenue. Col. Adolfo Lopez Mateos. Cozumel, Quintana Roo, Mexico.</td>
+            <td class="campo">Dirección:</td><td class="dato">55 con Benito Juarez Avenue. Col. Adolfo Lopez Mateos. Cozumel, Quintana Roo, Mexico.</td>
           </tr>
           <tr>
-            <td class="campo">Phone:</td><td class="dato">987 111 6123</td>
+            <td class="campo">Teléfono:</td><td class="dato">987 111 6123</td>
           </tr>
           
           <tr>
             <td colspan="2" class="info-email">
-              <a href="http://www.safemapcozumel.com/activities/tequila-3-tonos/" id="contacto">
-                "Send a Email"
+              <a href="http://www.safemapcozumel.com/spanish/actividades/tequila-3-tonos/" id="contacto">
+                "Envia un Email"
                 <!--  info@missioncoz.com --></a>
               </td>
             </tr>
@@ -201,6 +201,17 @@
 
 
     <!-- ////left content end//// -->
+    <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
   </div>
   <!-- ////left content end//// -->
 

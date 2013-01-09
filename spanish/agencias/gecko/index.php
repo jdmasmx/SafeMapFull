@@ -3,15 +3,15 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Safe Map Cozumel - Where to stay and things to do in Cozumel</title>
-    <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
+    <link href="../../../styles/style.css" rel="stylesheet" type="text/css" />
 
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
     <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
-    <script type="text/javascript" src="../../js/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="../../js/jquery.form.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="../../../js/jquery.form.js"></script>
     <script type="text/javascript" src="../../js/contact.js"></script>
 
 
@@ -32,7 +32,7 @@
     <form class="cmxform" id="contactform" method="POST" action="envio.php">
        <fieldset>
            <p>
-            <label for="name"> Name</label>
+            <label for="name"> Nombre</label>
             <input id="name"  name="name" type="text" size="30"  class="contact-input"/>
         </p>
 
@@ -41,19 +41,19 @@
             <input id="email" name="email"  type="text" size="30" class="contact-input"/>
         </p>
         <p>
-            <label for="number"> Phone (City + Code Area + Number)</label>
+            <label for="number"> Telefono (Ciudad+ Lada + Numero)</label>
             <input id="number" name="number"  type="text" size="30" class="contact-input"/>
         </p>
 
         <p>
-            <label for="comment">Your Comments</label>
+            <label for="comment">Comentarios</label>
             <textarea id="comment"  name="comment" class="contact-input" rows="" cols=""></textarea>
         </p>
 
         <p>
-            <input class="primary_btn" type="submit" value="Send" id="send_button"/>
+            <input class="primary_btn" type="submit" value="Enviar" id="send_button"/>
 
-            <input class="primary_btn" type="reset" value="Reset"/>	
+            <input class="primary_btn" type="reset" value="Limpiar"/>   
         </p>
         <br class="clear" />
         <p>

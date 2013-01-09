@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Galeria Azul - Safe Map Cozumel</title>
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -20,20 +20,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -132,14 +132,14 @@
       <h2>GALERIA AZUL</h2>
       
     </div>
-    <h5>THE ART OF COZUMEL</h5>
+    <h5>EL ARTE DE COZUMEL</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/galeriaazul/galeria.jpg">
       </div>
       <div class="col2">
-        <strong>Galería Azul</strong> is an art gallery located in Cozumel, Mexico, and is also the working studio for glass artist Greg Dietrich. He works with engraved blown glass to create unique lamps and night lights, candle art, and engraved blown glass vessels. 
+       <strong> Galería Azul </strong> es una galería de arte ubicada en Cozumel, México, y es también el estudio trabajando para el vidrio artista Dietrich Greg. Él trabaja con vidrio soplado grabado para crear lámparas únicas y luces nocturnas, arte vela y vasos de vidrio soplado grabado.
       </div>
     </div>
 
@@ -150,7 +150,7 @@
        </a>
      </div>
      <div class="col2">
-      He is also known for his colorful paintings on silk. A visit to Galeria Azul allows you to see Greg engraving glass and/or creating one of his paintings on silk. Click on the pictures below to see the work he currently has in the gallery.
+      También es conocido por sus pinturas de colores sobre seda. Una visita a la Galería Azul le permite ver Greg vidrio grabado y / o la creación de una de sus pinturas sobre seda. Haga clic en las fotos de abajo para ver el trabajo que tiene actualmente en la galería.
     </div>
   </div>
 
@@ -159,15 +159,15 @@
       <table class="info-advertiser">
 
         <tr>
-          <td class="campo">Address:</td><td class="dato">15 north (norte) between 8th and 10th streets (calles)</td>
+          <td class="campo">Dirección:</td><td class="dato">15 norte entre calles 8va y 10ma</td>
         </tr>
         <tr>
-          <td class="campo">Phone:</td><td class="dato">987 869 0963</td>
+          <td class="campo">Teléfono:</td><td class="dato">987 869 0963</td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/art/galeria-azul/" id="contacto">
-              "Send a Email"
+            <a href="http://safemapcozumel.com/spanish/arte/galeria-azul/" id="contacto">
+              "Envia un Email"
               <!-- greg@cozumelglassart.com --></a>
             </td>
           </tr>
@@ -182,21 +182,32 @@
     </div>
 
     <p>
-      As a nature lover residing on an island, fringed by a spectacular barrier reef, Greg Dietrich's work is inspired by the exotic marine life that abounds in the surrounding waters. Dolphins, sea turtles, manta rays, eagle rays, thousands of tropical fish and other coral reef dwellers inhabit these Carribbean waters. His marine art brings these images to life in unique hand blown glass lamps.
+      Como amante de la naturaleza reside en una isla, rodeada por una barrera de coral espectacular, el trabajo de Greg Dietrich está inspirado en la exótica vida marina que abunda en las aguas circundantes. Los delfines, tortugas marinas, manta rayas, rayas águila, miles de peces tropicales y otros habitantes de los arrecifes de coral habitan estas aguas Caribe. Su arte marino trae estas imágenes a la vida de las lámparas de vidrio soplado a mano únicos.
       <br /><br />
       <img src="http://www.safemapcozumel.com/images/anunciantes/galeriaazul/1.jpg" class="left"> 
-      In order to create his pieces, Greg must first blow the glass that he is to engrave upon. This process is completed in the United States, primarily in Seattle. During the glassblowing process, he makes large spheres or flattened shapes that have as many as three layers of color on the exterior surface. Once the glass has cooled, he cuts the spheres into various shapes and sizes. The pieces are then packed up and taken to Cozumel, Mexico, which is where he resides.
+      Con el fin de crear sus piezas, Greg primero debe hacer sonar el vidrio que es a grabar sobre. Este proceso se completa en los Estados Unidos, principalmente en Seattle. Durante el proceso de soplado de vidrio, que hace que grandes esferas o formas aplanadas que tienen hasta tres capas de color sobre la superficie exterior. Una vez que el vidrio se haya enfriado, corta las esferas en varias formas y tamaños. Las piezas se empacan y llevados a Cozumel, México, que es donde reside.
       <br /><br />
-      Greg does the engraving work in Cozumel. Sitting at an engraving lathe, he patiently carves away at the glass using diamond wheels. Working with the layers of color that he created during the blowing process, he is able to make "drawings" in glass. He can get various tones from just one color by partially removing the layer of colored glass. Or, by completely removing a layer, he exposes the contrasting color that lays beneath. This process is known as cameo engraving.
+      Greg hace el trabajo grabado en Cozumel. Sentado en un torno grabado, con paciencia talla lejos en el cristal con discos de diamante. Trabajar con las capas de color que creó durante el proceso de soplado, es capaz de hacer "dibujos" en vidrio. Puede obtener diversos tonos de un solo color por eliminación parcial de la capa de vidrio de color. O, por eliminación de una capa completamente, se expone el color de contraste que pone debajo. Este proceso se conoce como grabado cameo.
       <br /><br />
       <img src="http://www.safemapcozumel.com/images/anunciantes/galeriaazul/2.jpg" class="right"> 
-      Greg's subject matter is the beauty which surrounds him in Cozumel and the adjoining areas of the Yucatan Peninsula. Pieces are influenced by the Mayan ruins, the vast coral reefs that surround the island, and almost any type of animal found in nature.<br />
-      The pieces are mounted in a variety of bases. Metal, wood, stone, or no base at all, letting the shape of the glass support it. He also works extensively with illumination. Taking advantage of the translucency of the glass, combined with mahogany bases, he creates unique lamps that are really illuminated
+      Materia de Greg es la belleza que le rodea en Cozumel y en las zonas adyacentes de la península de Yucatán. Las piezas son influenciados por las ruinas mayas, los arrecifes de coral grandes que rodean la isla, y casi cualquier tipo de animal en la naturaleza. <br />
+       Las piezas se montan en una variedad de bases. Metal, base de madera, piedra, o no del todo, dejando que la forma de la copa apoyarlo. También trabaja mucho con la iluminación. Tomando ventaja de la translucidez de la copa, en combinación con bases de caoba, crea lámparas únicas que están realmente iluminados
     </p>
 
 
 
     <!-- ////left content end//// -->
+    <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
   </div>
   <!-- ////left content end//// -->
 

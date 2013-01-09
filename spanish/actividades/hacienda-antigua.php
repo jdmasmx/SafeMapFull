@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -160,9 +160,9 @@
         <img src="http://www.safemapcozumel.com/images/anunciantes/hacienda_antigua/haciendaAntigua.jpg">
       </div>
       <div class="col2">
-        Ever wondered how Mexicans turn a spiky plant into their national drink? The Hacienda Antigua tequila tour can provide you with all the answers.
-        <br />
-        The price includes a delicious tequila drink and an informative guided tour of the tequila making process that lasts about 20-25 minutes with tequila tasting at the end.
+        Alguna vez se preguntó cómo los mexicanos convertir una planta de punta en su bebida nacional? La Hacienda Antigua tequila turística puede ofrecerle todas las respuestas.
+         <br />
+         El precio incluye un delicioso trago de tequila y una visita informativa guiada por el proceso de toma de tequila que dura unos 20-25 minutos con degustación de tequila al final.
       </div>
     </div>
 
@@ -173,10 +173,10 @@
        </a>
      </div>
      <div class="col2">
-      You learn about the many types of agave and how it is cropped, pulped, fermented and distilled.
-      At the end of the tour you get to try some more award winning tequila.<br />
-      <br /><br />
-      This is not your throat-burning 'knock-it-back-shot', but a fine liquor comparable to a good Scotch whisky or French cognac.
+      Se aprende sobre los diferentes tipos de agave y cómo se recorta, despulpado, fermentado y destilado.
+       Al final del recorrido se llega a tratar de ganar algún premio más tequila. <br />
+       <br /> <br />
+       Esta no es su garganta para quemar 'knock-it-de nuevo-shot ", sino un licor fino comparable a un buen whisky escocés o coñac francés.
     </div>
   </div>
 
@@ -185,7 +185,7 @@
       <table class="info-advertiser">
 
         <tr>
-          <td class="campo">Address:</td><td class="dato">Carretera transversal km 9.8</td>
+          <td class="campo">Dirección:</td><td class="dato">Carretera transversal km 9.8</td>
         </tr>
         <tr>
           <td class="campo">Facebook:</td><td class="dato"><a href="https://www.facebook.com/pages/Tequila-Tour-Cozumel-Hacienda-Antigua/111055925576923" target="_blank">Hacienda Antigua</a></td>
@@ -203,23 +203,23 @@
   <hr class="divide" />
   <p>
     <img src="http://www.safemapcozumel.com/images/anunciantes/hacienda_antigua/img1.jpg" class="left">
-    The Cava Antigua label has won many international awards and is often hard to find, even in Mexico.
-    <br /><br />
-    Outside the building you can see hundreds of agaves growing.
-    <br /><br />
-    Feel free to stroll around and enjoy the grounds of this Mexican Hacienda-style building.
-    <br /><br />
-    The tequila center also has a shop selling tequila and souvenirs and a full-service restaurant and bar  
-  </p>
-  <h3>We offer:</h3>
+    La etiqueta Cava Antigua ha ganado muchos premios internacionales y es a menudo difícil de encontrar, incluso en México.
+     <br /> <br />
+     Fuera del edificio se puede ver a cientos de agaves en crecimiento.
+     <br /> <br />
+     Siéntase libre para pasear y disfrutar de los jardines de este estilo hacienda mexicana edificio.
+     <br /> <br />
+     El centro de tequila también tiene una tienda de venta de tequila y recuerdos y un restaurante de servicio completo y bar
+   </ p>
+   <h3> Ofrecemos: </h3>
   <ul class="lista">
-    <li>One delicious tequila drink (over 18s only).</li>
-    <li>Informative guided tour.</li>
-    <li>Tequila tastLocation</li>
+    <li>Una deliciosa bebida tequila (sólo mayores de 18 años). </li>
+     <li> visita guiada informativa. </li>
+     <li> tastLocation Tequila </li>
   </ul>
   <strong>
     On the highway to the East Side of Cozumel, just after the turn off for San Gervasio ruins.
-    Approximately 10-15 min. in taxi or <a href="">rental car</a> from downtown and the piers.
+    Aproximadamente el 10-15 min. en taxi o <a href="">renta de autos</a> del centro y de los muelles.
   </strong>
   <h3>Our Gallery</h3>
   <a rel="hacienda_antigua" href="http://www.safemapcozumel.com/images/anunciantes/hacienda_antigua/8big.jpeg" title="Hacienda Antigua">
@@ -250,6 +250,17 @@
 
 
   <!-- ////left content end//// -->
+  <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
 </div>
 <!-- ////left content end//// -->
 

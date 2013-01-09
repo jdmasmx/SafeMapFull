@@ -148,7 +148,7 @@
                             <td>JMJ TRAVEL SERVICES</td>
                             <td>5156 Page St, Marrero, LA 70072 USA</td>
                             <td>504 430 7909</td>
-                            <td><a href="mailto:maria@jmjtravels.net"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:maria@jmjtravels.net?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <!--<td><a href="ventanas.html">VILLABLANCA GRADEN BEACH</a></td>
@@ -206,7 +206,7 @@
                             <td>AEROLAMSA AIR TAXI</td>
                             <td>F.B.O Cozumel International Airport</td>
                             <td>987 872 1781</td>
-                            <td><a href="mailto:info@aerolamsa.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:info@aerolamsa.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                     </tbody>
                 </table>
@@ -306,6 +306,18 @@
             <a href="hiring.php">
                 <img src="http://www.safemapcozumel.com/images/tourist/bannerform.jpg">
             </a>
+  <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
+
 
 
         </div><!--end blog-box-->

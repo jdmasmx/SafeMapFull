@@ -179,7 +179,7 @@
                             <td>MR. SANCHOS</td>
                             <td>South of downtown on KM 15 on the main road.</td>
                             <td>998 112 1933</td>
-                            <td><a href="mailto:mrsanchosbeachclub@gmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:mrsanchosbeachclub@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td><a href="http://safemapcozumel.com/restaurants/r_punta-morena.php">PUNTA MORENA</a></td>
@@ -214,7 +214,7 @@
                             <td>BAMBOO BERRY FROZEN</td>
                             <td>Ave. 11 casi esquina con Rafael Melgar</td>
                             <td>987 869 0764</td>
-                            <td><a href="mailto:monicalcazar@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:monicalcazar@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td><a href="http://safemapcozumel.com/restaurants/r_camilos.php">CAMILO'S</a></td>
@@ -238,7 +238,7 @@
                             <td>COSTA BRAVA</td>
                             <td>7 south street Between Rafael E. Melgar AND 5a ave.</td>
                             <td>987 120 0323</td>
-                            <td><a href="mailto:maruhr25@gmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:maruhr25@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td><a href="http://safemapcozumel.com/restaurants/r_guidos.php">GUIDOS</a></td>
@@ -256,7 +256,7 @@
                             <td>MAMA LINDA</td>
                             <td>25av. between 2 and 4 street, Centro.</td>
                             <td>987 869 1053</td>
-                            <td><a href="mailto:mamalinda_cozumel@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:mamalinda_cozumel@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td><a href="http://safemapcozumel.com/restaurants/r_ohana.php">OHANA</a></td>
@@ -280,13 +280,13 @@
                             <td><a href="restaurant_taco_rock.html">TAKO ROCK</a></td>
                             <td>Adolfo R. Salas / 5st & 10st. Centro</td>
                             <td>987 869 1978</td>
-                            <td><a href="mailto:ambar_cozumel@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:ambar_cozumel@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td>PAPRIKA</td>
                             <td>Kilómetro 4.5 south</td>
                             <td>987 872 2404</td>
-                            <td><a href="mailto:isa.paprika@gmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:isa.paprika@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td><a href="restaurants_la_lobsteria.html">LA LOBSTERIA</a></td>
@@ -298,7 +298,7 @@
                             <td>TORITO COZUMEL</td>
                             <td>65 Ave between 17 and 19 Colonia Maravilla</td>
                             <td>87 20707</td>
-                            <td><a href="mailto:torito_cozumel@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:torito_cozumel@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                     </tbody>
                 </table>
@@ -344,19 +344,19 @@
                             <td><a href="restaurants_kelleys.html">KELLEY'S SPORT BAR</a><a href="tequilatour.html"></a></td>
                             <td>10 ave. between Street 1 and Rosado Salas ave.</td>
                             <td>&nbsp;</td>
-                            <td><a href="mailto:kelleysbarandgrill@yahoo.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:kelleysbarandgrill@yahoo.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td>LA MALANGA</td>
                             <td>2 Street between 5 and 10 ave.</td>
                             <td>987 108 1628</td>
-                            <td><a href="mailto:la_malanga@live.com.mx"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:la_malanga@live.com.mx?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>TIKILA BAR</td>
                             <td>Kilómetro 4.5 South.</td>
                             <td>987 872 2404</td>
-                            <td><a href="mailto:isa.paprika@gmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:isa.paprika@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                     </tbody>
                 </table>
@@ -385,7 +385,7 @@
                             <td>BLUEWAY</td>
                             <td>5av. between 2 and 4 street nte.</td>
                             <td>987 872 0903</td>
-                            <td><a href="mailto:centralczm@bluewaycarrental.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:centralczm@bluewaycarrental.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>CP RENTAL</td>
@@ -409,7 +409,7 @@
                             <td>EXPLORA</td>
                             <td>10 av. #14 between Juarez and 2.</td>
                             <td>987 869 0020</td>
-                            <td><a href="mailto:Exploracozumel@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:Exploracozumel@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>EXECUTIVE</td>
@@ -421,7 +421,7 @@
                             <td>FERINCO RENT A CAR</td>
                             <td>Ave Pedro Joaquin Coldwell y 5 Sur</td>
                             <td>987 872 1781</td>
-                            <td><a href="mailto:alejandro@ferinco.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:alejandro@ferinco.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>FIESTA</td>
@@ -439,25 +439,25 @@
                             <td>HERTZ</td>
                             <td>Cozumel International Airport.</td>
                             <td>987 871 6785</td>
-                            <td><a href="mailto:coz50@avasa.com.mx"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:coz50@avasa.com.mx?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td>HTL</td>
                             <td>5 av. between 2 and 4 street</td>
                             <td>987 869 3097</td>
-                            <td><a href="mailto:spidermandiaz@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:spidermandiaz@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>MARYMAR</td>
                             <td>Inside puerta maya gas station.</td>
                             <td>987 989 0126</td>
-                            <td><a href="mailto:martha-sanchez23@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:martha-sanchez23@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td>PARAISO CAR RENTAL</td>
                             <td>2 Street between 5 and 10 ave.</td>
                             <td>987 872 3263</td>
-                            <td><a href="mailto:wilian-chin@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:wilian-chin@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>PIXOY</td>
@@ -469,7 +469,7 @@
                             <td>SHARKRIDER RENTAL</td>
                             <td>5 Ave. between Juarez Ave. and 2 street, local 2.</td>
                             <td>987 120 0231</td>
-                            <td><a href="mailto:dacu82@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:dacu82@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>SMART</td>
@@ -481,7 +481,7 @@
                             <td>SOL Y MAR</td>
                             <td>1 north street between 5a. and 10a avenue.</td>
                             <td>987 869 0545</td>
-                            <td><a href="mailto:info@soliymarrentals.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:info@soliymarrentals.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
 
                         <tr>
@@ -517,13 +517,13 @@
                             <td>BLISSDAY SPA</td>
                             <td>1 Street between 5th and 10th Ave. #180 77600.</td>
                             <td>987 120 13 26</td>
-                            <td><a href="mailto:citas@blissdayspacozumel.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:citas@blissdayspacozumel.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>BERAKAH SPA</td>
                             <td>Villa Mar Square, Benito Juarez Park</td>
                             <td>987 101 4416</td>
-                            <td><a href="mailto:norasimon35@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:norasimon35@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td><a href="health_cozumel_red_cross.html">COZUMEL RED CROSS</a></td>
@@ -531,7 +531,7 @@
                             <td>Emergency <strong>065</strong><br />
                                 987 872 1057 <br />
                                 987 872 1058</td>
-                                <td><a href="mailto:donativos@cruzrojacozumel.org"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                                <td><a href="mailto:donativos@cruzrojacozumel.org?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                             </tr>
                         </tbody>
                     </table>
@@ -566,7 +566,7 @@
                             <td><a href="art_galeria_azul.html">GALERIA AZUL</a></td>
                             <td>15 north (norte) between 8th and 10th streets</td>
                             <td>987 869 0963</td>
-                            <td><a href="mailto:greg@cozumelglassart.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:greg@cozumelglassart.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                     </tbody>
                 </table>
@@ -589,13 +589,13 @@
                         <td><a href="jewelry_dejavu.html" title="Shine Gallery" target="_blank" class="otros">DEJA VU</a></td>
                         <td>Rafael E. Melgar between 9 and 11 street.</td>
                         <td>987 101 9258</td>
-                        <td><a href="mailto:the_mayan_rock@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        <td><a href="mailto:the_mayan_rock@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                     </tr>
                     <tr style="background-color:#eee">
                         <td><a href="http://www.shinegallery.net" title="Shine Gallery" target="_blank" class="otros">SHINE GALLERY</a></td>
                         <td>Rafael E. Melgar ave. between 2 north street and Juarez Avenue.</td>
                         <td> 987 869 2461</td>
-                        <td><a href="mailto:shinegallery@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        <td><a href="mailto:shinegallery@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                     </tr>
                 </tbody>
             </table>
@@ -618,7 +618,7 @@
                     <td>CAROLINA INSURANCE</td>
                     <td>Juarez ave. between 50 y 55 ave.</td>
                     <td>987 872 4142</td>
-                    <td><a href="mailto:caroreyes6@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                    <td><a href="mailto:caroreyes6@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                 </tr>
             </tbody>
         </table>
@@ -641,13 +641,13 @@
                 <td>THE HUMANE SOCIETY</td>
                 <td>Huertos Familiares, Cozumel, México</td>
                 <td></td>
-                <td><a href="mailto:pets@humanecozumel.org"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:pets@humanecozumel.org?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td>RANCHO UNIVERSO AC </td>
                 <td>Transversal Km. 11.3</td>
                 <td>987 101 6771</td>
-                <td><a href="mailto:rancho.universo@gmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:rancho.universo@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
         </tbody>
     </table>
@@ -670,13 +670,13 @@
                 <td>COZUMEL CAPITAL</td>
                 <td>5 Avenue corner of 5 South street</td>
                 <td>872 0505</td>
-                <td><a href="mailto:info@cozumelcapital.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:info@cozumelcapital.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td>COZUMEL CASHFLOW</td>
                 <td>Plaza Chedraui inside "MIRA LO QUE ME ENCONTRE" store.</td>
                 <td>987 876 1187</td>
-                <td><a href="mailto:cozumelcashflow@gmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:cozumelcashflow@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
         </tbody>
     </table>
@@ -699,55 +699,55 @@
                 <td>CAOCAO PLANTATION MAYAN</td>
                 <td>Transversal Road km.4.5 +2km.</td>
                 <td>987 111 9543</td>
-                <td><a href="mailto:tumbenluum@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:tumbenluum@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td>CHOCOLATE FACTORY KAOKAO</td>
                 <td>1era bis south between 80 and 85 avenue.</td>
                 <td>987 86 947 05</td>
-                <td><a href="mailto:contact@chocolateskaokao.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:contact@chocolateskaokao.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr>
-                <td><a href="http://www.deeplifedivers.com" target="_blank">DEEP LIFE DIVERS</a></td>
+                <td><a href="http://www.deeplifedivers.com?subject=You have a message from a user of Safe Map Cozumel!" target="_blank">DEEP LIFE DIVERS</a></td>
                 <td>Smz 50 , Mz 54, Lt 86 Cancun.</td>
                 <td>998 267 7966</td>
-                <td><a href="mailto:info@deeplifedivers.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:info@deeplifedivers.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td>DISCOVER MEXICO</td>
                 <td>0.5 miles from Puerta Maya. Carretera Costera sur km. 5,5 Zona Hotelera Sur </td>
                 <td>987 857 0601</td>
-                <td><a href="mailto:info@safetourscozumel.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:info@safetourscozumel.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr>
                 <td>DONNY TSUNAMI XTREME BOARDING</td>
                 <td>Playa Uvas</td>
                 <td>987 876 1814</td>
-                <td><a href="mailto:donnytsunami11@gmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:donnytsunami11@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td>PARQUE CUZAM</td>
                 <td>Cross Road. Just 3 miles ahead.</td>
                 <td>987 857 0601</td>
-                <td><a href="mailto:info@safetourscozumel.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:info@safetourscozumel.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr>
                 <td>PIRATE SHIP</td>
                 <td>Main Pear</td>
                 <td>987 857 0601</td>
-                <td><a href="mailto:info@safetourscozumel.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:info@safetourscozumel.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td><a href="art_tattoo.html">TATTOO</a></td>
                 <td>10 avenue Num. 80 between 1 sur and Adolfo Rosado Salas.</td>
                 <td>987 105 5044</td>
-                <td><a href="mailto:offirstattoos@hotmail.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:offirstattoos@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr>
                 <td>TEQUILA LOS 3 TOÑOS</td>
                 <td>55 with Benito Juarez Avenue. Col. Adolfo Lopez Mateos.</td>
                 <td>987 111 6123</td>
-                <td><a href="mailto:info@missioncoz.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:info@missioncoz.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td><a href="activities_mi_mexico_lindo.html">MI MEXICO LINDO (FREE TEQUILA TOUR)</a></td>
@@ -759,13 +759,13 @@
                 <td>CACTUS TV COZUMEL</td>
                 <td>Huertas familiares</td>
                 <td>987 103 8012</td>
-                <td><a href="mailto:chris@cactustvcozumel.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:chris@cactustvcozumel.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
             <tr style="background-color:#eee">
                 <td>CARIBBEAN SWEET WEDDINGS</td>
                 <td>Av.125 Sur Mz.100 Lt. 35 Colonia Magisterial, Cozumel. Quintana Roo</td>
                 <td>987 117 9413</td>
-                <td><a href="mailto:info@caribbeansweetweddings.com"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                <td><a href="mailto:info@caribbeansweetweddings.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
         </tbody>
     </table>
@@ -811,6 +811,17 @@
 
 
 </div><!--end blog-box-->
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
 
 </div><!--End left-content-->
 <!--rignt container-->

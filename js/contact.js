@@ -97,11 +97,6 @@ $(function() {
         //minlength: 5
       },
 
-      logo: {
-        required: true,
-        //minlength: 5
-      },
-
       texto: {
         required: true,
         minlength: 5,

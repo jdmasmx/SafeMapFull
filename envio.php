@@ -43,6 +43,7 @@ if($errors) {
 
 
 $sPara = "contact@safemapcozumel.com";
+$diego = "judijemaui@gmail.com";
 $sAsunto = "Formulario de Contacto Safe Map";
 $sTexto = "";
 $sDe = $_POST[email];
@@ -56,6 +57,7 @@ $sCabeceraTexto = "";
 $sAdjuntos = "";
 
 $sCabeceras = "From:".$sDe."\n"; 
+$sCabeceras .= "Cc:  :".$diego."\n"; 
 
 
 

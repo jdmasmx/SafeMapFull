@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -151,7 +151,7 @@
         <img src="http://www.safemapcozumel.com/images/anunciantes/safetours/safetourslogo.jpg">
       </div>
       <div class="col2">
-        Cozumel is a safe and friendly place. We happily take care of Cozumel visitors from cruise ships (Carnival Cruise Line, Norwegian, Aida, Costa, Pullmantur, Holland America, Disney, Celebrity, Crystal, Princess among other), hotel guests, and visitors from mainland (Cancun, Riviera Maya, Tulum, Akumal, Playa del Carmen, Puerto Morelos).
+        Cozumel es un lugar seguro y agradable. Nos encantaría cuidar de los visitantes de los cruceros en Cozumel (Carnival Cruise Line, Norwegian, Aida, Costa, Pullmantur, Holland America, Disney, Celebrity, Crystal, Princess, entre otros), los huéspedes del hotel y visitantes de la parte continental (Cancún, Riviera Maya, Tulum, Akumal, Playa del Carmen, Puerto Morelos).
       </div>
     </div>
 
@@ -162,8 +162,8 @@
        </a>
      </div>
      <div class="col2">
-      In <strong>Safe Tours Cozumel</strong> we believe in personal service to make your vacation more enjoyable. Don't waste time trying to figure out how to enjoy your activities, just leave it to us to make it worry free.
-      <br />Our very special Island Tour, the adventure of a jeep tour, the beauty of our country at Discover Mexico, travel back in time at many of the Mayan ruins, snorkeling or scuba diving in the Caribbean sea are just some of the fun and relaxing Cozumel tours and activities we offer you in a very flexible and safe way to reserve with only <strong>$9.99 per person.</strong>  </div>
+      En <strong> Safe Tours Cozumel </strong> que creemos en el servicio personalizado para hacer sus vacaciones más agradables. No pierda tiempo tratando de encontrar la manera de disfrutar de sus actividades, sólo déjelo en nuestras manos para que sea libre de preocupaciones.
+       <br /> Nuestro Tour por la isla muy especial, la aventura de una excursión en jeep, la belleza de nuestro país en Discover México, viajar atrás en el tiempo en muchas de las ruinas mayas, snorkel o buceo en el mar Caribe son sólo algunos de los excursiones divertidas y relajantes Cozumel y actividades que te ofrecemos de una manera muy flexible y seguro para reservar con <strong> sólo $ 9.99 por persona. </strong> </div>
     </div>
 
     <div id="advertiser">
@@ -171,10 +171,10 @@
         <table class="info-advertiser">
 
           <tr>
-            <td class="campo">Address:</td><td class="dato">Akumal # 574 between 20 y 30 Ave. Colonos Cuzamil Cozumel Q. Roo. C.P. 77664 México.</td>
+            <td class="campo">Dirección:</td><td class="dato">Akumal # 574 between 20 y 30 Ave. Colonos Cuzamil Cozumel Q. Roo. C.P. 77664 México.</td>
           </tr>
           <tr>
-            <td class="campo">Phone:</td><td class="dato">Toll free USA & Can: 1(855)55-26986 <br />Cozumel Office: 857-0601</td>
+            <td class="campo">Teléfono:</td><td class="dato">Llama Gratis, USA & Can: 1(855)55-26986 <br />Oficina en Cozumel: 857-0601</td>
           </tr>
           <tr>
             <td class="campo">Facebook:</td><td class="dato"><a href="https://www.facebook.com/pages/Safe-Tours-Cozumel/237346849634725" target="_blank">Safe Tours Cozumel</a></td>
@@ -184,8 +184,8 @@
           </tr>
           <tr>
             <td colspan="2" class="info-email">
-              <a href="http://www.safemapcozumel.com/activities/safe-tours/" id="contacto">
-                "Send a Email"
+              <a href="http://www.safemapcozumel.com/spanish/actividades/safe-tours/" id="contacto">
+                "Envia un Email"
                 <!--  info@safetourscozumel.com --></a>
               </td>
             </tr>
@@ -199,19 +199,19 @@
       </div>
     </div>
     <hr class="divide" />
-    <h3>COZUMEL LAND ACTIVITIES</h3>
+    <h3>COZUMEL Y ACTIVIDADES</h3>
     <div id="advertiser">
       <div class="col3">
         <a href="http://www.safetourscozumel.com/island_tour.html" target="_blank">
           <img src="http://www.safemapcozumel.com/images/anunciantes/safetours/1.jpg"><br />
         </a>
-        Island Tour
+      Vuelta a la Isla
       </div>
       <div class="col3">
         <a href="http://www.safetourscozumel.com/full_day_of_fun_at_cozumel.html" target="_blank">
           <img src="http://www.safemapcozumel.com/images/anunciantes/safetours/2.jpg"><br />
         </a>
-        Full Day at Cozumel
+      Full Day en Cozumel
       </div>
       <div class="col3">
         <a href="http://www.safetourscozumel.com/jeep_tour.html" target="_blank">
@@ -223,7 +223,7 @@
         <a href="http://www.safetourscozumel.com/eco_park_cuzam.html" target="_blank">
           <img src="http://www.safemapcozumel.com/images/anunciantes/safetours/4.jpg"><br />
         </a>
-        EcoPark Cuzam
+        Ecopark Cuzam
       </div>
       <div class="col3">
         <a href="http://www.safetourscozumel.com/discover_mexico.html" target="_blank">
@@ -238,7 +238,7 @@
         Mayan Steam Lodge
       </div>
     </div>
-    <h3>COZUMEL WATER ACTIVITIES</h3>
+    <h3>ACTICIDADES ACUATICAS EN COZUMEL</h3>
     <div id="advertiser">
       <div class="col3">
         <a href="http://www.safetourscozumel.com/snorkel_glass_bottom_boat.html" target="_blank">
@@ -250,7 +250,7 @@
         <a href="http://www.safetourscozumel.com/scuba_diving.html" target="_blank">
           <img src="http://www.safemapcozumel.com/images/anunciantes/safetours/8.jpg"><br />
         </a>
-        Scuba Diving
+        Buceo
       </div>
       <div class="col3">
         <a href="http://www.safetourscozumel.com/discover_scuba_diving.html" target="_blank">
@@ -268,11 +268,11 @@
         <a href="http://www.safetourscozumel.com/swim_with_dolphins.html" target="_blank">
           <img src="http://www.safemapcozumel.com/images/anunciantes/safetours/11.jpg"><br />
         </a>
-        Swim with Dolphins
+        Nadar con Delfines
       </div>
     </div>
 
-    <h3>FROM COZUMEL TO MAINLAND</h3>
+    <h3>Desde Cozumel con el continente</h3>
     <div id="advertiser">
       <div class="col3">
         <a href="http://www.safetourscozumel.com/tulum.html" target="_blank">
@@ -330,26 +330,38 @@
       </div>
     </div>
     
-    <h3>Our Video Testimonials</h3>
+    <h3>Nuestros testimonios en video</h3>
     <div id="advertiser">
       <div class="col3">
         <iframe class="imagen" width="300" height="182" src="http://www.youtube.com/embed/gLkmfSZZYMg?rel=0" frameborder="0" allowfullscreen=""></iframe>
-        <p><i>This was the most amazing thing that I have done in my 51 years! Being able to go under water and see the sea life face to face instead of face to TV was absolutely wonderful. Arturo with Safe Tours Cozumel and our Dive Master Hector went above and beyond to make sure that we truly enjoyed our dive. When we go back to Cozumel you can be sure that we will be calling Arturo with Safe Tours Cozumel.</i>
+        <p><i>Esta fue la cosa más increíble que he hecho en mis 51 años! Ser capaz de ir bajo el agua y ver la vida marina cara a cara en lugar de cara a la televisión fue absolutamente maravilloso. Arturo con Safe Cozumel Tours y nuestro Dive Master Héctor hizo lo imposible para asegurarse de que disfrutamos verdaderamente de nuestra inmersión. Cuando volvamos a Cozumel usted puede estar seguro de que vamos a estar llamando a Arturo con Cozumel Tours seguro.
+</i>
           <br /><strong>Denise Russell - February 11 at 9:06pm</strong>
         </p>
       </div>
       <div class="col3">
         <iframe class="imagen" width="300" height="182" src="http://www.youtube.com/embed/Qpx7DGmS47k?rel=0" frameborder="0" allowfullscreen=""></iframe>
-        <p><i>Jeremy Williams and Luis Díaz doing the Dolphin Encounter at Dolphin Discovery Cozumel through Safe Tours Cozumel, February-27-2012</i></p>
+        <p><i>Jeremy Williams y Luis Díaz haciendo el Encuentro con Delfines en Dolphin Discovery Cozumel por segura Cozumel Tours, February-27-2012</i></p>
       </div>
 
     </div>
     <div class="primary_btn_b">
-        <a href="http://www.facebook.com/video/?id=237346849634725" target="_blank" class="italic">SEE MORE VIDEO TESTIMONIALS.</a>
+        <a href="http://www.facebook.com/video/?id=237346849634725" target="_blank" class="italic">VER MÁS TESTIMONIOS DE VIDEO.</a>
       </div>
 
 
     <!-- ////left content end//// -->
+    <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
   </div>
   <!-- ////left content end//// -->
 

@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -144,14 +144,14 @@
       <h2>TATTOO</h2>
       
     </div>
-    <h5>TATTOO AND BODY ART STUDIO.</h5>
+    <h5>TATUAJE Y ESTUDIO DE ARTE CORPORAL.</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/tattoo.jpg">
       </div>
       <div class="col2">
-        We have a large catalog of designs from all genres, tribal, Maori, color etc. mythology. in addition to making great designs on request. We create original and shaped tattoo designs to specifications from the imagination of our customers. Bring your design or idea and we then create what you are imagining.
+        Contamos con un amplio catálogo de diseños de todos los géneros, tribal, maorí, la mitología color, etc. además de hacer grandes diseños por encargo. Creamos diseños originales de tatuajes y forma a las especificaciones de la imaginación de nuestros clientes. Traiga su diseño o idea y luego crear lo que estás imaginando.
       </div>
     </div>
 
@@ -162,7 +162,7 @@
        </a>
      </div>
      <div class="col2">
-      Our study was created over 12 years ago with the aim of creating beautiful body art lovers to decorate the body. Our clients, now friends, come looking for original work and quality and leave satisfied due to our professionalism and attention. All our equipment is sterilized under the strictest hygiene standards in mind safety and health of our customers.
+      Nuestro estudio fue creado hace 12 años con el objetivo de crear bellas amantes del arte del cuerpo para decorar el cuerpo. Nuestros clientes, ahora amigos, venido en busca de trabajo original y de calidad y dejar satisfechos debido a nuestra profesionalidad y atención. Todo nuestro equipo es esterilizado bajo las más estrictas normas de higiene en cuenta la seguridad y la salud de nuestros clientes.
     </div>
   </div>
 
@@ -171,21 +171,21 @@
       <table class="info-advertiser">
 
         <tr>
-          <td class="campo">Address 1:</td><td class="dato">10 avenue Num. 80 between 1 sur and Adolfo Rosado Salas</td>
+          <td class="campo">Dirección 1:</td><td class="dato">10 avenue Num. 80 between 1 sur and Adolfo Rosado Salas</td>
         </tr>
         <tr>
-          <td class="campo">Address 2:</td><td class="dato">Plaza Villamar Up stairs Fat Tuesday local 1</td>
+          <td class="campo">Dirección 2:</td><td class="dato">Plaza Villamar Up stairs Fat Tuesday local 1</td>
         </tr>
         <tr>
-          <td class="campo">Phone:</td><td class="dato">987 105 5044</td>
+          <td class="campo">Teléfono:</td><td class="dato">987 105 5044</td>
         </tr>
         <tr>
           <td class="campo">Website:</td><td class="dato"><a href="http://www.offirtattoos.com/" target="_blank">OffirTattoos Website</a></td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/art/tattoo/" id="contacto">
-              "Send a Email"
+            <a href="http://safemapcozumel.com/spanish/arte/tattoo/" id="contacto">
+              "Envia un Email"
               <!-- offirstattoos@hotmail.com --></a>
             </td>
           </tr>
@@ -200,37 +200,48 @@
     </div>
 
     <p>
-      We use the best inks combined with bright colors that our designs make our work real work of art of tattooing. 
-      Our other services include piercing, airbrush and body paint that added to the experience in art and design of our studies are the best choice for your most incredible ideas.
+      Utilizamos las mejores tintas combinadas con colores brillantes que nuestros diseños hacen que nuestro trabajo verdadera obra de arte del tatuaje.
+       Nuestros otros servicios incluyen perforación, aerógrafo y pintura corporal que sumado a la experiencia en el arte y el diseño de nuestros estudios son la mejor opción para sus ideas más increíbles.
+
       <img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/fachada.jpg" class="middle">
 
       <br /><br />
     </p>
-    <h3>Artist</h3>
+    <h3>Artista</h3>
     <p>
       <img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/img1.jpg" class="left"> 
-      Offir Alfaro born in Cozumel, the island of swallows in the Mexican Caribbean.
-      <br /><br />
-      The great aesthetic content which have all their works, plus his 15 years of experience in tattooing support the work of this great artist of body adornment.
-      <br /><br />
-      The study of drawing and illustration techniques coupled with participation in several international symposia tattooists are part of the training that was required by to be getting better at this exquisite art. Gentle and humorous Offir is recognized as one of the best tattoo artists of the mayan riviera <br /><br />
+      Offir Alfaro nació en Cozumel, la isla de las golondrinas en el Caribe Mexicano.
+       <br /> <br />
+       El gran contenido estético que tienen todas sus obras, además de sus 15 años de experiencia en tatuajes apoyo del trabajo de este gran artista de adorno corporal.
+       <br /> <br />
+       El estudio de las técnicas de dibujo e ilustración, junto con la participación en diversos simposios internacionales tatuadores son parte de la formación que se requiere para ser cada vez mejor en este arte exquisito. Offir suave y humorístico es reconocido como uno de los mejores artistas del tatuaje de la riviera maya <br /> <br />
       <br /><br />
       <img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/img2.jpg" class="right"> 
-      Born in Cozumel Azael is another great tattoo artist on the island, famous for his tattoos of high quality and originality, with 8 years as a tattoo is another of the team members who form the Offir tattoos are tattoos.
+      Nacido en Cozumel Azael es otro gran artista del tatuaje de la isla, famosa por sus tatuajes de alta calidad y originalidad, con 8 años como un tatuaje es otro de los miembros del equipo que forman los tatuajes son los tatuajes Offir.
     </p>
 
     <br class="clear" />
-    <h3>Information</h3>
+    <h3>Información</h3>
     <p>
-      Getting a tattoo is a decision that should not be taken lightly, as this will accompany us throughout life. Before make a tattoo, check the design you want to capture in your skin and do it when you're sure. In our study we use high standard of sterilization to minimize health risks of our customers. Autoclave use is the safest way to eliminate the presence of viruses such as hepatitis A, B, C and VIH. New needles, Vaseline, gloves, and the highest quality pigments which are eliminated as soon as the tattoo is finished. All to be sure the decision to be tattooed with us was the correct
+    Hacerse un tatuaje es una decisión que no debe tomarse a la ligera, ya que esto nos va a acompañar durante toda la vida. Antes de hacer un tatuaje, revise el diseño que desea capturar en su piel y hacer que cuando estés seguro. En nuestro estudio utilizamos alto estándar de esterilización para minimizar los riesgos para la salud de nuestros clientes. Uso Autoclave es la forma más segura de eliminar la presencia de virus, como la hepatitis A, B, C y VIH. Nuevas agujas, guantes, vaselina, y los pigmentos de alta calidad que se eliminan tan pronto como el tatuaje ha terminado. Todo para asegurarse de que la decisión que se ha tatuado con nosotros era el correcto
     </p>
-    <h3>Health and cares</h3>
+    <h3>Salud y cuidados</h3>
     <p>
-      Once made the tatto is very important to take some care to ensure it heals properly. This care depends on you. Avoid swimming or excessively wet the tattoo during the first week, you may wash in the shower Do not expose the tattoo to the sun during the first 2 weeks. The tattoo is shining if you avoid the sun because UV rays are harmful. Use sunscreen only when it has healed. Apply cream 3 to 4 times daily for one week Do not let anyone touch the tattoo while healing. Apply Bepanthen cream 3-4 times per day for a week. Take your time and feel free to ask any questions. We want you to have an enjoyable experience that will last a lifetime.
+      Una vez realizado el tatto es muy importante tener un cierto cuidado para asegurarse de que se cure correctamente. Esta atención depende de usted. Evite nadar o excesivamente mojar el tatuaje durante la primera semana, usted puede lavar en la ducha No exponer el tatuaje al sol durante las primeras 2 semanas. El tatuaje es brillante si se evita el sol porque los rayos UV son más dañinos. Use protector solar sólo cuando se haya curado. Aplique la crema de 3 a 4 veces al día durante una semana, no deje que nadie toque el tatuaje mientras que la curación. Aplicar la crema 3-4 veces Bepanthen por día durante una semana. Tómese su tiempo y no dude en hacer cualquier pregunta. Queremos que usted tenga una experiencia agradable que va a durar toda la vida.
     </p>
 
 
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
     <!-- ////left content end//// -->
   </div>
   <!-- ////left content end//// -->

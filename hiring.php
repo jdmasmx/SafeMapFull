@@ -195,6 +195,11 @@
                 <p>
                     <label for="banner">Promotional Banner (Size Image:630px X 350px, Format: PNG, JPG, JPEG)</label>
                     <input id="banner"  name="banner" type="file" size="50"  class="contact-input"/>
+                    <!-- <label>If You need a help to design your banner <a href="contactobanner.php" class="contactobanner"><u>Contact Us</u></a>.</label> -->
+                </p>
+                <p>
+                    <label for="banneresp">Promotional Banner <i>Text in Spanish</i> (Size Image:630px X 350px, Format: PNG, JPG, JPEG)</label>
+                    <input id="banneresp"  name="banneresp" type="file" size="50"  class="contact-input"/>
                     <label>If You need a help to design your banner <a href="contactobanner.php" class="contactobanner"><u>Contact Us</u></a>.</label>
                 </p>
                 <br />
@@ -334,6 +339,18 @@
         </fieldset>
     </form>
     <br /><br />
+<br /><br />
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
 
 </div>
 <!--End left-content-->

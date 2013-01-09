@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -151,8 +151,9 @@
         <img src="http://www.safemapcozumel.com/images/anunciantes/puntamorena/puntamorena.jpg">
       </div>
       <div class="col2">
-        One thing that will never change is the natural beauty of the beach. Punta Morena as we call it here locally has one of the most pristine beaches in all of Cozumel. So if you are looking for this you've definitely come to the right place. 
-        <br />The new beach has a much larger dining area with more seating, a children's play set, salt water wading
+        Una cosa que nunca cambiará es la belleza natural de la playa. Punta Morena como lo llamamos aquí a nivel local tiene una de las playas más vírgenes de toda Cozumel. Así que si estás buscando esto has llegado al lugar correcto.
+         <br /> La nueva playa tiene un comedor muy grande con más asientos, set de juegos infantiles, chapoteadero de agua salada
+
       </div>
     </div>
 
@@ -163,7 +164,7 @@
        </a>
      </div>
      <div class="col2">
-      pool, changing rooms, massage, mexican cuisine and sea food, parking lot and many other extras. The new and improved facilities are actually VERY attractive.
+      piscina, vestuarios, masajes, comida mexicana y mariscos, estacionamiento y muchos otros extras. Las instalaciones nuevas y mejoradas son realmente muy atractivo.
     </div>
   </div>
 
@@ -171,18 +172,18 @@
     <div class="col4">
       <table class="info-advertiser">
         <tr>
-          <td class="campo">Address:</td> <td class="dato">East Coast km. 44 Cozumel Island, Quintana Roo México. </td>
+          <td class="campo">Dirección:</td> <td class="dato">Costera del Este km. 44 Isla Cozumel, Quintana Roo México. </td>
         </tr>
         <tr>
-          <td class="campo">Phone:</td><td class="dato">987 872 4058</td>
+          <td class="campo">Teléfono:</td><td class="dato">987 872 4058</td>
         </tr>
         <tr>
           <td class="campo">Website:</td><td class="dato"><a href="http://puntamorena.com.mx" target="_blank">www.puntamorena.com.mx</a></td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/restaurants/punta-morena/" id="contacto">
-              "Send a Email"
+            <a href="http://safemapcozumel.com/spanish/restaurantes/punta-morena/" id="contacto">
+              "Envia un Email"
               <!-- puntamorena.cozumel@hotmail.com --></a>
             </td>
           </tr>
@@ -195,7 +196,7 @@
       </div>
     </div>
     <br />
-    <h3>Punta Morena Services</h3>
+    <h3>Punta Morena Servicios</h3>
 
     <table class="mapas">
 
@@ -217,13 +218,13 @@
     <tr>
 
       <td>
-        Beach Area
-      </td>
-      <td>
-        Restaurant and Bar
-      </td>
-      <td>
-        Handcraft Store
+         Beach Area
+       </td>
+       <td>
+         Restaurante y Bar
+       </td>
+       <td>
+         Tienda de Artesanías
       </td>
     </tr>
   </table>
@@ -248,14 +249,14 @@
   </tr>
   <tr>
 
-    <td>
-      Massage
-    </td>
-    <td>
-      Parking Lot
-    </td>
-    <td>
-      Special Events
+   <td>
+       Masaje
+     </td>
+     <td>
+       Estacionamiento
+     </td>
+     <td>
+       Eventos Especiales
     </td>
   </tr>
 </table>
@@ -276,15 +277,15 @@
 <tr>
 
   <td>
-    Swimming Pool
-  </td>
-  <td>
-    Turtle Zone
+   Con piscina
+   </td>
+   <td>
+     Turtle Zone
   </td>
 
 </tr>
 </table>
-<h3>The best Mexican Cuisine and Seafood</h3>
+<h3>La mejor comida mexicana y mariscos</h3>
 
 <ul class="bxslider">
   <li><img src="http://www.safemapcozumel.com/images/anunciantes/puntamorena/image-1.jpg" /></li>
@@ -321,7 +322,17 @@
   <a data-slide-index="12" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/puntamorena/image-13.jpg" width="100" /></a>
 
 </div>
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
 </div>
 <!-- ////left content end//// -->
 

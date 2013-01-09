@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -153,14 +153,14 @@
       <h2>VISITING COZUMEL</h2>
   
     </div>
-    <h5>EXPERIENCE THE ISLAND.</h5>
+    <h5>EXPERIMENTAR LA ISLA.</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/visitingcozumel/logo.jpg">
       </div>
       <div class="col2">
-        If you are visiting Cozumel by Cruise Ship or staying at one of the many Hotels. This combo tour will give you the opportunity to fully enjoy the Island. Natural landscapes, Archeological zones, Amazing beaches, Marvelous sea life and so much more ...   </div>
+        Si va a visitar Cozumel en crucero o estancia en uno de los muchos hoteles. Este tour le dará la oportunidad de disfrutar plenamente de la isla. Paisajes naturales, zonas arqueológicas, playas increíbles, la vida marina maravillosa y mucho más ... </div>
       </div>
 
       <div id="advertiser">
@@ -170,7 +170,7 @@
          </a>
        </div>
        <div class="col2">
-        Many travel here to dive, snorkel and enjoy long days of endless sunshine. But it's our rich traditions that make Cozumel a vacation like no other.
+        Muchos viajes para bucear, hacer snorkel y disfrutar de largos días de sol sin fin. Pero nuestras ricas tradiciones que hacen de Cozumel unas vacaciones como ninguna otra.
       </div>
     </div>
 
@@ -179,19 +179,19 @@
         <table class="info-advertiser">
 
           <tr>
-            <td class="campo">Address:</td><td class="dato">Akumal # 574 between 20 y 30 Ave. Colonos Cuzamil Cozumel Q. Roo. C.P. 77664 México.</td>
+            <td class="campo">Dirección</td><td class="dato">Akumal # 574 between 20 y 30 Ave. Colonos Cuzamil Cozumel Q. Roo. C.P. 77664 México.</td>
           </tr>
           <tr>
-            <td class="campo">Phone:</td><td class="dato">Toll free USA & Can: 1(855)55-26986 
-            <br />Cozumel Office: 857-0601</td>
+            <td class="campo">Teléfono:</td><td class="dato">Llama Gratis, USA & Can: 1(855)55-26986 
+            <br />Oficinas en Cozumel: 857-0601</td>
           </tr>
           <tr>
             <td class="campo">Website:</td><td class="dato"><a href="http://www.visitingcozumel.com/" target="_blank">http://www.visitingcozumel.com/</a></td>
           </tr>
           <tr>
             <td colspan="2" class="info-email">
-              <a href="http://www.safemapcozumel.com/activities/visiting-cozumel/" id="contacto">
-                "Send a Email"
+              <a href="http://www.safemapcozumel.com/spanish/actividades/visiting-cozumel/" id="contacto">
+                "Envia un Email"
                 <!-- info@safetourscozumel.com --></a>
               </td>
             </tr>
@@ -205,6 +205,17 @@
       </div>
       
       <!-- ////left content end//// -->
+      <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
     </div>
     <!-- ////left content end//// -->
 

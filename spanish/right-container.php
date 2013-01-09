@@ -65,7 +65,7 @@
             <a href="http://safemapcozumel.com/spanish/actividades/hacienda-antigua.php">* HACIENDA ANTIGUA</a>
         </li>
         <li>
-            <a href="http://safemapcozumel.com/spanish/actividades/spanish/actividades-pirate-ship.php">* JEAN LAFFITE PIRATE SHIP</a>
+            <a href="http://safemapcozumel.com/spanish/actividades/activities-pirate-ship.php">* JEAN LAFFITE PIRATE SHIP</a>
         </li>
         <li>
             <a href="http://safemapcozumel.com/spanish/actividades/rancho-universo.php">* RANCHO UNIVERSO AC</a>

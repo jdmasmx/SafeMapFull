@@ -33,9 +33,7 @@
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
-
   <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
-
   <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
   <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
   <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
@@ -46,7 +44,6 @@
   <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
   <script src="../../js/jquery.bxslider.min.js"></script>
   <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
-
   <script type="text/javascript">
 
 
@@ -203,20 +200,20 @@
     <br />
     <h3>Testimonials</h3>
 
-    <h4>Great Time at 'Ohana!</h4>  <br />
-    <strong><i>This place was a total surprise! We were actually at another place on the edge of the island when Willie the bartender suggested we visit Ohana's in the city. This was a great recommendation!. Off the beaten path in Cozumel, we were greeted with a warm welcome from the owner Angie (Willie's sister) and Matt! The served up a wonderful jungle juice, great music, clean comfortable atmosphere, and wonderful authentic Mexican food..which is hard to come by at an all inclusive where we were staying. We heard wonderful Island stories from Matt and lots of info about how to truly experience Cozumel. Totally recommend getting off the beaten path and stopping by to say hi to Matt and Angie! We will be back! 
-      <br />Reviewed March 10, 2011 Heidi, Marc, Doug and Erin from Wisconsin!</i></strong>
-      <br />
-      <br />
-      <h4>Best Coconut Shrimp on the Island</h4><br />
-      <strong><i>As repeaters to Cozumel we are always keen to check out new places and 'Ohana didn't disappoint. Great hosts, great food, whether for breakfast, lunch or dinner. The bar is great if you just want to hang out for a few beers or sitting in the garden listening to a good band and we really enjoyed the drum and dance group in the street in the run up to the Carnival.
-        <br />Reviewed March 14, 2011 Mandy & Nigel, UK</i></strong>
+    <h4>Lo pasamos genial en 'Ohana!</h4>  <br />
+    <strong> <i> Este lugar fue una sorpresa total! Estábamos realmente en otro lugar en el borde de la isla cuando Willie el camarero nos sugirió que visitar Ohana en la ciudad. Esta fue una gran recomendación!. En el camino inmejorable en Cozumel, nos recibieron con una cálida bienvenida del propietario Angie (hermana de Willie) y Matt! El sirvió un zumo de selva maravillosa, buena música, ambiente limpio, cómodo y maravilloso auténtica comida mexicana .. que es difícil de encontrar en un todo incluido donde nos alojábamos. Hemos oído historias maravillosas Isla de Matt y un montón de información sobre cómo experimentar verdaderamente Cozumel. Totalmente recomiendo conseguir lejos de las multitudes y venir a saludar a Matt y Angie! We will be back!
+       <br /> Revisado 10 de marzo 2011 Heidi, Marco, Doug y Erin de Wisconsin! </i> </strong>
+       <br />
+       <br />
+       <h4> Best Coconut Shrimp en la isla </h4> <br />
+       <strong> <i> Repetidores a Cozumel siempre estamos dispuestos a ver nuevos lugares y 'Ohana no defraudó. Unos anfitriones geniales, comida estupenda, ya sea para el desayuno, el almuerzo o la cena. El bar es genial si sólo quieres pasar el rato a tomar unas cervezas o sentados en el jardín escuchando una buena banda y nos gustó mucho el tambor y el grupo de danza en la calle en los días previos al Carnaval.
+         <br /> Revisado 14 de marzo 2011 Mandy & Nigel, UK </i> </strong>
         <div class="primary_btn_b">
-          <a href="http://ohanacozumel.com/testimonials/" target="_blank" class="italic">SEE MORE TESTIMONIALS
+          <a href="http://ohanacozumel.com/testimonials/" target="_blank" class="italic">VER MÁS TESTIMONIOS
           </a>
         </div>
         <hr class="divide" /> 
-        <h3>Our Menu</h3>
+        <h3>Nuestro Menú</h3>
         <div id="advertiser">
           <div class="col3">
             <a href="http://www.safemapcozumel.com/images/anunciantes/ohana/1big.jpg" rel="menu" >
@@ -229,14 +226,24 @@
             </a>
           </div>
         </div>
-        <h3>Upcoming Events</h3>
+        <h3>Eventos</h3>
         <img src="http://www.safemapcozumel.com/images/anunciantes/ohana/events.png" class="middle">
         <div class="primary_btn_b">
-          <a href="http://ohanacozumel.com/upcoming-events/" target="_blank" class="italic">MORE DETAILS ABOUT EVENTS
+          <a href="http://ohanacozumel.com/upcoming-events/" target="_blank" class="italic">MÁS DETALLES ACERCA DE EVENTOS
 
           </a>
         </div>
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
       </div>
       <!-- ////left content end//// -->
 

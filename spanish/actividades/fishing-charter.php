@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Red Cross Cozumel- Safe Map Cozumel</title>
+  <title>ECONOMY FISHING CHARTER - Safe Map Cozumel</title>
   <!-- Meta tags -->   
     <meta name="description" content="Safe Map Cozumel is the best map for what to do, where to stay and how to get to Cozumel. We offer the best services on the island for you to enjoy your stay. Safe Map Cozumel provides information on services such as restaurants, beach clubs, hospitals, hotels, cafes, jewelry, crafts, among other quality services and excellent price in cozumel." />
     <meta name="keywords" content="safe, map, cozumel, how to get, where to stay, things to do, restaurants, clinics, tours, dive, snorkel, breakfast, lunch, dinner, sea, food, coffee, drugstore, jewelry, sport, bar, grill, spa, adventure, playa del carmen, cancun, cozumel map, mapa de cozumel" />
@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -144,14 +144,14 @@
       <h2>ECONOMY FISHING CHARTER</h2>
     
     </div>
-    <h5>THAT IS WHAT WE LOVE DO.</h5>
+    <h5>ES LO QUE AMAMOS HACER..</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/fishingcharter/logo.jpg">
       </div>
       <div class="col2">
-        Cozumel is the most eastern Mexican territory, located on the Caribbean sea. Rising sun in Cozumel is spectacular. Sunsets are unbelievable. Fishing in Cozumel seriously provides the chance to fight and catch premier gamefish. Cozumel fishing tournaments are the most important in Mexico. Cruising the Mexican caribbean while fishing is a day trip you don´t want to miss.
+        Cozumel es el territorio más oriental de México, ubicada en el mar Caribe. Sol naciente en Cozumel es espectacular. Puestas de sol son increíbles. La pesca en Cozumel seriamente ofrece la oportunidad de pelear y coger pesca deportiva de primer nivel. Torneos de pesca en Cozumel son los más importantes en México. Un crucero por el caribe mexicano mientras que la pesca es un viaje de un día usted no querrá perderse.
       </div>
     </div>
 
@@ -162,8 +162,8 @@
        </a>
      </div>
      <div class="col2">
-      That´s what we do:<br />
-      Fishing in a Great Boat, Great crew, Great time. A family owned and operated business located in Cozumel Quintana Roo... The Beautiful Mexican Caribbean.
+      Eso es lo que hacemos: <br />
+       La pesca en un gran barco, la tripulación Great, Great time. Una empresa familiar de propiedad y operación ubicado en Cozumel Quintana Roo ... El hermoso Caribe mexicano.
     </div>
   </div>
 
@@ -172,15 +172,15 @@
       <table class="info-advertiser">
 
         <tr>
-          <td class="campo">Phone 1:</td><td class="dato">987 111 9579</td>
+          <td class="campo">Teléfono:</td><td class="dato">987 111 9579</td>
         </tr>
         <tr>
-          <td class="campo">Boat Cell:</td><td class="dato">987 113 1600</td>
+          <td class="campo">Cel del Bote:</td><td class="dato">987 113 1600</td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://www.safemapcozumel.com/activities/fishing-charter/" id="contacto">
-              "Send a Email"
+            <a href="http://www.safemapcozumel.com/spanish/actividades/fishing-charter/" id="contacto">
+              "Envia un Email"
               <!-- reservations@gofishingcozumel.com --></a>
             </td>
           </tr>
@@ -198,23 +198,34 @@
     <hr class="divide" />
     <p>
       <img src="http://www.safemapcozumel.com/images/anunciantes/fishingcharter/img1.jpg" class="left">
-      <h4>Fishing</h4>
-      On your arrival , expect and experienced, on time , professional and courteous fishing crew. Our clients, get the best fishing experience in Mexico. See yourself in an all rigged fishing boat, enjoying your preffered drink, feeling the breeze of the caribbean coasts and suddenly you are in a battle with a Great Barracuda, an inshore outshore predator that can jump out of the water 5 to 10 feet up.
-      <br /><br />
-      <h4>We welcome Everybody</h4>
-      Captain ROGER and his experience will make you enjoy the adventure. He will show you around and take you to the SPOTS around Cozumel. Sailfish, White and blue Marlin, Wahoos, Barracuda, Tuna, Dorado (also Mahi-Mahi or Dolphin) Groupers, Snappers and more.
-      <br /><br />
-      Season fishing may apply for some species, but off season fishing is often good.
+    <h4> Pesca </h4>
+       A su llegada, le espera y con experiencia, a tiempo, el equipo de pesca profesional y cortés. Nuestros clientes, obtener la mejor experiencia de pesca en México. Véase a sí mismo en un barco de pesca de todo amañado, disfrutando de su bebida preffered, sintiendo la brisa de las costas del Caribe y de repente se encuentra en una batalla con un gran Barracuda, un depredador de bajura outshore que puede saltar fuera del agua 5 a 10 pies para arriba.
+       <br /> <br />
+       <h4> Damos la bienvenida a todo el mundo </h4>
+       Capitán Roger y su experiencia le hará disfrutar de la aventura. Él le enseñará y le llevará a los lugares cerca de Cozumel. Pez Vela, Marlin Blanco y azul, Wahoos, Barracuda, Atún, Dorado (Mahi-Mahi también o Dolphin) meros, pargos y más.
+       <br /> <br />
+       Temporada de pesca pueden aplicar para algunas especies, pero la pesca fuera de temporada suelen ser buenos.
       <br /><br />
       <img src="http://www.safemapcozumel.com/images/anunciantes/fishingcharter/img2.jpg" class="right">
-      Celebrity 2300 rigged for Fishing. Outriggers, downrigger, Team Daiwa Trolling fishing gear. Bottom fishing gear. Clean toilet, first Aid Kit, and emergency equipped.
-      <br /><br />
-      Enjoy the quiet, comfortable ride with plenty of seating, storage and cooler space aboard the well equipped Celebrity. 1/2 - 3/4 Day Charters aboard the custom rigged 23' Celebrity, powered by a 200HP 4stroke Yamaha. Great Boat. Your own special rods/reels are welcome 
+      Celebrity 2300 aparejado para la pesca. Estabilizadores, profundizador, Team Daiwa artes de pesca de arrastre. Bottom artes de pesca. Clean toilet, botiquín de primeros auxilios y de emergencia equipado.
+       <br /> <br />
+       Disfrute el viaje tranquilo, cómodo, con un montón de asientos, almacenamiento y espacio en refrigeradores a bordo del Celebrity bien equipada. 1/2 - 3/4 Day Charters a bordo de la costumbre amañado 23 'Celebrity, impulsado por un 4stroke 200HP Yamaha. Barco Grande. Sus propias cañas / carretes especiales son bienvenidos
     </p>
 
 
 
     <!-- ////left content end//// -->
+    <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
   </div>
   <!-- ////left content end//// -->
 

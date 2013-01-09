@@ -122,6 +122,18 @@
                 <div class="title_underline"></div>
             </div>
             <iframe width="590" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=203173678386505060299.0004d0867cffd0547c04a&amp;ie=UTF8&amp;t=h&amp;ll=20.450819,-86.923141&amp;spn=0.418188,0.404434&amp;z=11&amp;output=embed"></iframe>
+<br /><br />
+<br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
 
         </div><!--end blog-box-->
 

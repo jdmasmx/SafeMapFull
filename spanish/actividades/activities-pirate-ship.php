@@ -15,7 +15,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -32,20 +32,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -153,7 +153,7 @@
       <h2>JEAN LAFFITE PIRATE SHIP</h2>
       
     </div>
-    <h5>SNORKELING & LOBSTER DINNER.</h5>
+    <h5>SNORKELING Y CENA DE LANGOSTA.</h5>
 
     <div id="advertiser">
       <div class="col1">
@@ -161,12 +161,12 @@
       </div>
       <div class="col2">
         <ul class="lista">
-          <li>Start the night with a welcome cocktail with the pirate crew!</li>
-          <li>Open Bar, all night long!</li>
-          <li>Music!</li>
-          <li>Delicious dinner onboard, either New York Steak, Chicken or Surf N Turf (Lobster and Steak), Caesar Salad, Pasta, Vegetables, Baked Potatoes and Dessert!</li>
-          <li>An epic pirate battle!</li>
-          <li>Onboard games, contests, and dancing!</li>
+          <li>Empieza la noche con un cóctel de bienvenida a la tripulación pirata! </Li>
+           <li> Bar abierto, toda la noche! </li>
+           <li> Music! </li>
+           <li> deliciosa cena a bordo, ya sea New York Steak, pollo o Surf N Turf (langosta y carne), ensalada César, pasta, verduras, papas al horno y postre! </li>
+           <li>Una épica batalla  pirata! </li>
+           <li> a bordo juegos, concursos y baile!</li>
         </ul>
       </div>
     </div>
@@ -187,18 +187,18 @@
       <table class="info-advertiser">
 
         <tr>
-          <td class="campo">Address:</td><td class="dato">Main Pier</td>
+          <td class="campo">Dirección:</td><td class="dato">Main Pier</td>
         </tr>
         <tr>
-          <td class="campo">Phone:</td><td class="dato">987 857 0601</td>
+          <td class="campo">Teléfono:</td><td class="dato">987 857 0601</td>
         </tr>
         <tr>
-          <td class="campo">More Info:</td><td class="dato"><a href="http://www.safetourscozumel.com/lobster_dinner_cruise.html" target="_blank">Lobster Dinner</a></td>
+          <td class="campo">Más Info:</td><td class="dato"><a href="http://www.safetourscozumel.com/lobster_dinner_cruise.html" target="_blank">Lobster Dinner</a></td>
         </tr>
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://www.safemapcozumel.com/activities/fishing-charter/" id="contacto">
-              "Send a Email"
+            <a href="http://www.safemapcozumel.com/spanish/actividades/fishing-charter/" id="contacto">
+              "Envia un Email"
               <!-- info@safetourscozumel.com --></a>
             </td>
           </tr>
@@ -213,6 +213,17 @@
     
 
     <!-- ////left content end//// -->
+    <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
   </div>
   <!-- ////left content end//// -->
 

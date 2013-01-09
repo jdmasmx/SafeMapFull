@@ -25,9 +25,9 @@ $errors = array();
 // 	}
 // }
 if(!$email) {
-	$errors[] = "You must enter an email.";
+   $errors[] = "Debe introducir un email.";
 } else if(!validEmail($email)) {
-	$errors[] = "You must enter valid email.";
+   $errors[] = "Debe introducir un email valido.";
 }
 
 if($errors) {
@@ -91,7 +91,7 @@ fclose($oFichero);
 
 $sTexto .= $sAdjuntos."\n\nMail sent from Safe Map Cozumel.\n"; 
 mail($sPara, $sAsunto, $sTexto, $sCabeceras);
-die("<h2 class='enviado'>Sent Email</h2>");
+die("<h2 class='enviado'>Correo enviadol</h2>");
 
 
 

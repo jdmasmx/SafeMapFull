@@ -16,7 +16,7 @@
     <meta name="author" content="Safe Map Cozumel" />
     <meta name="copyright" content="Safe Map Cozumel" />
     <!--  end meta -->
-  <link href="../styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="../../styles/style.css" rel="stylesheet" type="text/css" />
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'/>
   <link href='http://fonts.googleapis.com/css?family=Dosis:200,300' rel='stylesheet' type='text/css'/>
 <script type="text/javascript">
@@ -33,20 +33,20 @@
 
 </script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.lavalamp.min.js"></script>
 
-  <script type="text/javascript" src="../js/fade-in-jquery.js"></script>
-  <script type="text/javascript" src="../js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="../js/jquery.jcarousel.min.js"></script>
-  <script type="text/javascript" src="../js/feature_carousel.js"></script>
-  <script type="text/javascript" src="../js/common.js"></script>
-  <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
-  <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-  <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
-  <script src="../js/jquery.bxslider.min.js"></script>
-  <link href="../js/jquery.bxslider.css" rel="stylesheet" />
+  <script type="text/javascript" src="../../js/fade-in-jquery.js"></script>
+  <script type="text/javascript" src="../../js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="../../js/jquery.jcarousel.min.js"></script>
+  <script type="text/javascript" src="../../js/feature_carousel.js"></script>
+  <script type="text/javascript" src="../../js/common.js"></script>
+  <script type="text/javascript" src="../../css/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="../../css/jquery.fancybox-1.3.4.pack.js"></script>
+  <link rel="stylesheet" type="text/css" href="../../css/jquery.fancybox-1.3.4.css" media="screen" />
+  <script src="../../js/jquery.bxslider.min.js"></script>
+  <link href="../../js/jquery.bxslider.css" rel="stylesheet" />
 
   <script type="text/javascript">
 
@@ -146,14 +146,14 @@
       <h2>LA LOBSTERIA</h2>
      
     </div>
-    <h5>THE DISH OF THE GODS</h5>
+    <h5>EL PLATO DE LOS DIOSES</h5>
 
     <div id="advertiser">
       <div class="col1">
         <img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/lobsteria.jpg">
       </div>
       <div class="col2">
-        This house was built in 1864 and has been inherited from three generations, being the first owner Mr. Julian Coob who died at age 94 and the second heir who was son of the dormer owner who was Mr. Rosalio Coob who died in the 90's later it was passed down to her niece Mrs. Coob Cervantes Heraida we mentioned that today the house has endured three major hurricanes such as
+        Esta casa fue construida en 1864 y ha sido heredada de tres generaciones, siendo el primer propietario, el señor Julian Coob que murió a los 94 años y el segundo heredero que era hijo del dueño buhardilla que era el señor Rosalío Coob que murió en los años 90 después que fue transmitido a su sobrina la señora Coob Cervantes Heraida mencionamos que hoy la casa ha sufrido tres huracanes de gran intensidad, como
       </div>
     </div>
 
@@ -164,7 +164,7 @@
         </a>
       </div>
       <div class="col2">
-        beulah in the 60's, Gilberto in the 80's and Wilma in 2005 and that by the grace God this house has stood and still exists with its own structure.
+        beulah en los años 60, Gilberto en los años 80 y Wilma en 2005 y que por la gracia de Dios esta casa se ​​ha mantenido y sigue existiendo, con su propia estructura.
       </div>
       </div>
 
@@ -173,13 +173,13 @@
 
           <table class="info-advertiser">
             <tr>
-              <td class="campo">Address 1:</td> <td class="dato">In the corner of 5th avenue and 7 street.</td>
+              <td class="campo">Dirección:</td> <td class="dato">En la esquina de la 5ta avenida y calle 7.</td>
             </tr>
             <tr>
-              <td class="campo">Phone:</td><td class="dato"> 987 116 9668</td>
+              <td class="campo">Teléfono:</td><td class="dato"> 987 116 9668</td>
             </tr>
             <tr>
-              <td class="campo">Phone 2:</td><td class="dato"> 872 1351</td>
+              <td class="campo">Teléfono 2:</td><td class="dato"> 872 1351</td>
             </tr>
             <!-- <tr>
               <td colspan="2" class="info-email">
@@ -198,7 +198,7 @@
         </div>
         <hr class="divide" />
         
-        <h3>Our Gallery</h3>
+        <h3>Galeria</h3>
         <ul class="bxslider">
           <li><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/1big.JPG" /></li>
           <li><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/2big.JPG" /></li>
@@ -215,7 +215,17 @@
           <a data-slide-index="4" href=""><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/5.JPG" /></a>
           
         </div>
-        
+        <br /><br />
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
+<!-- AddThis Button END -->
       </div>
       <!-- ////left content end//// -->
 
