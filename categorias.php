@@ -1,8 +1,7 @@
 <ul>
-                        <li><a href="restaurants/">Restaurants</a></li>
-                        <li><a href="health/">Health</a></li>
-                        <li><a href="agency/">Agency</a></li>
-                        <li><a href="activities/">Activities</a></li>
-                        <li><a href="art/">Art</a></li>
-
-                    </ul>
+	<li><a href="http://safemapcozumel.com/agency/">Agency</a></li>
+	<li><a href="http://safemapcozumel.com/art/">Art</a></li>
+	<li><a href="http://safemapcozumel.com/activities/">Activities</a></li>
+	<li><a href="http://safemapcozumel.com/health/">Health</a></li>
+	<li><a href="http://safemapcozumel.com/restaurants/">Restaurants</a></li>
+</ul>

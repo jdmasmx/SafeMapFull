@@ -4,6 +4,65 @@
         <h1>Advertisers</h1>
         <div class="title_underline"></div>
     </div>
+
+    
+<!-- Activities-->
+    <div class="category" id="activities">Activities</div>
+    <ul class="list-category" id="activities">
+        <li>
+            <a href="http://safemapcozumel.com/activities/fishing-charter.php">* ECONOMY FISHING CHARTER</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/activities/hacienda-antigua.php">* HACIENDA ANTIGUA</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/activities/activities-pirate-ship.php">* JEAN LAFFITE PIRATE SHIP</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/activities/rancho-universo.php">* RANCHO UNIVERSO AC</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/activities/safe-tours.php">* SAFE TOURS COZUMEL</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/activities/visiting-cozumel.php">* VISITING COZUMEL</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/activities/tequila-3-tonos.php">* FREE TEQUILA TOUR</a>
+        </li>
+    </ul>
+    <!-- End Activities-->
+    <!-- Health -->
+    <div class="category" id="agency">Agency</div>
+    <ul class="list-category" id="agency">
+        <li>
+            <a href="http://safemapcozumel.com/agency/gecko.php">* GECKO CREATIVO</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/agency/cozumel-capital.php">* COZUMEL CAPITAL</a>
+        </li>
+    </ul>
+    <!-- End Health-->
+    <!-- Art -->
+    <div class="category" id="art">Art</div>
+    <ul class="list-category" id="art">
+        <li>
+            <a href="http://safemapcozumel.com/art/galeria-azul.php">* GALERIA AZUL</a>
+        </li>
+        <li>
+            <a href="http://safemapcozumel.com/art/tattoo.php">* TATTOO</a>
+        </li>
+
+    </ul>
+    <!-- End Art -->
+    <!-- Health -->
+    <div class="category" id="health">Health</div>
+    <ul class="list-category" id="health">
+        <li>
+            <a href="http://safemapcozumel.com/health/h_red-cross.php">* RED CROSS</a>
+        </li>
+    </ul>
+    <!-- End Health-->
     <!--Restaurants -->
     <div class="category" id="restaurantes">Restaurants</div>
     <ul class="list-category" id="restaurantes">
@@ -34,65 +93,6 @@
         
     </ul>
     <!-- End Restaurants-->
-    <!-- Health -->
-    <div class="category" id="health">Health</div>
-    <ul class="list-category" id="health">
-        <li>
-            <a href="http://safemapcozumel.com/health/h_red-cross.php">* RED CROSS</a>
-        </li>
-    </ul>
-    <!-- End Health-->
-
-    <!-- Health -->
-    <div class="category" id="agency">Agency</div>
-    <ul class="list-category" id="agency">
-        <li>
-            <a href="http://safemapcozumel.com/agency/gecko.php">* GECKO CREATIVO</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/agency/cozumel-capital.php">* COZUMEL CAPITAL</a>
-        </li>
-    </ul>
-    <!-- End Health-->
-
-    <!-- Activities-->
-    <div class="category" id="activities">Activities</div>
-    <ul class="list-category" id="activities">
-        <li>
-            <a href="http://safemapcozumel.com/activities/fishing-charter.php">* ECONOMY FISHING CHARTER</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/activities/hacienda-antigua.php">* HACIENDA ANTIGUA</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/activities/activities-pirate-ship.php">* JEAN LAFFITE PIRATE SHIP</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/activities/rancho-universo.php">* RANCHO UNIVERSO AC</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/activities/safe-tours.php">* SAFE TOURS COZUMEL</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/activities/visiting-cozumel.php">* VISITING COZUMEL</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/activities/tequila-3-tonos.php">* FREE TEQUILA TOUR</a>
-        </li>
-    </ul>
-    <!-- End Activities-->
-    <!-- Art -->
-    <div class="category" id="art">Art</div>
-    <ul class="list-category" id="art">
-        <li>
-            <a href="http://safemapcozumel.com/art/galeria-azul.php">* GALERIA AZUL</a>
-        </li>
-        <li>
-            <a href="http://safemapcozumel.com/art/tattoo.php">* TATTOO</a>
-        </li>
-
-    </ul>
-    <!-- End Art -->
 
     <hr class="divide"/>
     <a href="http://www.safemapcozumel.com/images/ediciones/jun%20-%20sep/junio%20-%20septiembre.pdf" target="_blank">

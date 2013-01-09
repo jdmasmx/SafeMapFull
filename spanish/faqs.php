@@ -168,9 +168,9 @@
                 <p>Pesos mexicanos y dólares de los EE.UU. (las facturas no, por lo general las monedas) son aceptadas en Cozumel. Usted puede conseguir una oferta mejor pagar en pesos ya que no se pierde en el tipo de cambio. Las principales tarjetas de crédito y cheques de viajero también son ampliamente aceptadas y la mayoría de las tarjetas también funcionan en los cajeros automáticos de México.</p><br />
 
 
-                <h3>What language is spoken?</h3><br />
+                <h3>¿Que idioma se habla?</h3><br />
 
-                <p>Spanish is the official language of Mexico and is spoken everywhere in Cozumel. However, due to tourism English is also very widely spoken in Cozumel and non-Spanish speakers should have no problem getting by. You may also here some locals speaking Mayan, the ancient native language of the region.</p><br />
+                <p>El español es el idioma oficial de México y se habla por todas partes en Cozumel. Sin embargo, debido al turismo Inglés también es muy hablado en los altavoces de Cozumel y no españoles no debería tener problemas para conseguir por. También es posible que aquí algunos locales de habla maya, la antigua lengua nativa de la región.</p><br />
 
 
                 <h3>¿Cual es la zona horaria de Cozumel?</h3><br />

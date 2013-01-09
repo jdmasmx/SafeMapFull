@@ -1,7 +1,7 @@
 <div class="menu-container">
               <div class="nav">
                <ul id="main_menu">
-                <li class="current"><a href="http://safemapcozumel.com/spanish" id="home"> Home</a></li>
+                <li><a href="http://safemapcozumel.com/spanish" id="home"> Home</a></li>
                 <li><a href="../ediciones.php">Ediciones</a></li>
                 <li><a href="../anunciantes.php">Anunciantes</a>
                     <?php 
@@ -11,7 +11,7 @@
                 </li>
                 <li><a href="../quienes-somos.php">Quienes Somos</a></li>
                 <li><a href="../faqs.php">FAQ</a></li>
-                <li><a href="../informacion.php" >Información</a>
+                <li class="current"><a href="../informacion.php" >Información</a>
                  <ul>
                     <li><a href="../acerca-cozumel.php">Acerca de Cozumel</a></li>
                     <li><a href="../donde-hospedarse.php">Dónde hospedarse</a></li>
