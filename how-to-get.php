@@ -151,11 +151,12 @@
                             <td><a href="mailto:maria@jmjtravels.net?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
-                            <!--<td><a href="ventanas.html">VILLABLANCA GRADEN BEACH</a></td>
-                            <td>South coast road km 3</td>
-                            <td>987 872 0730</td>
-                            <td><a href="mailto:info@villablanca.net"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>-->
+                            <td><a href="http://www.safetourscozumel.com/transportation.html" target="_blank">SAFE TOURS COZUMEL</a></td>
+                            <td>AKUMAL #574 BETWEEN 20 AND 30</td>
+                            <td>987 8567 0601</td>
+                            <td><a href="mailto:info@safetourscozumel.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
+                        
                     </tbody>
                 </table>
             </div>

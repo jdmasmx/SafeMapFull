@@ -132,12 +132,7 @@
     <a href="http://www.safemapcozumel.com/hiring.php">
         <img src="http://www.safemapcozumel.com/images/mapahiringpng.png">
     </a>
-     <hr class="divide"/>
-    <div class="title_styling">
-        <h1>Visitors</h1>
-        <div class="title_underline"></div>
-<div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = {'url' : 'safemapcozumel.com', 'user' : 1071316, 'server' : '4', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2013-01-09', 'lang' : 'es', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www4.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www4.clustrmaps.com/user/0dc1058d4" target="_blank"><img src="http://www4.clustrmaps.com/stats/maps-no_clusters/safemapcozumel.com-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
-    </div>
+ 
     <hr class="divide"/>
     <div class="title_styling">
         <h1>Facebook Page</h1>

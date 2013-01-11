@@ -140,7 +140,30 @@
     </div>
 
 
-    <h3>Restaurants</h3><br />
+    
+  <h3>Activities</h3><br />
+  <ul class="bxslider">
+    <li><a href="activities/safe-tours.php"><img src="http://www.safemapcozumel.com/images/anunciantes/safetours/anunciobig.jpg"  alt="" /></a></li>
+    <li><a href="activities/activities-pirate-ship.php"><img src="http://www.safemapcozumel.com/images/anunciantes/pirate/anuncioBig.jpg"  alt="" /></a></li>
+    <li><a href="activities/fishing-charter.php"><img src="http://www.safemapcozumel.com/images/anunciantes/fishingcharter/anuncioBig.jpg"  alt="" /></a></li>
+    <li><a href="activities/visiting-cozumel.php"><img src="http://www.safemapcozumel.com/images/anunciantes/visitingcozumel/anuncioBig.jpg"  alt="" /></a></li>
+    <li><a href="http://safemapcozumel.com/activities/tequila-3-tonos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/tequila3tonos/anuncioBig.jpg"  alt="" /></a></li>
+  </ul>
+   <br />
+  <h3>Agency</h3><br />
+  <ul class="bxslider">
+    <li><a href="agency/gecko.php"><img src="http://www.safemapcozumel.com/images/anunciantes/geckocreativo/anunciobig.jpg"  alt="" /></a></li>
+    <li><a href="http://safemapcozumel.com/agency/cozumel-capital.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cozumelcapital/anuncioBig.jpg"  alt="" /></a></li>
+  </ul>
+ 
+  
+  <br />
+  <h3>Art</h3><br />
+  <ul class="bxslider">
+    <li><a href="art/galeria-azul.php"><img src="http://www.safemapcozumel.com/images/anunciantes/galeriaazul/anuncioBig.jpg"  alt="" /></a></li>
+    <li><a href="art/tattoo.php"><img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/anuncioBig.jpg"  alt="" /></a></li>
+  </ul>
+<h3>Restaurants</h3><br />
     <ul class="bxslider">
      <li><a href="restaurants/r_albertos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="restaurants/r_camilos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/camilos/anuncioBig.jpg"  alt="" /></a></li>
@@ -157,27 +180,6 @@
     <li><a href="health/h_red-cross.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/anuncioBig.jpg"  alt="" /></a></li>
   </ul>
   <br />
-  <h3>Agency</h3><br />
-  <ul class="bxslider">
-    <li><a href="agency/gecko.php"><img src="http://www.safemapcozumel.com/images/anunciantes/geckocreativo/anunciobig.jpg"  alt="" /></a></li>
-    <li><a href="http://safemapcozumel.com/agency/cozumel-capital.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cozumelcapital/anuncioBig.jpg"  alt="" /></a></li>
-  </ul>
-  <br />
-  <h3>Activities</h3><br />
-  <ul class="bxslider">
-    <li><a href="activities/safe-tours.php"><img src="http://www.safemapcozumel.com/images/anunciantes/safetours/anunciobig.jpg"  alt="" /></a></li>
-    <li><a href="activities/activities-pirate-ship.php"><img src="http://www.safemapcozumel.com/images/anunciantes/pirate/anuncioBig.jpg"  alt="" /></a></li>
-    <li><a href="activities/fishing-charter.php"><img src="http://www.safemapcozumel.com/images/anunciantes/fishingcharter/anuncioBig.jpg"  alt="" /></a></li>
-    <li><a href="activities/visiting-cozumel.php"><img src="http://www.safemapcozumel.com/images/anunciantes/visitingcozumel/anuncioBig.jpg"  alt="" /></a></li>
-    <li><a href="http://safemapcozumel.com/activities/tequila-3-tonos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/tequila3tonos/anuncioBig.jpg"  alt="" /></a></li>
-  </ul>
-  <br />
-  <h3>Art</h3><br />
-  <ul class="bxslider">
-    <li><a href="art/galeria-azul.php"><img src="http://www.safemapcozumel.com/images/anunciantes/galeriaazul/anuncioBig.jpg"  alt="" /></a></li>
-    <li><a href="art/tattoo.php"><img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/anuncioBig.jpg"  alt="" /></a></li>
-  </ul>
-
 <br /><br />
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style ">

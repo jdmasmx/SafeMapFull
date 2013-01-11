@@ -143,11 +143,17 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <tr style="background-color:#eee">
                             <td>BEACHOUSE HOSTEL COZUMEL</td>
                             <td>Lote 36, Country Club Estate</td>
                             <td>987 107 6744</td>
                             <td><a href="mailto:beachousecozumel@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        </tr>
+                        <tr>
+                            <td>CORAL PRINCESS</td>
+                            <td>Carretera Costera Norte Km 2.5</td>
+                            <td>987 8723200</td>
+                            <td><a href="mailto:ventas@coralprincess.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr style="background-color:#eee">
                             <td>VENTANAS AL MAR</td>
@@ -161,12 +167,7 @@
                             <td>987 872 0730</td>
                             <td><a href="mailto:info@villablanca.net?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
-                        <tr>
-                            <td>CORAL PRINCESS</td>
-                            <td>Carretera Costera Norte Km 2.5</td>
-                            <td>987 8723200</td>
-                            <td><a href="mailto:ventas@coralprincess.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
-                        </tr>
+                        
                     </tbody>
                 </table>
             </div>
