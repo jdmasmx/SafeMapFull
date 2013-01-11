@@ -55,6 +55,16 @@
 
     </ul>
     <!-- End Art -->
+    <!-- Car Sccoter Rentar -->
+    <div class="category" id="carscooter">Car &amp; Scooter rentals</div>
+    <ul class="list-category" id="carscooter">
+        <li>
+            <a href="http://safemapcozumel.com/car-scooter/blueway.php">* BLUEWAY</a>
+        </li>
+        
+
+    </ul>
+    <!-- End Art -->
     <!-- Health -->
     <div class="category" id="health">Health</div>
     <ul class="list-category" id="health">

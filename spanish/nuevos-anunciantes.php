@@ -260,6 +260,19 @@
                     <textarea cols="5" rows="20" id="webcomment" name="webcomment" class="contact-input"></textarea>
                     <!-- <input id="webcomment" name="webcomment"  type="text" size="50" class="contact-input"/> -->
                 </p>
+                 <p>
+                    <label for="medio">¿Como llegaste a nosotros?</label>
+                    <select name="medio" id="medio">
+                    
+                    <option value="" selected="selected">Selecciona una opcion</option>
+                        <option value="Arturo">Arturo</option>
+                        <option value="Sofia">Sofia</option>
+                        <option value="Internet">Internet</option>
+                         <option value="gecko">Gecko</option>
+                        <option value="otros">Otros</option>
+                        
+                    </select>
+                </p>    
 <br /><br />
                 <p>
                     <input class="primary_btn" type="submit" value="Enviar" id="send_button"/>

@@ -122,6 +122,10 @@ $(document).ready(function() {
     $("ul#activities").hide();
     $("ul#art").hide();
     $("ul#agency").hide();
+    $("ul#carscooters").hide();
+
+
+    
 
 });
 $(".category").mouseover(function(){

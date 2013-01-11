@@ -54,6 +54,14 @@
 
     </ul>
     <!-- End Art -->
+     <!-- Art -->
+    <div class="category" id="carscooters">Car & Scooter Rentals</div>
+    <ul class="list-category" id="carscooters">
+        <li>
+            <a href="http://safemapcozumel.com/spanish/car-scooter/blueway.php">* BLUEWAY</a>
+        </li>
+    </ul>
+    <!-- End Art -->
     <!--spanish/restaurantes -->
     <div class="category" id="restaurantes">Restaurantes</div>
     <ul class="list-category" id="restaurantes">

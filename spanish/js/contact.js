@@ -142,7 +142,10 @@ $(function() {
         //minlength: 5
       },
       
-      
+       medio: {
+        required: true,
+        //minlength: 5
+      },
 
       
       webcomment: {

@@ -382,7 +382,7 @@
                             <td>&nbsp;</td>
                         </tr>
                         <tr style="background-color:#eee">
-                            <td>BLUEWAY</td>
+                            <td><a href="http://safemapcozumel.com/car-scooter/blueway.php">BLUEWAY</a></td>
                             <td>5av. between 2 and 4 street nte.</td>
                             <td>987 872 0903</td>
                             <td><a href="mailto:centralczm@bluewaycarrental.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
@@ -409,7 +409,7 @@
                             <td>EXPLORA</td>
                             <td>10 av. #14 between Juarez and 2.</td>
                             <td>987 869 0020</td>
-                            <td><a href="mailto:Exploracozumel@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            <td><a href="mailto:Exploracozumel@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
                         <tr>
                             <td>EXECUTIVE</td>
