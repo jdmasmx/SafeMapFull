@@ -148,7 +148,7 @@
 
     <div id="advertiser">
       <div class="col1">
-        <img src="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg">
+        <a href="http://www.bluewaycarrental.com/" target="_blank"><img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-blue-logo-630x350.jpg" width="270"></a>
       </div>
       <div class="col2">
        Blueway Car Rental Was born in 1965 in the city of Merida, Yucatan MX, under the name of Alquiladora Montejo SA de CV, where we start operations as one of the pioneers in Car Rental Business in the Yucatan Peninsula (Southeast Mexico).
@@ -157,8 +157,8 @@
 
     <div id="advertiser">
       <div class="col1">
-        <a href="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg" id="banner">
-         <img src="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg">
+        <a href="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg" id="banner">
+         <img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg" width="270">
        </a>
      </div>
      <div class="col2">
@@ -181,7 +181,7 @@
           <td class="campo">Phone 2:</td><td class="dato">987 872 5177</td>
         </tr>
         <tr>
-          <td class="campo">Website:</td><td class="dato"><a href="http:/www.bluewaycarrental.com" target="_blank">www.bluewaycarrental.com</a></td>
+          <td class="campo">Website:</td><td class="dato"><a href="http://www.bluewaycarrental.com" target="_blank">www.bluewaycarrental.com</a></td>
         </tr>
        
         <tr>

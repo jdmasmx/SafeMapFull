@@ -148,7 +148,7 @@
 
     <div id="advertiser">
       <div class="col1">
-        <img src="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg">
+         <a href="http://www.bluewaycarrental.com/" target="_blank"><img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-blue-logo-630x350.jpg" width="270"></a>
       </div>
       <div class="col2">
        Blueway car rental fue creado en 1965 en la ciudad de Merida Yucatan Mx. bajo el nombre de alquiladora montejo SA de C.V. donde inicio sus operaciones como rentadora de autos pionera en la Peninsula de Yucatan.
@@ -157,8 +157,8 @@
 
     <div id="advertiser">
       <div class="col1">
-        <a href="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg" id="banner">
-         <img src="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg">
+        <a href="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg" id="banner">
+         <img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg" width="270">
        </a>
      </div>
      <div class="col2">
