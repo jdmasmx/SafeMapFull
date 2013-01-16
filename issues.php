@@ -58,6 +58,17 @@
             }
 
         });
+
+      $("a[rel=mapanuevo]").fancybox({
+            'transitionIn'      : 'none',
+            'transitionOut'     : 'none',
+            'titlePosition'     : 'over',
+            'titleFormat'       : function(title, currentArray, currentIndex, currentOpts) {
+                return '<span id="fancybox-title-over">SafeMap /' + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+            }
+
+        });
+
     });
 
     </script>
@@ -168,7 +179,7 @@
                 <tr>
 
                     <td>
-                        <a href="issuesaviso.php" id="contacto"><img alt="example1" src="issues/portada-december.jpg" /></a>
+                        <a rel="mapanuevo" href="issues/mapa2013-a.jpg" title="Mapa 2013"><img alt="example1" src="issues/portada-december.jpg" /></a>
 
                     </td>
                     <td>
