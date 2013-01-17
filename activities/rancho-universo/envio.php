@@ -37,7 +37,9 @@ if($errors) {
 $sPara = "rancho.universo.horse.sanctuary@hotmail.com";
 $sAsunto = "Rancho Universo Form Contact";
 $sTexto = "Contact Form Data"."\r\n";
-$sDe = $_POST[email];
+$safemapFrom = "advertiser@safemapcozumel.com"; //From
+$safemapTo = "contact@safemapcozumel.com"; //To
+$visitante = $_POST[email]; //Visitante
 
 foreach ($_POST as $sNombre => $sValor) {
    $sTexto = $sTexto."\n".$sNombre." = ".$sValor;
@@ -47,8 +49,9 @@ $bHayFicheros = 0;
 $sCabeceraTexto = ""; 
 $sAdjuntos = "";
 /** **/
-$sCabeceras = "From: Safe Map Cozumel ".$sDe."\n"; 
-//$sCabeceras .= "Bcc: dmas@consultoresemkt.com" . "\r\n";
+$sCabeceras = "From: Safe Map Cozumel: ".$safemapFrom."\n"; 
+$sCabeceras .= 'Cc: Visitor: '.$visitante."\r\n"; 
+$sCabeceras .= 'Bcc: Safe Map Cozumel: '.$safemapTo."\r\n"; 
 
 
 
