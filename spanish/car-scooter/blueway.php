@@ -123,9 +123,9 @@
 <!-- /////banner/////-->
 <div class="banner_small">
   <div class="idiomas">
-                <a href="http://www.safemapcozumel.com/" class="activo">English</a> 
+                <a href="http://www.safemapcozumel.com/">English</a> 
                 
-                <a href="http://www.safemapcozumel.com/spanish"> | Español</a>
+                <a href="http://www.safemapcozumel.com/spanish" class="activo"> | Español</a>
             </div>
   <div class="wrap">
 
