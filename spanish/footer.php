@@ -117,12 +117,8 @@
 <script type="text/javascript">
 $(document).ready(function() { 
 
-    $("ul#restaurantes").hide();
-    $("ul#health").hide();
-    $("ul#activities").hide();
-    $("ul#art").hide();
-    $("ul#agency").hide();
-    $("ul#carscooters").hide();
+    $("ul.list-category").hide();
+    
 
 
     

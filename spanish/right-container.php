@@ -62,6 +62,14 @@
         </li>
     </ul>
     <!-- End Art -->
+    <!-- Bhotels -->
+    <div class="category" id="bhotels">Hoteles de Playa</div>
+    <ul class="list-category" id="bhotels">
+        <li>
+            <a href="http://safemapcozumel.com/spanish/beach-hotels/coral-princess.php">* CORAL PRINCESS</a>
+        </li>
+    </ul>
+    <!-- End Art -->
     <!--spanish/restaurantes -->
     <div class="category" id="restaurantes">Restaurantes</div>
     <ul class="list-category" id="restaurantes">

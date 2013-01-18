@@ -44,8 +44,8 @@
     </ul>
     <!-- End Health-->
     <!-- Art -->
-    <div class="category" id="art">Art</div>
-    <ul class="list-category" id="art">
+    <div class="category" id="bhotels">Art</div>
+    <ul class="list-category" id="bhotels">
         <li>
             <a href="http://safemapcozumel.com/art/galeria-azul.php">* GALERIA AZUL</a>
         </li>
@@ -55,6 +55,16 @@
 
     </ul>
     <!-- End Art -->
+    <!-- beach hotels -->
+    <div class="category" id="art">Beach Hotels</div>
+    <ul class="list-category" id="art">
+        <li>
+            <a href="http://safemapcozumel.com/beach-hotels/coral-princess.php">* CORAL PRINCESS</a>
+        </li>
+      
+
+    </ul>
+    <!-- End  -->
     <!-- Car Sccoter Rentar -->
     <div class="category" id="carscooter">Car &amp; Scooter rentals</div>
     <ul class="list-category" id="carscooter">
