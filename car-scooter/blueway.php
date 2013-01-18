@@ -194,13 +194,15 @@
         </table>
       </div>
 
-     <!--  <div class="col5">
-        <a href="http://maps.google.com/maps/ms?msa=0&msid=215312241564867698152.0004b6d068964d2b4186b&ie=UTF8&t=m&vpsrc=6&ll=20.489979,-86.951122&spn=0.01407,0.018239&z=15&output=embed" id="mapaVer">
+      <div class="col5">
+        <a href="https://maps.google.com/maps/ms?msid=203173678386505060299.0004d394fb50ba21cdfe6&msa=0" id="mapaVer">
           <img src="http://www.safemapcozumel.com/images/mapa.jpg">
         </a>
-      </div> -->
+      </div> 
     </div>
     
+
+   
    
 
 

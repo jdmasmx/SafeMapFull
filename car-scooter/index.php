@@ -117,9 +117,9 @@
       <div class="title_underline"></div>
     </div>
 
-    <h3>Health</h3><br />
+    <h3>Car & Scooter Rentals</h3><br />
    <ul class="bxslider">
-    <li><a href="h_red-cross.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/anuncioBig.jpg"  alt="" /></a></li>
+    <li><a href="Blueway.php"><img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg"  alt="" /></a></li>
   </ul>
     
 <br /><br />
@@ -130,7 +130,7 @@
 <a class="addthis_button_pinterest_pinit"></a>
 <a class="addthis_counter addthis_pill_style"></a>
 </div>
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
 <!-- AddThis Button END -->
   </div>
