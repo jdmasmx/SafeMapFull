@@ -119,7 +119,7 @@
 
     <h3>Car & Scooter Rentals</h3><br />
    <ul class="bxslider">
-    <li><a href="Blueway.php"><img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg"  alt="" /></a></li>
+    <li><a href="http://safemapcozumel.com/car-scooter/blueway.php"><img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg"  alt="" /></a></li>
   </ul>
     
 <br /><br />

@@ -163,6 +163,21 @@
     <li><a href="art/galeria-azul.php"><img src="http://www.safemapcozumel.com/images/anunciantes/galeriaazul/anuncioBig.jpg"  alt="" /></a></li>
     <li><a href="art/tattoo.php"><img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/anuncioBig.jpg"  alt="" /></a></li>
   </ul>
+ <h3>Beach Hotels</h3><br />
+   <ul class="bxslider">
+    <li><a href="http://safemapcozumel.com/beach-hotels/coral-princess.php">
+      <img src="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-en.png"  alt="" />
+    </a></li>
+  </ul>
+  <h3>Car & Scooter Rentals</h3><br />
+   <ul class="bxslider">
+    <li><a href="http://safemapcozumel.com/car-scooter/blueway.php"><img src="http://safemapcozumel.com/images/anunciantes/blueway/safetours-index-630x350.jpg"  alt="" /></a></li>
+  </ul>
+  <h3>Health</h3><br />
+   <ul class="bxslider">
+    <li><a href="health/h_red-cross.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/anuncioBig.jpg"  alt="" /></a></li>
+  </ul>
+  <br />
 <h3>Restaurants</h3><br />
     <ul class="bxslider">
      <li><a href="restaurants/r_albertos.php"><img src="http://www.safemapcozumel.com/images/anunciantes/albertos/anuncioBig.jpg"  alt="" /></a></li>
@@ -175,11 +190,7 @@
      <li><a href="http://safemapcozumel.com/restaurants/r_lobsteria.php"><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/anuncioBig.jpg"  alt="" /></a></li>
    </ul>
    <br />
-   <h3>Health</h3><br />
-   <ul class="bxslider">
-    <li><a href="health/h_red-cross.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/anuncioBig.jpg"  alt="" /></a></li>
-  </ul>
-  <br />
+   
 <br /><br />
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style ">
