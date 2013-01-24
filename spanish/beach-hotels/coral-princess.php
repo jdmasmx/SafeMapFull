@@ -157,8 +157,8 @@
 
     <div id="advertiser">
       <div class="col1">
-        <a href="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg" id="banner">
-         <img src="http://www.safemapcozumel.com/images/anunciantes/anuncio.jpg">
+        <a href="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-es.png" id="banner">
+         <img src="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-es.png" width="270">
        </a>
      </div>
      <div class="col2">

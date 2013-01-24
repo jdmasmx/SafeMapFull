@@ -173,9 +173,7 @@
         <tr>
           <td class="campo">Address 1:</td><td class="dato">10 avenue Num. 80 between 1 sur and Adolfo Rosado Salas</td>
         </tr>
-        <tr>
-          <td class="campo">Address 2:</td><td class="dato">Plaza Villamar Up stairs Fat Tuesday local 1</td>
-        </tr>
+        
         <tr>
           <td class="campo">Phone:</td><td class="dato">987 105 5044</td>
         </tr>
@@ -216,7 +214,7 @@
       The study of drawing and illustration techniques coupled with participation in several international symposia tattooists are part of the training that was required by to be getting better at this exquisite art. Gentle and humorous Offir is recognized as one of the best tattoo artists of the mayan riviera <br /><br />
       <br /><br />
       <img src="http://www.safemapcozumel.com/images/anunciantes/tattoo/img2.jpg" class="right"> 
-      Born in Cozumel Azael is another great tattoo artist on the island, famous for his tattoos of high quality and originality, with 8 years as a tattoo is another of the team members who form the Offir tattoos are tattoos.
+      
     </p>
 
     <br class="clear" />
