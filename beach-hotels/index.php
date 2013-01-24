@@ -118,9 +118,11 @@
     </div>
 
     <h3>Beach Hotels</h3><br />
-   <!-- <ul class="bxslider">
-    <li><a href="h_red-cross.php"><img src="http://www.safemapcozumel.com/images/anunciantes/cruzroja/anuncioBig.jpg"  alt="" /></a></li>
-  </ul> -->
+   <ul class="bxslider">
+    <li><a href="http://safemapcozumel.com/beach-hotels/coral-princess.php">
+      <img src="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-en.png"  alt="" />
+    </a></li>
+  </ul>
     
 <br /><br />
 <!-- AddThis Button BEGIN -->
