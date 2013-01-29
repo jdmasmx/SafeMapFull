@@ -152,7 +152,7 @@
             <strong>Join our directory</strong>, send your details and will be happy to have you among our <a href="advertisers.php">advertisers</a>. <a href="hiringpolicies.php" class="contacto">Click here to see our policies.</a>
             <br />
             <div class="primary_btn_b">
-                <a href="hiringpolicies.php" class="contacto">POLICIES AND PRICES CLICK HERE</a>
+                <a href="hiringpolicies.php" class="contacto">Prices and Policies "Click Here"</a>
       </div>
             <hr class="divide"/> <br />
             <form class="cmxform" id="contactform" method="POST" action="hiring-envio.php">

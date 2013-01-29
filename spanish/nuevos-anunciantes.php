@@ -152,7 +152,7 @@
             <strong>Únete a nuestro directorio</strong>, envíe sus datos y estaremos encantados de tenerte entre nuestros <a href="anunciantes.php">anunciantes.</a> <a href="politicas.php" class="contacto">Haga clic aquí para ver nuestras políticas.</a>
             <br />
             <div class="primary_btn_b">
-                <a href="politicas.php" class="contacto">POLÍTICAS Y PRECIOS HAGA CLIC AQUÍ.</a>
+                <a href="politicas.php" class="contacto">Precios y Politicas "Presione Aqui"</a>
       </div>
             <hr class="divide"/> <br />
             <form class="cmxform" id="contactform" method="POST" action="hiring-envio.php">
