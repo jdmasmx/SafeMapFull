@@ -152,7 +152,7 @@
                 <li> <a href="mapa-interactivo.php">Mapa interactivo de Cozumel.</a></li>
             </ul>
             <div class="primary_btn">
-                <a href="tourist_information.php" class="italic">Leer Mas</a>
+                <a href="informacion.php" class="italic">Leer Mas</a>
             </div>
         </div>
     </div>
