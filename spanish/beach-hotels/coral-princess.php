@@ -193,11 +193,11 @@
         </table>
       </div>
 
-      <!-- <div class="col5">
-        <a href="http://maps.google.com/maps/ms?msa=0&msid=215312241564867698152.0004b6d068964d2b4186b&ie=UTF8&t=m&vpsrc=6&ll=20.489979,-86.951122&spn=0.01407,0.018239&z=15&output=embed" id="mapaVer">
+    <div class="col5">
+        <a href="https://maps.google.com.mx/maps/ms?msa=0&amp;msid=203173678386505060299.0004d396b1e1a6fac2d79&amp;ie=UTF8&amp;t=m&amp;layer=c&amp;cbll=20.533169,-86.938527&amp;panoid=TGB3ZLnyvveRc0sBMQ1qOQ&amp;cbp=13,307.71,,1,0.44&amp;ll=20.531835,-86.937819&amp;spn=0.003155,0.00603&amp;z=17&amp;source=embed&amp;output=svembed" id="mapaVer">
           <img src="http://www.safemapcozumel.com/images/mapa.jpg">
         </a>
-      </div> -->
+      </div> 
     </div>
     
 
