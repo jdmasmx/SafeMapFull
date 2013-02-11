@@ -305,7 +305,7 @@
                 <h1> Anuncios de forma gratuita.</h1>
                 <div class="title_underline"></div>
             </div>
-            <a href="hiring.php">
+            <a href="http://www.safemapcozumel.com/spanish/nuevos-anunciantes.php#freeads">
                 <img src="http://www.safemapcozumel.com/images/tourist/bannerform.jpg">
             </a>
 
