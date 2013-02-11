@@ -35,7 +35,7 @@
 
     </script>
     
-    <script src="js/lib/modernizr-2.min.js"> </script>
+    <script src="../js/lib/modernizr-2.min.js"> </script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
     <script type="text/javascript" src="../js/jquery.lavalamp.min.js"></script>
@@ -48,7 +48,7 @@
     <script type="text/javascript" src="../js/jquery.cycle.all.js"></script>
     <script type="text/javascript" src="../css/jquery.mousewheel-3.0.4.pack.js"></script>
     <script type="text/javascript" src="../css/jquery.fancybox-1.3.4.pack.js"></script>
-    <link rel="stylesheet" type="text/css" href="c../ss/jquery.fancybox-1.3.4.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../css/jquery.fancybox-1.3.4.css" media="screen" />
     <script type="text/javascript" src="../js/jquery.validate.min.js"></script>
     <script type="text/javascript" src="../js/jquery.form.js"></script>
     <script type="text/javascript" src="../js/contact.js"></script>
@@ -59,7 +59,7 @@
     $(document).ready(function(){
 
 
-       $("a[rel=example_group]").fancybox({
+     $("a[rel=example_group]").fancybox({
         'transitionIn'      : 'none',
         'transitionOut'     : 'none',
         'titlePosition'     : 'over',
@@ -69,15 +69,15 @@
 
     });
 
-       slider();
-       pageTab();
-       video();
-       jqueryCycle();
-       jcarouselVertical();
-       socialIcon();
-       back2top();
-       lavaLamp();
-   });
+     slider();
+     pageTab();
+     video();
+     jqueryCycle();
+     jcarouselVertical();
+     socialIcon();
+     back2top();
+     lavaLamp();
+ });
     </script>
 
 
@@ -98,30 +98,30 @@
 
             <div class="menu-container">
               <div class="nav">
-               <ul id="main_menu">
-                <li class="current"><a href="http://safemapcozumel.com/spanish" id="home"> Home</a></li>
-                <li><a href="ediciones.php">Ediciones</a></li>
-                <li><a href="anunciantes.php">Anunciantes</a>
-                    <?php 
-                    include 'categorias-esp.php';
+                 <ul id="main_menu">
+                    <li class="current"><a href="http://safemapcozumel.com/spanish" id="home"> Home</a></li>
+                    <li><a href="ediciones.php">Ediciones</a></li>
+                    <li><a href="anunciantes.php">Anunciantes</a>
+                        <?php 
+                        include 'categorias-esp.php';
 
-                    ?>
+                        ?>
+                    </li>
+                    <li><a href="quienes-somos.php">Quienes Somos</a></li>
+                    <li><a href="faqs.php">FAQ</a></li>
+                    <li><a href="informacion.php" >Información</a>
+                       <ul>
+                        <li><a href="acerca-cozumel.php">Acerca de Cozumel</a></li>
+                        <li><a href="donde-hospedarse.php">Dónde hospedarse</a></li>
+                        <li><a href="actividades.php">Actividades</a></li>
+                        <li><a href="como-llegar.php">Como Llegar</a></li>
+                    </ul>
                 </li>
-                <li><a href="quienes-somos.php">Quienes Somos</a></li>
-                <li><a href="faqs.php">FAQ</a></li>
-                <li><a href="informacion.php" >Información</a>
-                 <ul>
-                    <li><a href="acerca-cozumel.php">Acerca de Cozumel</a></li>
-                    <li><a href="donde-hospedarse.php">Dónde hospedarse</a></li>
-                    <li><a href="actividades.php">Actividades</a></li>
-                    <li><a href="como-llegar.php">Como Llegar</a></li>
-                </ul>
-            </li>
-            <li><a href="contacto.php">Contacto</a></li>
-            <li><a href="nuevos-anunciantes.php">Nuevos anunciantes</a></li>
-        </ul>
-    </div><!-- end nav -->
-</div><!-- end menu-container -->
+                <li><a href="contacto.php">Contacto</a></li>
+                <li><a href="nuevos-anunciantes.php">Nuevos anunciantes</a></li>
+            </ul>
+        </div><!-- end nav -->
+    </div><!-- end menu-container -->
 </div><!-- end wrap -->
 </div>
 <!--////////header end////////-->
@@ -156,15 +156,14 @@
             </div>
         </div>
     </div>
+<div id="phone">
+    <div id="mobile_carousel">
+        <div class="carousel-feature"><a href="http://www.safemapcozumel.com/images/portadabig.jpg" target="blank" rel="example_group" title="Jun - Sep 2012"><img alt="" src="images/iphone_ban_1.png" class="carousel-image" /></a></div>
+        <div class="carousel-feature"><a href="#"><img alt="" src="http://www.safemapcozumel.com/images/iphone_ban_2.png" class="carousel-image" /></a></div>
+        <div class="carousel-feature"><a href="#"><img alt="" src="http://www.safemapcozumel.com/images/iphone_ban_3.png" class="carousel-image" /></a></div>
+    </div>
 
-    <div id="phone">
-        <div id="mobile_carousel">
-            <div class="carousel-feature"><a href="http://www.safemapcozumel.com/images/portadabig.jpg" target="blank" rel="example_group" title="Jun - Sep 2012"><img alt="" src="images/iphone_ban_1.png" class="carousel-image" /></a></div>
-            <div class="carousel-feature"><a href="#"><img alt="" src="../images/iphone_ban_2.png" class="carousel-image" /></a></div>
-            <div class="carousel-feature"><a href="#"><img alt="" src="../images/iphone_ban_3.png" class="carousel-image" /></a></div>
-        </div>
-
-    </div><!-- End phone -->
+</div><!-- End phone -->
 </div><!-- End wrap -->     
 </div>
 <!--////////banner end //////// -->
@@ -278,11 +277,11 @@
                                 Suscríbete a nuestro newsletter y sé el primero en enterarte de las últimas cuestiones y noticias.
                             </h2>
                             <div class="answer">
-                               <input name="Email" type="text" value="Your Email" 
-                               onclick="if(this.value=='Your Email')this.value='';" 
-                               onblur="if(this.value=='')this.value='Your Email';"
-                               />
-                               <div class="secondary-button">
+                             <input name="Email" type="text" value="Your Email" 
+                             onclick="if(this.value=='Your Email')this.value='';" 
+                             onblur="if(this.value=='')this.value='Your Email';"
+                             />
+                             <div class="secondary-button">
                                 <div class="secondary-button-content">
                                     <a href="#">Suscribir</a>
                                 </div>
@@ -297,30 +296,30 @@
                         </h2>
                         <div class="answer">
                             <p>
-                               <strong>USA & CAN Call Toll Free:</strong> 1 (855) 552 6986 or 1 (855) 55 COZUMEL <br />
-                               <strong>While in Cozumel Call:</strong> 857 0601 <br />
-                               <strong>Sales:</strong> ventas@safemapcozumel.com <br />
-                               <strong>Webmaster:</strong> webmaster@safemapcozumel.com
-                           </p>
-                       </div>
-                   </li>
-                   <li class="faq_container">
+                             <strong>USA & CAN Call Toll Free:</strong> 1 (855) 552 6986 or 1 (855) 55 COZUMEL <br />
+                             <strong>While in Cozumel Call:</strong> 857 0601 <br />
+                             <strong>Sales:</strong> ventas@safemapcozumel.com <br />
+                             <strong>Webmaster:</strong> webmaster@safemapcozumel.com
+                         </p>
+                     </div>
+                 </li>
+                 <li class="faq_container">
                     <h2>
                         Social Media
                     </h2>
                     <div class="answer">
                         <p>
-                           <strong><a href="https://www.facebook.com/pages/Safe-Map-Cozumel/107544306025205" target="_blank">Facebook</a></strong> <br />
-                           <strong><a href="https://twitter.com/safemapcozumel" target="_blank">Twitter</a></strong> <br />
-                           <strong><a href="https://plus.google.com/109828269179482231700/posts" target="_blank">Google +</a></strong> <br />
-                           <strong><a href="http://www.youtube.com/safemapcozumel" target="_blank">Youtube</a></strong>
-                       </p>
-                   </div>
-               </li>    
-           </ul>               
-       </div>
-   </div>
-   <!--  End FAQ  -->    
+                         <strong><a href="https://www.facebook.com/pages/Safe-Map-Cozumel/107544306025205" target="_blank">Facebook</a></strong> <br />
+                         <strong><a href="https://twitter.com/safemapcozumel" target="_blank">Twitter</a></strong> <br />
+                         <strong><a href="https://plus.google.com/109828269179482231700/posts" target="_blank">Google +</a></strong> <br />
+                         <strong><a href="http://www.youtube.com/safemapcozumel" target="_blank">Youtube</a></strong>
+                     </p>
+                 </div>
+             </li>    
+         </ul>               
+     </div>
+ </div>
+ <!--  End FAQ  -->    
 </div>
 <div id="info-container">
     <div class="title_styling">
@@ -333,10 +332,10 @@
 <br /><br />
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style ">
-<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-<a class="addthis_button_tweet"></a>
-<a class="addthis_button_pinterest_pinit"></a>
-<a class="addthis_counter addthis_pill_style"></a>
+    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+    <a class="addthis_button_tweet"></a>
+    <a class="addthis_button_pinterest_pinit"></a>
+    <a class="addthis_counter addthis_pill_style"></a>
 </div>
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50edae0c66a3f38f"></script>
