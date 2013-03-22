@@ -358,6 +358,12 @@
                             <td>987 872 2404</td>
                             <td><a href="mailto:isa.paprika@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
+                        <tr style="background-color:#eee">
+                            <td>LOVE CAFE COZUMEL</td>
+                            <td>Rafael Melgar/ playa casita.</td>
+                            <td>987 107 1252</td>
+                            <td><a href="mailto:mariacabreroromero@gmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
@@ -533,6 +539,12 @@
                                 987 872 1058</td>
                                 <td><a href="mailto:donativos@cruzrojacozumel.org?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                             </tr>
+                            <tr style="">
+                            <td>Dr Dario Gomez / Divers Alert Network Medical Liaison</td>
+                            <td>-</td>
+                            <td>987 111 9299<br />
+                                                                <td><a href="mailto:dgomez@dan.org?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
@@ -568,6 +580,18 @@
                             <td>987 869 0963</td>
                             <td><a href="mailto:greg@cozumelglassart.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
+                         <tr style="background-color:#eee">
+                            <td>RAICES</td>
+                            <td>10 AV # 172   ENTRE  1 A    Y  A. R. SALAS  COL CENTRO</td>
+                            <td>&nbsp;</td>
+                            <td><a href="mailto:rayja41@yahoo.com.mx?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        </tr>
+                        <tr>
+                            <td>KOOL</td>
+                            <td>PLAZA ROYAL VILLAGE</td>
+                            <td>85 70 046</td>
+                            <td><a href="mailto:GDT25@HOTMAIL.COM?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
@@ -596,6 +620,12 @@
                         <td>Rafael E. Melgar ave. between 2 north street and Juarez Avenue.</td>
                         <td> 987 869 2461</td>
                         <td><a href="mailto:shinegallery@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                    </tr>
+                    <tr>
+                        <td>CUTE BY SPACIO NATURAL</td>
+                        <td> - </td>
+                        <td>987 87 60902</td>
+                        <td><a href="mailto:ventas@spacionaturalmx.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                     </tr>
                 </tbody>
             </table>
@@ -767,6 +797,13 @@
                 <td>987 117 9413</td>
                 <td><a href="mailto:info@caribbeansweetweddings.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
             </tr>
+            <tr>
+                <td>LIBELULA CONTROL DE PLAGAS</td>
+                <td>65 av bis entre calles 8 y 10</td>
+                <td>987 116 59 47</td>
+                <td><a href="mailto:libelula_cip@hotmail.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+            </tr>
+            
         </tbody>
     </table>
 </div>

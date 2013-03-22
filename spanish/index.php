@@ -21,19 +21,19 @@
     <link href="http://fonts.googleapis.com/css?family=Dosis:200,300" rel="stylesheet" type="text/css" />
     <!-- <link rel="stylesheet" href="./css/layout.css" type="text/css" /> -->
 
-    <script type="text/javascript">
+<script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-36983377-1']);
-    _gaq.push(['_trackPageview']);
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36983377-1']);
+  _gaq.push(['_trackPageview']);
 
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-    </script>
+</script>
     
     <script src="../js/lib/modernizr-2.min.js"> </script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -55,7 +55,7 @@
 
     <!--  accordian  -->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-    <script type="text/javascript">
+     <script type="text/javascript">
     $(document).ready(function(){
 
 
@@ -158,9 +158,9 @@
     </div>
 <div id="phone">
     <div id="mobile_carousel">
-        <div class="carousel-feature"><a href="http://www.safemapcozumel.com/images/portadabig.jpg" target="blank" rel="example_group" title="Jun - Sep 2012"><img alt="" src="images/iphone_ban_1.png" class="carousel-image" /></a></div>
-        <div class="carousel-feature"><a href="#"><img alt="" src="http://www.safemapcozumel.com/images/iphone_ban_2.png" class="carousel-image" /></a></div>
-        <div class="carousel-feature"><a href="#"><img alt="" src="http://www.safemapcozumel.com/images/iphone_ban_3.png" class="carousel-image" /></a></div>
+        <div class="carousel-feature"><a href="http://www.safemapcozumel.com/images/portadabig.jpg" target="blank" rel="example_group" title="Jun - Sep 2012"><img alt="" src="../images/iphone_ban_1.png" class="carousel-image" /></a></div>
+        <div class="carousel-feature"><a href="#"><img alt="" src="../images/iphone_ban_2.png" class="carousel-image" /></a></div>
+        <div class="carousel-feature"><a href="#"><img alt="" src="../images/iphone_ban_3.png" class="carousel-image" /></a></div>
     </div>
 
 </div><!-- End phone -->

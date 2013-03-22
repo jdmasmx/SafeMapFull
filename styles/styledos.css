@@ -1,0 +1,240 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* Table of content
+	1  Css Reset
+	2  Global styling
+		I.  Title styling 
+		II. Blue Butoon
+		III.primary_btn
+		IV. Go to top button
+		
+	3  Header
+		I.  Menu
+	4  Banner
+		I.  Mobile carousel
+		II. Ratings	
+ 	5  Page Tab
+		I.  Features
+		II. Video
+		III.Screenshot
+		IV. Support
+	6  Right Container
+		I.  User Review
+		II. App download buttons
+		III.popular post
+		IV. Post Archive
+	7  Footer
+		I.  Strip_1	
+		II. Strip_2
+		
+	8  Form	
+	9  About us		
+	10 contact form validation		
+	11 Blog
+	12 jcarousel vertical
+	13 404 page
+
+	---------------------*/
+
+
+
+/* CSS Reset
+---------------------*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	background: none repeat scroll 0 0 transparent;
+	border: 0 none;
+	font-size: 100%;
+	margin: 0;
+	outline: 0 none;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+/*** BORDE DE LOS ANUNCIANTES EN ADVERTISERS  ***/
+.borde {padding: 4px;
+	border: 1px solid #e7e7e7;
+	margin-bottom: 5px;}
+	
+	body {
+		line-height: 1;
+		font-family: "PT Sans", sans-serif;	
+	}
+	ol, ul {
+		list-style: none outside none;
+	}
+	blockquote, q {
+		quotes: none;
+	}
+	blockquote:before, blockquote:after, q:before, q:after {
+		content: none;
+	}
+	:focus {
+		outline: 0 none;
+	}
+	ins {
+		text-decoration: none;
+	}
+	del {
+		text-decoration: line-through;
+	}
+	table {
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+
+/* Global styling
+---------------------*/
+p {
+	font-size: 13px;
+	line-height: 20px;
+	text-align: justify;
+}
+h1 {
+	color: #414141;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+
+}
+h2 {
+	color: #3BACE2;
+	font-size: 16px;
+	font-weight: normal;
+}
+h3 {
+	color: #117085;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin: 20px 0px 20px 0px;
+	
+}
+h4 {
+	font-size: 18px;
+	
+}
+h5 {
+	color: #117085;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin: 20px 0px 20px 0px;
+	text-align: center;
+}
+
+
+
+/*Menu
+----------------------*/
+.menu-container {
+	
+	margin-top: 20px;
+	
+}
+.menu-container li {
+	float: left;
+	list-style: none outside none;
+}
+.menu-container .nav li:last-child {
+	background: none repeat scroll 0 0 transparent;
+	color: #FF0000;
+	margin-right: 0;
+}
+.menu-container li.back {
+	background: url("../images/lava.png") no-repeat scroll right -29px transparent;
+	position: absolute;
+	z-index: 8;
+}
+.menu-container li.back .left {
+	background: url("../images/lava.png") no-repeat scroll left top transparent;
+	height: 30px;
+	margin-right: 14px;
+}
+.menu-container .nav li {
+	float: left;
+	font-size: 13px;
+	list-style-type: none;
+/*	margin: 0 10px;*/
+}
+.menu-container li a {
+	color: #FFFFFF;
+	line-height: 28px;
+	margin-left: 2px;
+	padding: 0 10px 20px;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 1px #555555;
+	text-transform: uppercase;
+	z-index: 10;
+}
+
+.nav {
+	float: left;
+}
+
+.nav li #home {
+	background: url("../images/home.png") no-repeat;;
+	display: block;
+	height: 18px;
+	margin: 5px 0 0 9px;
+	padding: 0 5px;
+	text-indent: -9999px;
+	width: 18px;
+}
+
+
+ul#main_menu > li {
+	cursor: pointer;
+	display: block;
+	float: left;
+	position: relative;
+}
+ul#main_menu li ul {
+	background: url("../images/dropdown_bg.png") repeat scroll 0 0 transparent;
+	box-shadow: 1px 1px 3px -1px #000000;
+	display: none;
+	left: -10px;
+	position: absolute;
+	top: 41px;
+	width: 150px;
+	z-index: 10000;
+}
+ul#main_menu li ul li ul {
+	left: 150px;
+}
+ul#main_menu li ul li ul li {
+	background: url("../images/menu_li_border.png") repeat-x scroll center bottom transparent;
+}
+ul#main_menu li ul li {
+	background: url("../images/menu_li_border.png") repeat-x scroll center bottom transparent;
+	clear: both;
+	display: block;
+	float: none;
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+ul#main_menu li ul li:last-child {
+	background: none repeat scroll 0 0 transparent;
+}
+ul#main_menu li ul li a, ul#main_menu li ul li ul li a {
+	display: block;
+	height: auto;
+	margin: 0;
+	padding: 5px 7px 5px 16px;
+	text-shadow: 1px 1px 1px black;
+}
+ul#main_menu li ul li:hover {
+	background: url("../images/dropdown_hover_bg.jpg") repeat-x scroll 0 0 transparent;
+}
+ul#main_menu li ul ul {
+	display: none;
+	left: 200px;
+	top: 0;
+	z-index: 100;
+}
+ul#main_menu ul li {
+	position: relative;
+}
+

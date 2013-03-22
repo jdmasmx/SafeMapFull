@@ -172,6 +172,9 @@
     <li><a href="http://safemapcozumel.com/spanish/beach-hotels/coral-princess.php">
       <img src="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-es.png"  alt="" />
     </a></li>
+    <li><a href="http://safemapcozumel.com/spanish/beach-hotels/playa-azul.php">
+      <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioES.jpg"  alt="" />
+    </a></li>
   </ul>
 
     <h3>Restaurantes</h3><br />

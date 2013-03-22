@@ -68,6 +68,9 @@
         <li>
             <a href="http://safemapcozumel.com/spanish/beach-hotels/coral-princess.php">* CORAL PRINCESS</a>
         </li>
+        <li>
+            <a href="http://safemapcozumel.com/spanish/beach-hotels/playa-azul.php">* PLAYA AZUL</a>
+        </li>
     </ul>
     <!-- End Art -->
     <!--spanish/restaurantes -->

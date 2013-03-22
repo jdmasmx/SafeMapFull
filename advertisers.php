@@ -168,6 +168,9 @@
     <li><a href="http://safemapcozumel.com/beach-hotels/coral-princess.php">
       <img src="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-en.png"  alt="" />
     </a></li>
+    <li><a href="http://safemapcozumel.com/beach-hotels/playa-azul.php">
+      <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioEn.jpg"  alt="" />
+    </a></li>
   </ul>
   <h3>Car & Scooter Rentals</h3><br />
    <ul class="bxslider">
