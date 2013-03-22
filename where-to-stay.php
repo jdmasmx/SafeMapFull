@@ -167,6 +167,13 @@
                             <td>987 872 0730</td>
                             <td><a href="mailto:info@villablanca.net?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
                         </tr>
+                        <tr style="background-color:#eee">
+                            <td><a href="http://safemapcozumel.com/beach-hotels/playa-azul.php" target="_blank">PLAYA AZUL</a></td>
+                            <td>Carretera a San Juan Km 4, Zona Hotelera Norte</td>
+                            <td>(987) 869 5160</td>
+                            <td><a href="mailto:playanet@playa-azul.com?subject=You have a message from a user of Safe Map Cozumel!"><img src="images/mail.png" alt="Contact by email" width="32" height="20" border="0" /></a></td>
+                        </tr>
+
                         
                     </tbody>
                 </table>
