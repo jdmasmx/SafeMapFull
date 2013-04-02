@@ -169,8 +169,9 @@
       <img src="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-en.png"  alt="" />
     </a></li>
     <li><a href="http://safemapcozumel.com/beach-hotels/playa-azul.php">
-      <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioEn.jpg"  alt="" />
+      <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/hplaya-azulen.jpg"  alt="" />
     </a></li>
+
   </ul>
   <h3>Car & Scooter Rentals</h3><br />
    <ul class="bxslider">
@@ -191,6 +192,7 @@
      <li><a href="restaurants/r_ohana.php"><img src="http://www.safemapcozumel.com/images/anunciantes/ohana/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="restaurants/r_punta-morena.php"><img src="http://www.safemapcozumel.com/images/anunciantes/puntamorena/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="http://safemapcozumel.com/restaurants/r_lobsteria.php"><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/anuncioBig.jpg"  alt="" /></a></li>
+     <li><a href="http://safemapcozumel.com/restaurants/playa-azul.php"><img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioEn.jpg"  alt="" /></a></li>
    </ul>
    <br />
    
@@ -241,4 +243,3 @@ $(".category").click(function(){
 </script>
 </body>
 </html>
-

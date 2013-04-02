@@ -118,9 +118,9 @@
 <!-- /////banner/////-->
 <div class="banner_small">
   <div class="idiomas">
-                <a href="http://www.safemapcozumel.com/" class="activo">English</a> 
+                <a href="http://www.safemapcozumel.com/">English</a> 
                 
-                <a href="http://www.safemapcozumel.com/spanish"> | Español</a>
+                <a href="http://www.safemapcozumel.com/spanish" class="activo"> | Español</a>
             </div>
   <div class="wrap">
 
@@ -173,7 +173,7 @@
       <img src="http://safemapcozumel.com/images/anunciantes/coralprincess/banner-es.png"  alt="" />
     </a></li>
     <li><a href="http://safemapcozumel.com/spanish/beach-hotels/playa-azul.php">
-      <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioES.jpg"  alt="" />
+      <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/hplaya-azules.jpg"  alt="" />
     </a></li>
   </ul>
 
@@ -187,6 +187,7 @@
      <li><a href="restaurants/r_ohana.php"><img src="http://www.safemapcozumel.com/images/anunciantes/ohana/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="restaurants/r_punta-morena.php"><img src="http://www.safemapcozumel.com/images/anunciantes/puntamorena/anuncioBig.jpg"  alt="" /></a></li>
      <li><a href="http://safemapcozumel.com/restaurants/r_lobsteria.php"><img src="http://www.safemapcozumel.com/images/anunciantes/lobsteria/anuncioBig.jpg"  alt="" /></a></li>
+     <li><a href="http://safemapcozumel.com/spanish/restaurantes/playa-azul.php"><img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioES.jpg"  alt="" /></a></li>
    </ul>
    <br />
    <h3>Salud</h3><br />
@@ -239,4 +240,3 @@ $(".category").click(function(){
 </script>
 </body>
 </html>
-

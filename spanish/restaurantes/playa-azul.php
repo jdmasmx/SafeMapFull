@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title> PLAYA AZUL Golf Scuba Spa Cozumel</title>
+  <title> Playa Azul Beach club</title>
   <!-- Meta tags -->   
     <meta name="description" content="Safe Map Cozumel is the best map for what to do, where to stay and how to get to Cozumel. We offer the best services on the island for you to enjoy your stay. Safe Map Cozumel provides information on services such as restaurants, beach clubs, hospitals, hotels, cafes, jewelry, crafts, among other quality services and excellent price in cozumel." />
     <meta name="keywords" content="safe, map, cozumel, how to get, where to stay, things to do, restaurants, clinics, tours, dive, snorkel, breakfast, lunch, dinner, sea, food, coffee, drugstore, jewelry, sport, bar, grill, spa, adventure, playa del carmen, cancun, cozumel map, mapa de cozumel" />
@@ -141,28 +141,29 @@
    <div class="left-content">
 
     <div class="title_styling">
-      <h2> PLAYA AZUL Golf Scuba Spa Cozumel</h2>
+      <h2> Playa Azul Beach club</h2>
      
     </div>
-    <h5>Venga y viva la experiencia de la hospitalidad de la gente a quien sí le importa.</h5>
+    <h5>El club de playa de los Cozumeleños</h5>
 
     <div id="advertiser">
       <div class="col1">
-       <a href="http://www.playa-azul.com/" target="_blank"><img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/logo.jpg"></a>
+       <a href="http://www.playa-azul.com/eng/beach-club.cfm" target="_blank"><img src="http://safemapcozumel.com/images/anunciantes/playa-azul/Rlogo.jpg"></a>
       </div>
       <div class="col2">
-        Playa Azul es el único hotel en Cozumel que ofrece golf de cortesía a todos sus huéspedes. El Cozumel Country Club es considerado uno de los mejores campos de golf en la Península de Yucatán y fue diseñado por el Grupo Nicklaus.
+        Una bella playa familiar, donde podrá disfrutar de nuestra cocina con excelentes mariscos y pescados, así como excelentes bebidas.
+Contamos con tienda de buceo!!!
       </div>
     </div>
 
     <div id="advertiser">
       <div class="col1">
-        <a href="http://www.safemapcozumel.com/images/anunciantes/playa-azul/hplaya-azules.jpg" id="banner">
-         <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/hplaya-azules.jpg" width="270">
+        <a href="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioES.jpg" id="banner">
+         <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioES.jpg" width="270">
        </a>
      </div>
      <div class="col2">
-       Somos el sitio perfecto para celebrar su boda, aniversario, luna de miel o de unas espléndidas vacaciones con la familia. Todas nuestras habitaciones, ya sean con balcón o terraza, tienen vista al mar, y todos los días se goza de un espléndido atardecer.
+       
     </div>
   </div>
 
@@ -170,36 +171,36 @@
     <div class="col4">
       <table class="info-advertiser">
         <tr>
-          <td class="campo">Dirección 1:</td> <td class="dato">Carretera a San Juan Km 4</td>
+          <td class="campo">Dirección:</td> <td class="dato">Carretera a San Juan Km 4.5</td>
         </tr>
         <tr>
           <td class="campo">Dirección 2:</td><td class="dato">Zona Hotelera Norte</td>
         </tr>
         <tr>
-          <td class="campo">Teléfono:</td><td class="dato">(987) 869 5160</td>
+          <td class="campo">Teléfono 1:</td><td class="dato">(987) 869 5160</td>
         </tr>
         <tr>
-          <td class="campo">Facebook:</td><td class="dato"><a href="http://www.facebook.com/PlayaAzulHotelCozumel" target="_blank">www.facebook.com/PlayaAzulHotelCozumel</a></td>
+          <td class="campo">Teléfono 2:</td><td class="dato">(987) 869 5170</td>
         </tr>
         <tr>
-          <td class="campo">Twitter:</td><td class="dato"><a href="http://twitter.com/PlayAzulCozumel" target="_blank">www.twitter.com/PlayAzulCozumel</a></td>
+          <td class="campo">Facebook:</td><td class="dato"><a href="https://www.facebook.com/playazulbeachclub?fref=ts" target="_blank">https://www.facebook.com/playazulbeachclub</a></td>
         </tr>
         <tr>
-          <td class="campo">Website:</td><td class="dato"><a href="http://www.playa-azul.com/esp/inicio.cfm" target="_blank">www.playa-azul.com</a></td>
+          <td class="campo">Website:</td><td class="dato"><a href="http://www.playa-azul.com/eng/beach-club.cfm" target="_blank">Playa Azul Beach Club</a></td>
         </tr>
         
         <tr>
           <td colspan="2" class="info-email">
-            <a href="http://safemapcozumel.com/spanish/beach-hotels/playa-azul/" id="contacto">
+            <a href="http://safemapcozumel.com/restaurants/playa-azul/" id="contacto">
               "Envia un Email"
-              <!-- gventas@coralprincess.com --></a>
+              </a>
             </td>
           </tr>
         </table>
       </div>
 
    <div class="col5">
-         <a href="https://maps.google.com/maps?hl=en&amp;cbll=20.54666,-86.928632&amp;layer=c&amp;cbp=12,311.78,,0,8.59&amp;t=h&amp;panoid=bC8xgWe4PhRT-EAZntiS-Q&amp;ie=UTF8&amp;ll=20.54666,-86.928632&amp;spn=0.005043,0.010546&amp;z=17&amp;source=embed&amp;output=svembed" id="mapaVer">
+         <a href="https://maps.google.com/?ie=UTF8&amp;t=m&amp;layer=c&amp;cbll=20.547145,-86.928248&amp;panoid=jWnD85nBnx8pe20GbwA8_g&amp;cbp=13,306.56,,0,6.85&amp;ll=20.54576,-86.927508&amp;spn=0.003155,0.00603&amp;z=17&amp;source=embed&amp;output=svembed" id="mapaVer">
           <img src="http://www.safemapcozumel.com/images/mapa.jpg">
         </a>
       </div>  

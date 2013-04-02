@@ -157,8 +157,8 @@
 
     <div id="advertiser">
       <div class="col1">
-        <a href="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioEn.jpg" id="banner">
-         <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/anuncioEn.jpg" width="270">
+        <a href="http://www.safemapcozumel.com/images/anunciantes/playa-azul/hplaya-azulen.jpg" id="banner">
+         <img src="http://www.safemapcozumel.com/images/anunciantes/playa-azul/hplaya-azulen.jpg" width="270">
        </a>
      </div>
      <div class="col2">
@@ -199,7 +199,7 @@
       </div>
 
    <div class="col5">
-        <a href="https://maps.google.com.mx/maps/ms?msa=0&amp;msid=203173678386505060299.0004d396b1e1a6fac2d79&amp;ie=UTF8&amp;t=m&amp;layer=c&amp;cbll=20.533169,-86.938527&amp;panoid=TGB3ZLnyvveRc0sBMQ1qOQ&amp;cbp=13,307.71,,1,0.44&amp;ll=20.531835,-86.937819&amp;spn=0.003155,0.00603&amp;z=17&amp;source=embed&amp;output=svembed" id="mapaVer">
+         <a href="https://maps.google.com/maps?hl=en&amp;cbll=20.54666,-86.928632&amp;layer=c&amp;cbp=12,311.78,,0,8.59&amp;t=h&amp;panoid=bC8xgWe4PhRT-EAZntiS-Q&amp;ie=UTF8&amp;ll=20.54666,-86.928632&amp;spn=0.005043,0.010546&amp;z=17&amp;source=embed&amp;output=svembed" id="mapaVer">
           <img src="http://www.safemapcozumel.com/images/mapa.jpg">
         </a>
       </div>  
@@ -253,4 +253,3 @@ $(".category").click(function(){
 </script>
 </body>
 </html>
-
